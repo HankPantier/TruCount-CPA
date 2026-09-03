@@ -1,9 +1,88 @@
 {
   "primary": [
-    { "label": "Services", "url": "/services" },
-    { "label": "Pricing Calculator", "url": "/pricing-calculator" },
-    { "label": "About", "url": "/about" },
-    { "label": "Resources", "url": "/resources" },
-    { "label": "Contact", "url": "/contact" }
+    {
+      "url": "/who-we-are",
+      "label": "Who we are"
+    },
+    {
+      "url": "/resources/careers",
+      "label": "Careers"
+    },
+    {
+      "url": "/industries",
+      "label": "Industries we serve",
+      "children": [
+        {
+          "url": "/industries/agriculture",
+          "label": "Agriculture accounting"
+        },
+        {
+          "url": "/industries/service-based-businesses",
+          "label": "Service based business accounting"
+        }
+      ]
+    },
+    {
+      "url": "/services",
+      "label": "Services",
+      "children": [
+        {
+          "url": "/services/outsourced-accounting",
+          "label": "Outsourced accounting department"
+        },
+        {
+          "url": "/services/bookkeeping",
+          "label": "Bookkeeping"
+        },
+        {
+          "url": "/services/payroll",
+          "label": "Payroll"
+        },
+        {
+          "url": "/services/tax",
+          "label": "Tax preparation and planning"
+        },
+        {
+          "url": "/services/personal-income-tax",
+          "label": "Personal income tax"
+        },
+        {
+          "url": "/services/entity-type-analysis",
+          "label": "Entity type analysis"
+        },
+        {
+          "url": "/services/accounting-system-setup",
+          "label": "Accounting system setup"
+        },
+        {
+          "url": "/services/retirement-plan-analysis",
+          "label": "Retirement plan analysis"
+        }
+      ]
+    },
+    {
+      "url": "/resources/resources-library",
+      "label": "Resources library"
+    },
+    {
+      "url": "/resources/forms-documents-and-links",
+      "label": "Forms documents and links"
+    },
+    {
+      "url": "/resources/refund-tracker",
+      "label": "Refund tracker"
+    },
+    {
+      "url": "/resources/video-library",
+      "label": "Video library"
+    },
+    {
+      "url": "/careers/office-coordinator",
+      "label": "Office coordinator"
+    },
+    {
+      "url": "/contact",
+      "label": "Contact"
+    }
   ]
 }
