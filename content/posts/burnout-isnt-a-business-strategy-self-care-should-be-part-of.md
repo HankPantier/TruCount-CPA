@@ -65,7 +65,7 @@ Block time on your calendar for financial review the same way you'd block time f
 
 Set a hard stop for checking business email or the books each evening. Decision fatigue accumulates by the hour, and the decisions you make at 10 p.m. are rarely your best ones.
 
-Hand off the tasks that don't require your specific judgment. Reconciling transactions doesn't need the owner. Deciding whether to expand acreage does.
+Hand off the tasks that don't require your specific judgment. Reconciling transactions doesn't need the owner. Deciding whether to expand acreage does—or [how to budget for labor costs](/resources/the-great-rebalancing-why-the-new-labor-market-demands-a-fin).
 
 Build slower seasons into your actual plan, not just your hope. Farmers already think in seasons. Service businesses can too, by identifying the quieter months and protecting them.
 
