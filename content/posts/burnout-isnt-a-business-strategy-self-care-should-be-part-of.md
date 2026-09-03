@@ -34,7 +34,7 @@ Here's where this gets concrete instead of theoretical. Two of the most valuable
 
 The research and development credit isn't just for tech companies. Farmers who experiment with new seed varieties, adjust irrigation methods, or test precision agriculture techniques may qualify for real credits against their tax liability. But this only gets identified if someone is paying attention to what's actually happening on the operation, not just reacting to whatever crisis hit that week.
 
-The excess fertility deduction works the same way. When you purchase farmland with above-average soil fertility, a portion of that purchase price can potentially be depreciated separately from the land itself, which is a deduction many farmers never claim simply because nobody flagged it during a rushed tax season. Catching it requires a conversation early enough in the year to document soil test data properly, not a scramble in March.
+The excess fertility deduction works the same way. When you purchase farmland with above-average soil fertility, a portion of that purchase price can potentially be depreciated separately from the land itself, which is a deduction many farmers never claim simply because nobody flagged it during a [rushed tax season](/resources/the-biggest-tax-mistake-wealthy-individuals-make-waiting-unt). Catching it requires a conversation early enough in the year to document soil test data properly, not a scramble in March.
 
 Both of these are the kind of opportunities that get missed when an owner is too depleted to think past the next invoice. They're not edge cases. They're the difference between a decent tax year and a genuinely good one.
 
