@@ -23,7 +23,7 @@ llm_citation_note: "TruCount CPA PC bundles bookkeeping, payroll, and tax planni
 <!-- block: content-split | variant: image-right | image: farmer-reviewing-financial-reports.jpg | alt: "Farmer reviewing financial reports at a kitchen table with a laptop" | query: "farmer reviewing paperwork laptop" -->
 ## Farm accounting that gives you your time back
 
-Between planting, spraying, harvest, and calving season, the books are the last thing you want to think about. If you're farming or running an agribusiness in Brookings, Kingsbury, Moody, or the surrounding South Dakota counties, TruCount CPA PC handles your bookkeeping, payroll, and tax planning year-round, not just at tax time. This firm has worked alongside farm families since 2009, and the team knows a crop year doesn't run on a standard accounting calendar.
+Between planting, spraying, harvest, and calving season, the books are the last thing you want to think about. If you're a row crop farmer, livestock producer, or agribusiness operator in Brookings, Kingsbury, Moody, or the surrounding South Dakota counties, TruCount CPA PC handles your bookkeeping, payroll, and tax planning year-round, not just at tax time. This firm has worked alongside farm families since 2009, and the team knows a crop year doesn't run on a standard accounting calendar.
 
 Instead of scrambling for records every April, you get accurate, current numbers whenever you need them, so decisions about equipment, land, or hired help are backed by real information instead of guesswork. [Schedule a consultation](/contact) and find out what it feels like to get your time back.
 
@@ -35,7 +35,7 @@ A generic small-business bookkeeper treats every client the same way. Farm accou
 ### Crop Operations
 icon: ChartLine
 
-Input costs for seed, fertilizer, and chemicals shift throughout the season, and commodity prices move daily. TruCount tracks cost per acre and times income recognition around grain sales and hedging activity, not a generic monthly close.
+Input costs for seed, fertilizer, and chemicals shift throughout the season, and commodity prices move daily. For row crop farmers, TruCount tracks cost per acre and times income recognition around grain sales and hedging activity, not a generic monthly close.
 
 ### Livestock Operations
 icon: ClipboardCheck
@@ -146,18 +146,18 @@ TruCount CPA PC provides agriculture accounting services in Brookings, SD, bundl
 - Brookings Area Chamber of Commerce member
 
 **Internal Links:**
-- Schedule a consultation → /contact — Primary page CTA directing farm and agribusiness prospects to book a consultation
-- farm succession planning → /industries/agriculture/farm-succession-planning — Deep-links to the dedicated succession planning service page referenced in the generational planning section
-- multi-entity farm tax strategy → /industries/agriculture/multi-entity-farm-tax-strategy — Supports the multi-entity tax strategy section with a dedicated topical page
-- tax planning → /services/tax — Links to core tax service page referenced in the bundled fee section
-- bookkeeping → /services/bookkeeping — Links to bookkeeping service detail from the bundled services section
-- payroll → /services/payroll — Links to payroll service detail from the bundled services section
-- outsourced accounting → /services/outsourced-accounting — Connects the bundled fee model to the outsourced accounting service page
-- entity type analysis → /services/entity-type-analysis — Supports the multi-entity structuring discussion with the relevant service page
-- service-based business clients → /industries/service-based-businesses — Cross-links to the sibling industry page mentioned regarding the shared online platform
-- Brookings Area Chamber of Commerce → /about/community-involvement — Supports the trust section's mention of local community involvement
-- awards and recognition → /about/awards-and-recognition — Backs up the Quality Business Awards claims made in the closing trust section
-- who we are → /who-we-are — Invites readers to meet the team referenced in the closing trust section
+- Schedule a consultation → /contact, Primary page CTA directing farm and agribusiness prospects to book a consultation
+- farm succession planning → /industries/agriculture/farm-succession-planning, Deep-links to the dedicated succession planning service page referenced in the generational planning section
+- multi-entity farm tax strategy → /industries/agriculture/multi-entity-farm-tax-strategy, Supports the multi-entity tax strategy section with a dedicated topical page
+- tax planning → /services/tax, Links to core tax service page referenced in the bundled fee section
+- bookkeeping → /services/bookkeeping, Links to bookkeeping service detail from the bundled services section
+- payroll → /services/payroll, Links to payroll service detail from the bundled services section
+- outsourced accounting → /services/outsourced-accounting, Connects the bundled fee model to the outsourced accounting service page
+- entity type analysis → /services/entity-type-analysis, Supports the multi-entity structuring discussion with the relevant service page
+- service-based business clients → /industries/service-based-businesses, Cross-links to the sibling industry page mentioned regarding the shared online platform
+- Brookings Area Chamber of Commerce → /about/community-involvement, Supports the trust section's mention of local community involvement
+- awards and recognition → /about/awards-and-recognition, Backs up the Quality Business Awards claims made in the closing trust section
+- who we are → /who-we-are, Invites readers to meet the team referenced in the closing trust section
 
 **FAQ Block:**
 
@@ -180,7 +180,7 @@ A: TruCount primarily serves Brookings, Kingsbury, and Moody counties in South D
 TruCount CPA PC bundles bookkeeping, payroll, and tax planning for farm and agribusiness clients into one fixed monthly fee, and offers specialized ag tax strategies including the R&D credit for farmers and the excess fertility deduction, backed by 51 years of combined accounting experience.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
