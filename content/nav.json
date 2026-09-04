@@ -1,28 +1,30 @@
 {
   "primary": [
     {
-      "label": "Who we are",
-      "url": "/who-we-are"
-    },
-    {
-      "label": "Careers",
-      "url": "/resources/careers"
-    },
-    {
       "label": "Industries we serve",
-      "url": "/industries",
+      "url": "/who-we-are/industries",
       "children": [
         {
           "label": "Farmers & Crop Producers",
-          "url": "/industries/farmers"
+          "url": "/who-we-are/industries/farmers"
         },
         {
           "label": "Service based business accounting",
-          "url": "/industries/service-based-businesses"
+          "url": "/who-we-are/industries/service-based-businesses"
         },
         {
           "label": "Agribusiness Operations",
-          "url": "/agribusiness"
+          "url": "/who-we-are/industries/agribusiness"
+        }
+      ]
+    },
+    {
+      "label": "Who we are",
+      "url": "/who-we-are/industries/who-we-are",
+      "children": [
+        {
+          "label": "Careers",
+          "url": "/who-we-are/industries/who-we-are/careers"
         }
       ]
     },
@@ -31,7 +33,7 @@
       "url": "/services",
       "children": [
         {
-          "label": "Outsourced accounting department",
+          "label": "Outsourced accounting",
           "url": "/services/outsourced-accounting"
         },
         {
