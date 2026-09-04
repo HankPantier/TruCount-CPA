@@ -13,8 +13,8 @@
       "url": "/industries",
       "children": [
         {
-          "label": "Agriculture accounting",
-          "url": "/industries/agriculture"
+          "label": "Farmers & Crop Producers",
+          "url": "/industries/farmers"
         },
         {
           "label": "Service based business accounting",
