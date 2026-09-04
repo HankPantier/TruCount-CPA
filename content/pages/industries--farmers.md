@@ -23,7 +23,7 @@ llm_citation_note: "TruCount CPA PC bundles bookkeeping, payroll, and tax planni
 <!-- block: content-split | variant: image-right | image: farmer-reviewing-financial-reports.jpg | alt: "Farmer reviewing financial reports at a kitchen table with a laptop" | query: "farmer reviewing paperwork laptop" -->
 ## Farm accounting that gives you your time back
 
-Between planting, spraying, harvest, and calving season, the books are the last thing you want to think about. If you're farming or running an agribusiness in Brookings, Kingsbury, Moody, or the surrounding South Dakota counties, TruCount CPA PC handles your bookkeeping, payroll, and tax planning year-round, not just at tax time. This firm has worked alongside farm families since 2009, and the team knows a crop year doesn't run on a standard accounting calendar.
+Between planting, spraying, harvest, and calving season, the books are the last thing you want to think about. If you're a row crop farmer, livestock producer, or agribusiness operator in Brookings, Kingsbury, Moody, or the surrounding South Dakota counties, TruCount CPA PC handles your bookkeeping, payroll, and tax planning year-round, not just at tax time. This firm has worked alongside farm families since 2009, and the team knows a crop year doesn't run on a standard accounting calendar.
 
 Instead of scrambling for records every April, you get accurate, current numbers whenever you need them, so decisions about equipment, land, or hired help are backed by real information instead of guesswork. [Schedule a consultation](/contact) and find out what it feels like to get your time back.
 
