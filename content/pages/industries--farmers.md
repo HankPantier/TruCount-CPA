@@ -4,7 +4,7 @@ url: "/industries/agriculture"
 meta_title: "Agriculture Accounting Services Brookings SD | TruCount"
 meta_description: "Agriculture accounting services in Brookings, SD from TruCount CPA PC. Bundled bookkeeping, payroll, and tax planning for South Dakota farmers and agribusiness."
 target_keyword: "agriculture accounting services Brookings SD"
-secondary_keywords: ["farm accountant Brookings South Dakota","agricultural bookkeeping services near me","agribusiness CPA Brookings","farm tax planning South Dakota","agricultural payroll services Brookings","crop operation accounting services","livestock accounting Brookings","agricultural entity setup South Dakota","farm business tax advisor Brookings","agribusiness tax planning South Dakota"]
+secondary_keywords: ["farm accountant Brookings South Dakota","agricultural bookkeeping services near me","row crop farm accountant South Dakota","farm tax planning South Dakota","agricultural payroll services Brookings","crop operation accounting services","livestock accounting Brookings","agricultural entity setup South Dakota","farm business tax advisor Brookings","cattle farm accounting South Dakota"]
 canonical_url: "https://trucountcpa.com/industries/agriculture"
 schema_markup: "Service"
 hero: "hero-split"
