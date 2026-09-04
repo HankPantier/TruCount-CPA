@@ -4,3 +4,4 @@
 # Lines starting with # are ignored by the Next.js redirect loader.
 old_url,new_url,status_code,reason
 /industries/agriculture/multi-entity-farm-tax-strategy,/industries/farmers/multi-entity-farm-tax-strategy,301,Relocated via AI
+/industries/agriculture,/industries/farmers,301,Relocated via AI
