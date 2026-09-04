@@ -1,7 +1,7 @@
 {
   "version": 1,
   "currency": "USD",
-  "intro": "Simple, transparent plans that scale with your business. Choose the level of support that fits where you are today.",
+  "intro": "Every client gets a dedicated team, a consistent monthly process, and a relationship built around their operation — not a generic checklist.",
   "billing": {
     "showToggle": true,
     "defaultCadence": "monthly",
@@ -20,27 +20,27 @@
       "isMostPopular": false,
       "features": [
         {
-          "id": "bookkeeping",
+          "id": "monthly-bookkeeping-reconciliation",
           "label": "Monthly bookkeeping & reconciliation",
           "included": true
         },
         {
-          "id": "statements",
+          "id": "financial-statements",
           "label": "Financial statements",
           "included": true
         },
         {
-          "id": "tax-filing",
+          "id": "annual-business-tax-filing",
           "label": "Annual business tax filing",
           "included": true
         },
         {
-          "id": "advisory",
+          "id": "quarterly-advisory-call",
           "label": "Quarterly advisory call",
           "included": false
         },
         {
-          "id": "cfo",
+          "id": "fractional-cfo-support",
           "label": "Fractional CFO support",
           "included": false
         }
@@ -60,27 +60,27 @@
       "isMostPopular": true,
       "features": [
         {
-          "id": "bookkeeping",
+          "id": "monthly-bookkeeping-reconciliation",
           "label": "Monthly bookkeeping & reconciliation",
           "included": true
         },
         {
-          "id": "statements",
+          "id": "financial-statements",
           "label": "Financial statements",
           "included": true
         },
         {
-          "id": "tax-filing",
+          "id": "business-owner-tax-filing",
           "label": "Business & owner tax filing",
           "included": true
         },
         {
-          "id": "advisory",
+          "id": "quarterly-advisory-call",
           "label": "Quarterly advisory call",
           "included": true
         },
         {
-          "id": "cfo",
+          "id": "fractional-cfo-support",
           "label": "Fractional CFO support",
           "included": false
         }
@@ -100,27 +100,27 @@
       "isMostPopular": false,
       "features": [
         {
-          "id": "bookkeeping",
+          "id": "monthly-bookkeeping-reconciliation",
           "label": "Monthly bookkeeping & reconciliation",
           "included": true
         },
         {
-          "id": "statements",
+          "id": "financial-statements",
           "label": "Financial statements",
           "included": true
         },
         {
-          "id": "tax-filing",
+          "id": "business-owner-tax-filing",
           "label": "Business & owner tax filing",
           "included": true
         },
         {
-          "id": "advisory",
+          "id": "monthly-advisory-call",
           "label": "Monthly advisory call",
           "included": true
         },
         {
-          "id": "cfo",
+          "id": "fractional-cfo-support",
           "label": "Fractional CFO support",
           "included": true
         }
@@ -142,7 +142,7 @@
   },
   "addOns": [
     {
-      "id": "payroll",
+      "id": "payroll-processing",
       "label": "Payroll processing",
       "type": "flat",
       "price": 99,
@@ -150,7 +150,7 @@
       "description": "Run payroll, filings, and year-end forms."
     },
     {
-      "id": "catch-up",
+      "id": "catch-up-bookkeeping",
       "label": "Catch-up bookkeeping",
       "type": "flat",
       "price": 500,
