@@ -100,7 +100,7 @@ Ask a question, upload a document, or check cash flow before an equipment purcha
 <!-- block: stats-bar | variant: 3-up -->
 ## Work with a firm that knows Midwest agriculture
 
-TruCount CPA PC has worked with farm families and agribusiness operators in South Dakota since 2009. Kristy and Brandi have each spent 13 years with the firm, bringing 51 years of combined accounting experience to every reconciliation and every return. The firm was named among the Best Accountants in Brookings, South Dakota and Best Bookkeepers in Brookings, South Dakota for 2025 by Quality Business Awards, and shows up every year at Ag Women's Day and [Brookings Area Chamber of Commerce](/about/community-involvement) events because farming is part of this community, not an industry studied from a distance.
+TruCount CPA PC has worked with farm families across South Dakota since 2009. Kristy and Brandi have each spent 13 years with the firm, bringing 51 years of combined accounting experience to every reconciliation and every return. The firm was named among the Best Accountants in Brookings, South Dakota and Best Bookkeepers in Brookings, South Dakota for 2025 by Quality Business Awards, and shows up every year at Ag Women's Day and [Brookings Area Chamber of Commerce](/about/community-involvement) events because farming is part of this community, not an industry studied from a distance.
 
 See the full list of recognitions on the [awards and recognition](/about/awards-and-recognition) page, or meet the team on [who we are](/who-we-are).
 
