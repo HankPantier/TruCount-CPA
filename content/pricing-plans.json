@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "currency": "USD",
+  "intro": "Every client gets a dedicated team, a consistent monthly process, and a relationship built around their operation — not a generic checklist.",
+  "billing": {
+    "showToggle": true,
+    "defaultCadence": "monthly",
+    "annualDiscountPct": 15,
+    "monthlyLabel": "Monthly",
+    "annualLabel": "Annual"
+  },
+  "tiers": [
+    {
+      "id": "starter",
+      "name": "Starter",
+      "description": "Clean books and the essentials, handled.",
+      "monthlyPrice": 299,
+      "annualPrice": 254,
+      "priceSuffix": "/mo",
+      "isMostPopular": false,
+      "features": [
+        {
+          "id": "monthly-bookkeeping-reconciliation",
+          "label": "Monthly bookkeeping & reconciliation",
+          "included": true
+        },
+        {
+          "id": "financial-statements",
+          "label": "Financial statements",
+          "included": true
+        },
+        {
+          "id": "annual-business-tax-filing",
+          "label": "Annual business tax filing",
+          "included": true
+        },
+        {
+          "id": "quarterly-advisory-call",
+          "label": "Quarterly advisory call",
+          "included": false
+        },
+        {
+          "id": "fractional-cfo-support",
+          "label": "Fractional CFO support",
+          "included": false
+        }
+      ],
+      "cta": {
+        "label": "Get started",
+        "url": "/contact"
+      }
+    },
+    {
+      "id": "growth",
+      "name": "Growth",
+      "description": "Proactive support for a growing business.",
+      "monthlyPrice": 599,
+      "annualPrice": 509,
+      "priceSuffix": "/mo",
+      "isMostPopular": true,
+      "features": [
+        {
+          "id": "monthly-bookkeeping-reconciliation",
+          "label": "Monthly bookkeeping & reconciliation",
+          "included": true
+        },
+        {
+          "id": "financial-statements",
+          "label": "Financial statements",
+          "included": true
+        },
+        {
+          "id": "business-owner-tax-filing",
+          "label": "Business & owner tax filing",
+          "included": true
+        },
+        {
+          "id": "quarterly-advisory-call",
+          "label": "Quarterly advisory call",
+          "included": true
+        },
+        {
+          "id": "fractional-cfo-support",
+          "label": "Fractional CFO support",
+          "included": false
+        }
+      ],
+      "cta": {
+        "label": "Get started",
+        "url": "/contact"
+      }
+    },
+    {
+      "id": "premier",
+      "name": "Premier",
+      "description": "Strategic finance leadership on demand.",
+      "monthlyPrice": 1200,
+      "annualPrice": 1020,
+      "priceSuffix": "/mo",
+      "isMostPopular": false,
+      "features": [
+        {
+          "id": "monthly-bookkeeping-reconciliation",
+          "label": "Monthly bookkeeping & reconciliation",
+          "included": true
+        },
+        {
+          "id": "financial-statements",
+          "label": "Financial statements",
+          "included": true
+        },
+        {
+          "id": "business-owner-tax-filing",
+          "label": "Business & owner tax filing",
+          "included": true
+        },
+        {
+          "id": "monthly-advisory-call",
+          "label": "Monthly advisory call",
+          "included": true
+        },
+        {
+          "id": "fractional-cfo-support",
+          "label": "Fractional CFO support",
+          "included": true
+        }
+      ],
+      "cta": {
+        "label": "Book a consultation",
+        "url": "/contact"
+      }
+    }
+  ],
+  "sharedFeatures": {
+    "heading": "All plans include",
+    "items": [
+      "A dedicated accountant who knows your business",
+      "Secure cloud document portal",
+      "Responsive email & phone support",
+      "Year-round tax planning"
+    ]
+  },
+  "addOns": [
+    {
+      "id": "payroll-processing",
+      "label": "Payroll processing",
+      "type": "flat",
+      "price": 99,
+      "cadence": "month",
+      "description": "Run payroll, filings, and year-end forms."
+    },
+    {
+      "id": "catch-up-bookkeeping",
+      "label": "Catch-up bookkeeping",
+      "type": "flat",
+      "price": 500,
+      "cadence": "once",
+      "description": "Bring prior months current before we begin."
+    }
+  ],
+  "disclaimer": "Plans are a starting point — your final quote depends on the specifics of your engagement. Contact us for a tailored proposal.",
+  "cta": {
+    "label": "Book a consultation",
+    "url": "/contact"
+  }
+}
