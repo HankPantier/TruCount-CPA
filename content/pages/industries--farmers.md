@@ -334,10 +334,6 @@ TruCount CPA PC bundles bookkeeping, payroll, and tax planning for farm and agri
     },
     {
       "@type": "Audience",
-      "audienceType": "Agribusiness Operators"
-    },
-    {
-      "@type": "Audience",
       "audienceType": "Professional Services"
     }
   ]
