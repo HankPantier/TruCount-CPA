@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "currency": "USD",
+  "intro": "Simple, transparent plans that scale with your business. Choose the level of support that fits where you are today.",
+  "billing": {
+    "showToggle": true,
+    "defaultCadence": "monthly",
+    "annualDiscountPct": 15,
+    "monthlyLabel": "Monthly",
+    "annualLabel": "Annual"
+  },
+  "tiers": [
+    {
+      "id": "starter",
+      "name": "Starter",
+      "description": "Clean books and the essentials, handled.",
+      "monthlyPrice": 299,
+      "annualPrice": 254,
+      "priceSuffix": "/mo",
+      "isMostPopular": false,
+      "features": [
+        {
+          "id": "bookkeeping",
+          "label": "Monthly bookkeeping & reconciliation",
+          "included": true
+        },
+        {
+          "id": "statements",
+          "label": "Financial statements",
+          "included": true
+        },
+        {
+          "id": "tax-filing",
+          "label": "Annual business tax filing",
+          "included": true
+        },
+        {
+          "id": "advisory",
+          "label": "Quarterly advisory call",
+          "included": false
+        },
+        {
+          "id": "cfo",
+          "label": "Fractional CFO support",
+          "included": false
+        }
+      ],
+      "cta": {
+        "label": "Get started",
+        "url": "/contact"
+      }
+    },
+    {
+      "id": "growth",
+      "name": "Growth",
+      "description": "Proactive support for a growing business.",
+      "monthlyPrice": 599,
+      "annualPrice": 509,
+      "priceSuffix": "/mo",
+      "isMostPopular": true,
+      "features": [
+        {
+          "id": "bookkeeping",
+          "label": "Monthly bookkeeping & reconciliation",
+          "included": true
+        },
+        {
+          "id": "statements",
+          "label": "Financial statements",
+          "included": true
+        },
+        {
+          "id": "tax-filing",
+          "label": "Business & owner tax filing",
+          "included": true
+        },
+        {
+          "id": "advisory",
+          "label": "Quarterly advisory call",
+          "included": true
+        },
+        {
+          "id": "cfo",
+          "label": "Fractional CFO support",
+          "included": false
+        }
+      ],
+      "cta": {
+        "label": "Get started",
+        "url": "/contact"
+      }
+    },
+    {
+      "id": "premier",
+      "name": "Premier",
+      "description": "Strategic finance leadership on demand.",
+      "monthlyPrice": 1200,
+      "annualPrice": 1020,
+      "priceSuffix": "/mo",
+      "isMostPopular": false,
+      "features": [
+        {
+          "id": "bookkeeping",
+          "label": "Monthly bookkeeping & reconciliation",
+          "included": true
+        },
+        {
+          "id": "statements",
+          "label": "Financial statements",
+          "included": true
+        },
+        {
+          "id": "tax-filing",
+          "label": "Business & owner tax filing",
+          "included": true
+        },
+        {
+          "id": "advisory",
+          "label": "Monthly advisory call",
+          "included": true
+        },
+        {
+          "id": "cfo",
+          "label": "Fractional CFO support",
+          "included": true
+        }
+      ],
+      "cta": {
+        "label": "Book a consultation",
+        "url": "/contact"
+      }
+    }
+  ],
+  "sharedFeatures": {
+    "heading": "All plans include",
+    "items": [
+      "A dedicated accountant who knows your business",
+      "Secure cloud document portal",
+      "Responsive email & phone support",
+      "Year-round tax planning"
+    ]
+  },
+  "addOns": [
+    {
+      "id": "payroll",
+      "label": "Payroll processing",
+      "type": "flat",
+      "price": 99,
+      "cadence": "month",
+      "description": "Run payroll, filings, and year-end forms."
+    },
+    {
+      "id": "catch-up",
+      "label": "Catch-up bookkeeping",
+      "type": "flat",
+      "price": 500,
+      "cadence": "once",
+      "description": "Bring prior months current before we begin."
+    }
+  ],
+  "disclaimer": "Plans are a starting point — your final quote depends on the specifics of your engagement. Contact us for a tailored proposal.",
+  "cta": {
+    "label": "Book a consultation",
+    "url": "/contact"
+  }
+}
