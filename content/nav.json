@@ -1,88 +1,92 @@
 {
   "primary": [
     {
-      "url": "/who-we-are",
-      "label": "Who we are"
+      "label": "Who we are",
+      "url": "/who-we-are"
     },
     {
-      "url": "/resources/careers",
-      "label": "Careers"
+      "label": "Careers",
+      "url": "/resources/careers"
     },
     {
-      "url": "/industries",
       "label": "Industries we serve",
+      "url": "/industries",
       "children": [
         {
-          "url": "/industries/agriculture",
-          "label": "Agriculture accounting"
+          "label": "Agriculture accounting",
+          "url": "/industries/agriculture"
         },
         {
-          "url": "/industries/service-based-businesses",
-          "label": "Service based business accounting"
+          "label": "Service based business accounting",
+          "url": "/industries/service-based-businesses"
         }
       ]
     },
     {
-      "url": "/services",
       "label": "Services",
+      "url": "/services",
       "children": [
         {
-          "url": "/services/outsourced-accounting",
-          "label": "Outsourced accounting department"
+          "label": "Outsourced accounting department",
+          "url": "/services/outsourced-accounting"
         },
         {
-          "url": "/services/bookkeeping",
-          "label": "Bookkeeping"
+          "label": "Bookkeeping",
+          "url": "/services/bookkeeping"
         },
         {
-          "url": "/services/payroll",
-          "label": "Payroll"
+          "label": "Payroll",
+          "url": "/services/payroll"
         },
         {
-          "url": "/services/tax",
-          "label": "Tax preparation and planning"
+          "label": "Tax preparation and planning",
+          "url": "/services/tax"
         },
         {
-          "url": "/services/personal-income-tax",
-          "label": "Personal income tax"
+          "label": "Personal income tax",
+          "url": "/services/personal-income-tax"
         },
         {
-          "url": "/services/entity-type-analysis",
-          "label": "Entity type analysis"
+          "label": "Entity type analysis",
+          "url": "/services/entity-type-analysis"
         },
         {
-          "url": "/services/accounting-system-setup",
-          "label": "Accounting system setup"
+          "label": "Accounting system setup",
+          "url": "/services/accounting-system-setup"
         },
         {
-          "url": "/services/retirement-plan-analysis",
-          "label": "Retirement plan analysis"
+          "label": "Retirement plan analysis",
+          "url": "/services/retirement-plan-analysis"
         }
       ]
     },
     {
-      "url": "/resources/resources-library",
-      "label": "Resources library"
+      "label": "Resources library",
+      "url": "/resources/resources-library"
     },
     {
-      "url": "/resources/forms-documents-and-links",
-      "label": "Forms documents and links"
+      "label": "Forms documents and links",
+      "url": "/resources/forms-documents-and-links"
     },
     {
-      "url": "/resources/refund-tracker",
-      "label": "Refund tracker"
+      "label": "Refund tracker",
+      "url": "/resources/refund-tracker"
     },
     {
-      "url": "/resources/video-library",
-      "label": "Video library"
+      "label": "Video library",
+      "url": "/resources/video-library"
     },
     {
-      "url": "/careers/office-coordinator",
-      "label": "Office coordinator"
+      "label": "Office coordinator",
+      "url": "/careers/office-coordinator"
     },
     {
-      "url": "/contact",
-      "label": "Contact"
+      "label": "Contact",
+      "url": "/contact"
+    },
+    {
+      "label": "Pricing",
+      "url": "/pricing"
     }
   ]
 }
