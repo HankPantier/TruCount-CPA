@@ -3,7 +3,7 @@
   "currency": "USD",
   "intro": "Every client gets a dedicated team, a consistent monthly process, and a relationship built around their operation — not a generic checklist.",
   "billing": {
-    "showToggle": true,
+    "showToggle": false,
     "defaultCadence": "monthly",
     "annualDiscountPct": 15,
     "monthlyLabel": "Monthly",
@@ -58,29 +58,29 @@
       "isMostPopular": true,
       "features": [
         {
-          "id": "ever",
-          "label": "Ever",
+          "id": "everything-in-foundation-plus",
+          "label": "Everything in Foundation, plus:",
           "included": true
         },
         {
-          "id": "financial-statements",
-          "label": "Financial statements",
+          "id": "quarterly-financial-review-calls",
+          "label": "Quarterly financial review calls",
           "included": true
         },
         {
-          "id": "business-owner-tax-filing",
-          "label": "Business & owner tax filing",
+          "id": "accounts-payable-receipt-management",
+          "label": "Accounts payable & receipt management",
           "included": true
         },
         {
-          "id": "quarterly-advisory-call",
-          "label": "Quarterly advisory call",
+          "id": "sales-tax",
+          "label": "Sales tax",
           "included": true
         },
         {
-          "id": "fractional-cfo-support",
-          "label": "Fractional CFO support",
-          "included": false
+          "id": "quarterly-financial-statements",
+          "label": "Quarterly financial statements",
+          "included": true
         }
       ],
       "cta": {
@@ -89,27 +89,16 @@
       }
     },
     {
-      "id": "premier",
-      "name": "Premier",
-      "description": "Strategic finance leadership on demand.",
-      "monthlyPrice": 1200,
-      "annualPrice": 1020,
-      "priceSuffix": "/mo",
+      "id": "fractional-cfo",
+      "name": "Fractional CFO",
+      "description": "Your numbers driving your strategy",
+      "monthlyPrice": 0,
+      "annualPrice": 0,
       "isMostPopular": false,
       "features": [
         {
-          "id": "monthly-bookkeeping-reconciliation",
-          "label": "Monthly bookkeeping & reconciliation",
-          "included": true
-        },
-        {
-          "id": "financial-statements",
-          "label": "Financial statements",
-          "included": true
-        },
-        {
-          "id": "business-owner-tax-filing",
-          "label": "Business & owner tax filing",
+          "id": "everything-in-controller-plus",
+          "label": "Everything in Controller, plus:",
           "included": true
         },
         {
@@ -118,8 +107,18 @@
           "included": true
         },
         {
-          "id": "fractional-cfo-support",
-          "label": "Fractional CFO support",
+          "id": "annual-budgeting-cash-flow-projections",
+          "label": "Annual budgeting & cash flow projections",
+          "included": true
+        },
+        {
+          "id": "monthly-financial-statements",
+          "label": "Monthly financial statements",
+          "included": true
+        },
+        {
+          "id": "coordination-with-your-other-advisors",
+          "label": "Coordination with your other advisors",
           "included": true
         }
       ],
