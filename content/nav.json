@@ -6,11 +6,13 @@
       "children": [
         {
           "label": "Outsourced accounting",
-          "url": "/services/outsourced-accounting"
-        },
-        {
-          "label": "Bookkeeping",
-          "url": "/services/bookkeeping"
+          "url": "/services/outsourced-accounting",
+          "children": [
+            {
+              "label": "Bookkeeping",
+              "url": "/services/outsourced-accounting/bookkeeping"
+            }
+          ]
         },
         {
           "label": "Payroll",
