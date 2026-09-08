@@ -14,8 +14,9 @@
       "id": "foundation",
       "name": "Foundation",
       "description": "Your books, done right every month",
-      "monthlyPrice": 0,
+      "monthlyPrice": 500,
       "annualPrice": 0,
+      "priceSuffix": "/month",
       "isMostPopular": false,
       "features": [
         {
@@ -53,8 +54,9 @@
       "id": "outsourced-controller",
       "name": "Outsourced Controller",
       "description": "Your books plus a financial partner",
-      "monthlyPrice": 0,
+      "monthlyPrice": 800,
       "annualPrice": 0,
+      "priceSuffix": "/month",
       "isMostPopular": true,
       "features": [
         {
@@ -139,23 +141,30 @@
   },
   "addOns": [
     {
-      "id": "payroll-processing",
-      "label": "Payroll processing",
+      "id": "individual-tax-services",
+      "label": "Individual Tax Services",
       "type": "flat",
       "price": 99,
       "cadence": "month",
       "description": "Run payroll, filings, and year-end forms."
     },
     {
-      "id": "catch-up-bookkeeping",
-      "label": "Catch-up bookkeeping",
+      "id": "business-tax-services",
+      "label": "Business Tax Services",
       "type": "flat",
-      "price": 500,
-      "cadence": "once",
+      "price": 250,
+      "cadence": "month",
       "description": "Bring prior months current before we begin."
+    },
+    {
+      "id": "payroll-services",
+      "label": "Payroll Services",
+      "type": "flat",
+      "price": 250,
+      "cadence": "month"
     }
   ],
-  "disclaimer": "Plans are a starting point — your final quote depends on the specifics of your engagement. Contact us for a tailored proposal.",
+  "disclaimer": "Important:\n- Packages are tailored to your operation — we’ll recommend what fits, not what’s easiest for us. \n- Initial setup fee equals one month’s investment. Significant cleanup may cost more — we’ll always tell you upfront. \n- Most clients combine an accounting package with payroll and tax — one team, everything connected. \n- Software (QuickBooks, etc.) is billed at cost.",
   "cta": {
     "label": "Book a consultation",
     "url": "/contact"
