@@ -35,6 +35,10 @@
         {
           "label": "Retirement plan analysis",
           "url": "/services/retirement-plan-analysis"
+        },
+        {
+          "label": "Advisory Services",
+          "url": "/services/advisory-services"
         }
       ]
     },
