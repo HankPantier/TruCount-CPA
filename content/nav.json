@@ -6,39 +6,43 @@
       "children": [
         {
           "label": "Outsourced accounting",
-          "url": "/services/outsourced-accounting"
-        },
-        {
-          "label": "Bookkeeping",
-          "url": "/services/bookkeeping"
-        },
-        {
-          "label": "Payroll",
-          "url": "/services/payroll"
-        },
-        {
-          "label": "Tax preparation and planning",
-          "url": "/services/tax"
+          "url": "/services/outsourced-accounting",
+          "children": [
+            {
+              "label": "Bookkeeping",
+              "url": "/services/outsourced-accounting/bookkeeping"
+            },
+            {
+              "label": "Payroll",
+              "url": "/services/outsourced-accounting/payroll"
+            },
+            {
+              "label": "Tax preparation and planning",
+              "url": "/services/outsourced-accounting/tax"
+            }
+          ]
         },
         {
           "label": "Personal income tax",
           "url": "/services/personal-income-tax"
         },
         {
-          "label": "Entity type analysis",
-          "url": "/services/entity-type-analysis"
-        },
-        {
-          "label": "Accounting system setup",
-          "url": "/services/accounting-system-setup"
-        },
-        {
-          "label": "Retirement plan analysis",
-          "url": "/services/retirement-plan-analysis"
-        },
-        {
           "label": "Advisory Services",
-          "url": "/services/advisory-services"
+          "url": "/services/advisory-services",
+          "children": [
+            {
+              "label": "Entity type analysis",
+              "url": "/services/advisory-services/entity-type-analysis"
+            },
+            {
+              "label": "Retirement plan analysis",
+              "url": "/services/advisory-services/retirement-plan-analysis"
+            },
+            {
+              "label": "Accounting system setup",
+              "url": "/services/advisory-services/accounting-system-setup"
+            }
+          ]
         }
       ]
     },

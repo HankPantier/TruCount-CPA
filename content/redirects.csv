@@ -11,3 +11,9 @@ old_url,new_url,status_code,reason
 /resources/forms-documents-and-links,/resources/resources-library/forms-documents-and-links,301,Nested via nav editor
 /resources/refund-tracker,/resources/resources-library/refund-tracker,301,Nested via nav editor
 /resources/video-library,/resources/resources-library/video-library,301,Nested via nav editor
+/services/bookkeeping,/services/outsourced-accounting/bookkeeping,301,Nested via nav editor
+/services/payroll,/services/outsourced-accounting/payroll,301,Nested via nav editor
+/services/tax,/services/outsourced-accounting/tax,301,Nested via nav editor
+/services/entity-type-analysis,/services/advisory-services/entity-type-analysis,301,Nested via nav editor
+/services/retirement-plan-analysis,/services/advisory-services/retirement-plan-analysis,301,Nested via nav editor
+/services/accounting-system-setup,/services/advisory-services/accounting-system-setup,301,Nested via nav editor
