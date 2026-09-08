@@ -5,3 +5,9 @@
 old_url,new_url,status_code,reason
 /industries/agriculture/multi-entity-farm-tax-strategy,/industries/farmers/multi-entity-farm-tax-strategy,301,Relocated via AI
 /industries/agriculture,/industries/farmers,301,Relocated via AI
+/agribusiness,/who-we-are/industries/agribusiness,301,Nested via nav editor
+/who-we-are,/who-we-are/industries/who-we-are,301,Nested via nav editor
+/resources/careers,/who-we-are/industries/who-we-are/careers,301,Nested via nav editor
+/resources/forms-documents-and-links,/resources/resources-library/forms-documents-and-links,301,Nested via nav editor
+/resources/refund-tracker,/resources/resources-library/refund-tracker,301,Nested via nav editor
+/resources/video-library,/resources/resources-library/video-library,301,Nested via nav editor
