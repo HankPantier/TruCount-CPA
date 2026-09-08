@@ -1,34 +1,6 @@
 {
   "primary": [
     {
-      "label": "Industries we serve",
-      "url": "/who-we-are/industries",
-      "children": [
-        {
-          "label": "Farmers & Crop Producers",
-          "url": "/who-we-are/industries/farmers"
-        },
-        {
-          "label": "Service based business accounting",
-          "url": "/who-we-are/industries/service-based-businesses"
-        },
-        {
-          "label": "Agribusiness Operations",
-          "url": "/who-we-are/industries/agribusiness"
-        }
-      ]
-    },
-    {
-      "label": "Who we are",
-      "url": "/who-we-are/industries/who-we-are",
-      "children": [
-        {
-          "label": "Careers",
-          "url": "/who-we-are/industries/who-we-are/careers"
-        }
-      ]
-    },
-    {
       "label": "Services",
       "url": "/services",
       "children": [
@@ -67,32 +39,58 @@
       ]
     },
     {
-      "label": "Resources library",
-      "url": "/resources/resources-library"
+      "label": "Industries we serve",
+      "url": "/who-we-are/industries",
+      "children": [
+        {
+          "label": "Farmers & Crop Producers",
+          "url": "/who-we-are/industries/farmers"
+        },
+        {
+          "label": "Service based business accounting",
+          "url": "/who-we-are/industries/service-based-businesses"
+        },
+        {
+          "label": "Agribusiness Operations",
+          "url": "/who-we-are/industries/agribusiness"
+        }
+      ]
     },
     {
-      "label": "Forms documents and links",
-      "url": "/resources/forms-documents-and-links"
-    },
-    {
-      "label": "Refund tracker",
-      "url": "/resources/refund-tracker"
-    },
-    {
-      "label": "Video library",
-      "url": "/resources/video-library"
-    },
-    {
-      "label": "Office coordinator",
-      "url": "/careers/office-coordinator"
-    },
-    {
-      "label": "Contact",
-      "url": "/contact"
+      "label": "Who we are",
+      "url": "/who-we-are/industries/who-we-are",
+      "children": [
+        {
+          "label": "Careers",
+          "url": "/who-we-are/industries/who-we-are/careers"
+        }
+      ]
     },
     {
       "label": "Pricing",
       "url": "/pricing"
+    },
+    {
+      "label": "Resources library",
+      "url": "/resources/resources-library",
+      "children": [
+        {
+          "label": "Forms documents and links",
+          "url": "/resources/resources-library/forms-documents-and-links"
+        },
+        {
+          "label": "Refund tracker",
+          "url": "/resources/resources-library/refund-tracker"
+        },
+        {
+          "label": "Video library",
+          "url": "/resources/resources-library/video-library"
+        }
+      ]
+    },
+    {
+      "label": "Contact",
+      "url": "/contact"
     }
   ]
 }
