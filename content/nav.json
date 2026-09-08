@@ -41,6 +41,10 @@
             {
               "label": "Accounting system setup",
               "url": "/services/advisory-services/accounting-system-setup"
+            },
+            {
+              "label": "R&D Tax Credits",
+              "url": "/services/advisory-services/r-and-d-tax-credits"
             }
           ]
         }
