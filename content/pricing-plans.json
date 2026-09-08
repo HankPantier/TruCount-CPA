@@ -11,38 +11,37 @@
   },
   "tiers": [
     {
-      "id": "starter",
-      "name": "Starter",
-      "description": "Clean books and the essentials, handled.",
-      "monthlyPrice": 299,
-      "annualPrice": 254,
-      "priceSuffix": "/mo",
+      "id": "foundation",
+      "name": "Foundation",
+      "description": "Your books, done right every month",
+      "monthlyPrice": 0,
+      "annualPrice": 0,
       "isMostPopular": false,
       "features": [
         {
-          "id": "monthly-bookkeeping-reconciliation",
-          "label": "Monthly bookkeeping & reconciliation",
+          "id": "monthly-bank-and-credit-card-reconciliation",
+          "label": "Monthly bank and credit card reconciliation",
           "included": true
         },
         {
-          "id": "financial-statements",
-          "label": "Financial statements",
+          "id": "quarterly-adjustments-adjusting-entries",
+          "label": "Quarterly adjustments & adjusting entries",
           "included": true
         },
         {
-          "id": "annual-business-tax-filing",
-          "label": "Annual business tax filing",
+          "id": "year-end-1099s",
+          "label": "Year-end 1099s",
           "included": true
         },
         {
-          "id": "quarterly-advisory-call",
-          "label": "Quarterly advisory call",
-          "included": false
+          "id": "quarterly-financial-video-review",
+          "label": "Quarterly financial video review",
+          "included": true
         },
         {
-          "id": "fractional-cfo-support",
-          "label": "Fractional CFO support",
-          "included": false
+          "id": "email-support",
+          "label": "Email support",
+          "included": true
         }
       ],
       "cta": {
@@ -51,17 +50,16 @@
       }
     },
     {
-      "id": "growth",
-      "name": "Growth",
-      "description": "Proactive support for a growing business.",
-      "monthlyPrice": 599,
-      "annualPrice": 509,
-      "priceSuffix": "/mo",
+      "id": "outsourced-controller",
+      "name": "Outsourced Controller",
+      "description": "Your books plus a financial partner",
+      "monthlyPrice": 0,
+      "annualPrice": 0,
       "isMostPopular": true,
       "features": [
         {
-          "id": "monthly-bookkeeping-reconciliation",
-          "label": "Monthly bookkeeping & reconciliation",
+          "id": "ever",
+          "label": "Ever",
           "included": true
         },
         {
