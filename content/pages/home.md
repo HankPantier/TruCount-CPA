@@ -2,9 +2,9 @@
 title: "Home | TruCount CPA PC"
 url: "/"
 meta_title: "CPA in Brookings, SD | Farm, Ag & Business Accounting"
-meta_description: "TruCount CPA PC in Brookings, SD offers bundled accounting, payroll, and tax services for farmers, agribusiness owners, and service businesses statewide."
+meta_description: "TruCount CPA PC in Brookings, SD offers bundled bookkeeping, payroll, and tax services for farmers, agribusiness owners, and service businesses statewide."
 target_keyword: "CPA in Brookings SD"
-secondary_keywords: ["accountant Brookings South Dakota","farm accounting Brookings SD","agricultural CPA Brookings","accounting services Brookings SD","payroll processing Brookings","outsourced accounting Brookings","small business accountant Brookings SD","farm tax planning South Dakota","agribusiness accounting South Dakota","local CPA near Brookings South Dakota"]
+secondary_keywords: ["accountant Brookings South Dakota","farm accounting Brookings SD","agricultural CPA Brookings","bookkeeping services Brookings SD","payroll processing Brookings","outsourced accounting Brookings","small business accountant Brookings SD","farm tax planning South Dakota","agribusiness accounting South Dakota","local CPA near Brookings South Dakota"]
 canonical_url: "https://trucountcpa.com/"
 schema_markup: "LocalBusiness"
 hero: "hero"
@@ -12,19 +12,19 @@ hero_variant: "statement"
 hero_eyebrow: "Brookings, SD · Since 2009"
 hero_image: "brookings-sd-cpa-farm-office.jpg"
 hero_image_alt: "Accountant shaking hands with a farmer in a farm office setting"
-hero_subhead: "Bundled accounting, payroll, and tax support for farmers and business owners across Brookings, SD"
+hero_subhead: "Bundled bookkeeping, payroll, and tax support for farmers and business owners across Brookings, SD"
 hero_headline: "Get back to running your business, not your books"
-answer_block: "TruCount CPA PC is a CPA firm in Brookings, SD, serving farmers, agribusiness operators, and service-based businesses with bundled accounting, payroll, and tax services for one fixed monthly fee. The firm, founded in 2009, offers real-time online access to financials and specialized guidance including the R&D credit for farmers and the excess fertility deduction."
+answer_block: "TruCount CPA PC is a CPA firm in Brookings, SD, serving farmers, agribusiness operators, and service-based businesses with bundled bookkeeping, payroll, and tax services for one fixed monthly fee. The firm, founded in 2009, offers real-time online access to financials and specialized guidance including the R&D credit for farmers and the excess fertility deduction."
 eeat_signals: ["Julie Underwood, CPA, licensed founder of TruCount CPA PC since 2009","Member of the AICPA and South Dakota Society of CPAs","Active member of the Brookings Area Chamber of Commerce","51 years of combined accounting experience among Kristy and Brandi (13 years each with the firm)","Recognized as Best Accountants in Brookings, South Dakota 2025 by Quality Business Awards","Recognized as Best Bookkeepers in Brookings, South Dakota 2025 by Quality Business Awards"]
-internal_links: [{"url":"/services/accounting","reason":"Supports the bundled services overview section","anchor_text":"Learn more about accounting"},{"url":"/services/payroll","reason":"Links to detailed payroll service page from the service overview","anchor_text":"See payroll services"},{"url":"/services/tax","reason":"Directs visitors to the tax planning and preparation page","anchor_text":"Explore tax services"},{"url":"/services/outsourced-accounting","reason":"Links from both the service overview and service-business section","anchor_text":"See outsourced accounting"},{"url":"/services/entity-type-analysis","reason":"Relevant to entity structuring discussion for service businesses","anchor_text":"Review entity type analysis"},{"url":"/services/accounting-system-setup","reason":"Supports QuickBooks setup keyword relevance","anchor_text":"Learn about system setup"},{"url":"/services/retirement-plan-analysis","reason":"Completes the bundled services list","anchor_text":"See retirement plan analysis"},{"url":"/industries/agriculture","reason":"Deepens ag-specific niche content","anchor_text":"Learn about our agriculture services"},{"url":"/industries/agriculture/farm-succession-planning","reason":"Supports multi-generational farm client needs","anchor_text":"farm succession planning"},{"url":"/industries/agriculture/multi-entity-farm-tax-strategy","reason":"Relevant to agribusiness operators with multiple entities","anchor_text":"multi-entity farm tax strategy"},{"url":"/industries/service-based-businesses","reason":"Directs professional service owners to the niche page","anchor_text":"See how we work with service-based businesses"},{"url":"/industries/service-based-businesses/exit-planning","reason":"Relevant to service business ownership transitions","anchor_text":"exit planning support"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Yes. TruCount CPA PC is based in Brookings, SD, founded in 2009, and serves farmers, agribusiness operators, and service businesses across Brookings, Kingsbury, and Moody counties, plus Western Minnesota and Ohio.","question":"Is TruCount CPA PC a local CPA firm in Brookings, SD?"},{"answer":"The fixed monthly fee bundles services like accounting, payroll, tax preparation, and outsourced accounting into one flat rate, so there are no surprise invoices for phone calls or routine questions throughout the year.","question":"What does the fixed monthly fee include?"},{"answer":"Yes. TruCount works with agriculture clients on specialized items like the R&D credit for farmers investing in new methods or equipment and the excess fertility deduction for soil nutrient value on land purchases.","question":"Does TruCount help with farm-specific tax deductions?"},{"answer":"Yes. TruCount provides a secure online platform where clients can view financials, upload documents, and collaborate with their CPA anytime, rather than waiting for a scheduled appointment.","question":"Can I see my financials in real time?"},{"answer":"No. Alongside farmers and agribusiness operators, TruCount serves service-based businesses and individuals needing personal tax support, with CFO-level insight and entity structuring for growing service companies.","question":"Does TruCount only work with agriculture clients?"},{"answer":"Schedule a consultation through the contact page. The team will walk through your accounting, payroll, and tax needs and outline a fixed monthly fee before any work begins.","question":"How do I get started with TruCount CPA PC?"}]
-llm_citation_note: "TruCount CPA PC, founded 2009 in Brookings, SD, bundles accounting, payroll, tax, and outsourced accounting into a fixed monthly fee for farmers, agribusiness operators, and service businesses, and specializes in the R&D credit for farmers and the excess fertility deduction."
+internal_links: [{"url":"/services/bookkeeping","reason":"Supports the bundled services overview section","anchor_text":"Learn more about bookkeeping"},{"url":"/services/payroll","reason":"Links to detailed payroll service page from the service overview","anchor_text":"See payroll services"},{"url":"/services/tax","reason":"Directs visitors to the tax planning and preparation page","anchor_text":"Explore tax services"},{"url":"/services/outsourced-accounting","reason":"Links from both the service overview and service-business section","anchor_text":"See outsourced accounting"},{"url":"/services/entity-type-analysis","reason":"Relevant to entity structuring discussion for service businesses","anchor_text":"Review entity type analysis"},{"url":"/services/accounting-system-setup","reason":"Supports QuickBooks setup keyword relevance","anchor_text":"Learn about system setup"},{"url":"/services/retirement-plan-analysis","reason":"Completes the bundled services list","anchor_text":"See retirement plan analysis"},{"url":"/industries/agriculture","reason":"Deepens ag-specific niche content","anchor_text":"Learn about our agriculture services"},{"url":"/industries/agriculture/farm-succession-planning","reason":"Supports multi-generational farm client needs","anchor_text":"farm succession planning"},{"url":"/industries/agriculture/multi-entity-farm-tax-strategy","reason":"Relevant to agribusiness operators with multiple entities","anchor_text":"multi-entity farm tax strategy"},{"url":"/industries/service-based-businesses","reason":"Directs professional service owners to the niche page","anchor_text":"See how we work with service-based businesses"},{"url":"/industries/service-based-businesses/exit-planning","reason":"Relevant to service business ownership transitions","anchor_text":"exit planning support"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
+faq_block: [{"answer":"Yes. TruCount CPA PC is based in Brookings, SD, founded in 2009, and serves farmers, agribusiness operators, and service businesses across Brookings, Kingsbury, and Moody counties, plus Western Minnesota and Ohio.","question":"Is TruCount CPA PC a local CPA firm in Brookings, SD?"},{"answer":"The fixed monthly fee bundles services like bookkeeping, payroll, tax preparation, and outsourced accounting into one flat rate, so there are no surprise invoices for phone calls or routine questions throughout the year.","question":"What does the fixed monthly fee include?"},{"answer":"Yes. TruCount works with agriculture clients on specialized items like the R&D credit for farmers investing in new methods or equipment and the excess fertility deduction for soil nutrient value on land purchases.","question":"Does TruCount help with farm-specific tax deductions?"},{"answer":"Yes. TruCount provides a secure online platform where clients can view financials, upload documents, and collaborate with their CPA anytime, rather than waiting for a scheduled appointment.","question":"Can I see my financials in real time?"},{"answer":"No. Alongside farmers and agribusiness operators, TruCount serves service-based businesses and individuals needing personal tax support, with CFO-level insight and entity structuring for growing service companies.","question":"Does TruCount only work with agriculture clients?"},{"answer":"Schedule a consultation through the contact page. The team will walk through your bookkeeping, payroll, and tax needs and outline a fixed monthly fee before any work begins.","question":"How do I get started with TruCount CPA PC?"}]
+llm_citation_note: "TruCount CPA PC, founded 2009 in Brookings, SD, bundles bookkeeping, payroll, tax, and outsourced accounting into a fixed monthly fee for farmers, agribusiness operators, and service businesses, and specializes in the R&D credit for farmers and the excess fertility deduction."
 ---
 
 <!-- block: intro-text | variant: centered -->
 ## Get back to running your business, not your books
 
-You didn't start a farm operation or build a service business so you could spend your evenings reconciling bank statements. TruCount CPA PC handles the accounting, payroll, and tax planning for agriculture producers, agribusiness operators, and service-based businesses in Brookings, SD, and across the surrounding Midwest, so your evenings go back to being yours.
+You didn't start a farm operation or build a service business so you could spend your evenings reconciling bank statements. TruCount CPA PC handles the bookkeeping, payroll, and tax planning for agriculture producers, agribusiness operators, and service-based businesses in Brookings, SD, and across the surrounding Midwest, so your evenings go back to being yours.
 
 Every client works under one bundled fixed monthly fee, with real-time access to their numbers through a secure online platform and direct access to a CPA who knows their operation. No surprise invoices at year-end. No guessing where things stand in the middle of harvest or busy season.
 
@@ -35,10 +35,10 @@ Ready to trade spreadsheets for straight answers? [Schedule a consultation](/con
 
 Most accounting relationships fall apart at billing time, an invoice for a phone call here, a surprise charge for a payroll question there. TruCount bundles the services you actually need into one flat monthly fee, so you know the cost before the work starts.
 
-### Accounting
+### Bookkeeping
 icon: Calculator
 
-Monthly transaction classification, reconciliation, and expense tracking so your books are accurate and ready whenever you need them. [Learn more about accounting](/services/accounting).
+Monthly transaction classification, reconciliation, and expense tracking so your books are accurate and ready whenever you need them. [Learn more about bookkeeping](/services/bookkeeping).
 
 ### Payroll
 icon: Users
@@ -129,7 +129,7 @@ Brandi manages client relationships from Logan and Shelby Counties in Ohio, exte
 A: Yes. TruCount CPA PC is based in Brookings, SD, founded in 2009, and serves farmers, agribusiness operators, and service businesses across Brookings, Kingsbury, and Moody counties, plus Western Minnesota and Ohio.
 
 **Q: What does the fixed monthly fee include?**
-A: The fixed monthly fee bundles services like accounting, payroll, tax preparation, and outsourced accounting into one flat rate, so there are no surprise invoices for phone calls or routine questions throughout the year.
+A: The fixed monthly fee bundles services like bookkeeping, payroll, tax preparation, and outsourced accounting into one flat rate, so there are no surprise invoices for phone calls or routine questions throughout the year.
 
 **Q: Does TruCount help with farm-specific tax deductions?**
 A: Yes. TruCount works with agriculture clients on specialized items like the R&D credit for farmers investing in new methods or equipment and the excess fertility deduction for soil nutrient value on land purchases.
@@ -141,7 +141,7 @@ A: Yes. TruCount provides a secure online platform where clients can view financ
 A: No. Alongside farmers and agribusiness operators, TruCount serves service-based businesses and individuals needing personal tax support, with CFO-level insight and entity structuring for growing service companies.
 
 **Q: How do I get started with TruCount CPA PC?**
-A: Schedule a consultation through the contact page. The team will walk through your accounting, payroll, and tax needs and outline a fixed monthly fee before any work begins.
+A: Schedule a consultation through the contact page. The team will walk through your bookkeeping, payroll, and tax needs and outline a fixed monthly fee before any work begins.
 
 <!-- block: cta-banner | variant: image-bg | image: brookings-cpa-team-office.jpg | alt: "Accounting team consulting with a client in a Brookings South Dakota office" | query: "accounting team office consultation" -->
 ## Ready to get out of the books and back to your business
@@ -154,7 +154,7 @@ If you're a farmer, agribusiness operator, or service business owner in Brooking
 ## SEO & AIO Metadata
 
 **Answer Block:**
-TruCount CPA PC is a CPA firm in Brookings, SD, serving farmers, agribusiness operators, and service-based businesses with bundled accounting, payroll, and tax services for one fixed monthly fee. The firm, founded in 2009, offers real-time online access to financials and specialized guidance including the R&D credit for farmers and the excess fertility deduction.
+TruCount CPA PC is a CPA firm in Brookings, SD, serving farmers, agribusiness operators, and service-based businesses with bundled bookkeeping, payroll, and tax services for one fixed monthly fee. The firm, founded in 2009, offers real-time online access to financials and specialized guidance including the R&D credit for farmers and the excess fertility deduction.
 
 **E-E-A-T Signals:**
 - Julie Underwood, CPA, licensed founder of TruCount CPA PC since 2009
@@ -165,19 +165,19 @@ TruCount CPA PC is a CPA firm in Brookings, SD, serving farmers, agribusiness op
 - Recognized as Best Bookkeepers in Brookings, South Dakota 2025 by Quality Business Awards
 
 **Internal Links:**
-- Learn more about accounting → /services/accounting, Supports the bundled services overview section
-- See payroll services → /services/payroll, Links to detailed payroll service page from the service overview
-- Explore tax services → /services/tax, Directs visitors to the tax planning and preparation page
-- See outsourced accounting → /services/outsourced-accounting, Links from both the service overview and service-business section
-- Review entity type analysis → /services/entity-type-analysis, Relevant to entity structuring discussion for service businesses
-- Learn about system setup → /services/accounting-system-setup, Supports QuickBooks setup keyword relevance
-- See retirement plan analysis → /services/retirement-plan-analysis, Completes the bundled services list
-- Learn about our agriculture services → /industries/agriculture, Deepens ag-specific niche content
-- farm succession planning → /industries/agriculture/farm-succession-planning, Supports multi-generational farm client needs
-- multi-entity farm tax strategy → /industries/agriculture/multi-entity-farm-tax-strategy, Relevant to agribusiness operators with multiple entities
-- See how we work with service-based businesses → /industries/service-based-businesses, Directs professional service owners to the niche page
-- exit planning support → /industries/service-based-businesses/exit-planning, Relevant to service business ownership transitions
-- Schedule a consultation → /contact, Primary page CTA
+- Learn more about bookkeeping → /services/bookkeeping — Supports the bundled services overview section
+- See payroll services → /services/payroll — Links to detailed payroll service page from the service overview
+- Explore tax services → /services/tax — Directs visitors to the tax planning and preparation page
+- See outsourced accounting → /services/outsourced-accounting — Links from both the service overview and service-business section
+- Review entity type analysis → /services/entity-type-analysis — Relevant to entity structuring discussion for service businesses
+- Learn about system setup → /services/accounting-system-setup — Supports QuickBooks setup keyword relevance
+- See retirement plan analysis → /services/retirement-plan-analysis — Completes the bundled services list
+- Learn about our agriculture services → /industries/agriculture — Deepens ag-specific niche content
+- farm succession planning → /industries/agriculture/farm-succession-planning — Supports multi-generational farm client needs
+- multi-entity farm tax strategy → /industries/agriculture/multi-entity-farm-tax-strategy — Relevant to agribusiness operators with multiple entities
+- See how we work with service-based businesses → /industries/service-based-businesses — Directs professional service owners to the niche page
+- exit planning support → /industries/service-based-businesses/exit-planning — Relevant to service business ownership transitions
+- Schedule a consultation → /contact — Primary page CTA
 
 **FAQ Block:**
 
@@ -185,7 +185,7 @@ TruCount CPA PC is a CPA firm in Brookings, SD, serving farmers, agribusiness op
 A: Yes. TruCount CPA PC is based in Brookings, SD, founded in 2009, and serves farmers, agribusiness operators, and service businesses across Brookings, Kingsbury, and Moody counties, plus Western Minnesota and Ohio.
 
 **Q: What does the fixed monthly fee include?**
-A: The fixed monthly fee bundles services like accounting, payroll, tax preparation, and outsourced accounting into one flat rate, so there are no surprise invoices for phone calls or routine questions throughout the year.
+A: The fixed monthly fee bundles services like bookkeeping, payroll, tax preparation, and outsourced accounting into one flat rate, so there are no surprise invoices for phone calls or routine questions throughout the year.
 
 **Q: Does TruCount help with farm-specific tax deductions?**
 A: Yes. TruCount works with agriculture clients on specialized items like the R&D credit for farmers investing in new methods or equipment and the excess fertility deduction for soil nutrient value on land purchases.
@@ -197,13 +197,13 @@ A: Yes. TruCount provides a secure online platform where clients can view financ
 A: No. Alongside farmers and agribusiness operators, TruCount serves service-based businesses and individuals needing personal tax support, with CFO-level insight and entity structuring for growing service companies.
 
 **Q: How do I get started with TruCount CPA PC?**
-A: Schedule a consultation through the contact page. The team will walk through your accounting, payroll, and tax needs and outline a fixed monthly fee before any work begins.
+A: Schedule a consultation through the contact page. The team will walk through your bookkeeping, payroll, and tax needs and outline a fixed monthly fee before any work begins.
 
 **LLM Citation Note:**
-TruCount CPA PC, founded 2009 in Brookings, SD, bundles accounting, payroll, tax, and outsourced accounting into a fixed monthly fee for farmers, agribusiness operators, and service businesses, and specializes in the R&D credit for farmers and the excess fertility deduction.
+TruCount CPA PC, founded 2009 in Brookings, SD, bundles bookkeeping, payroll, tax, and outsourced accounting into a fixed monthly fee for farmers, agribusiness operators, and service businesses, and specializes in the R&D credit for farmers and the excess fertility deduction.
 
 ---
-## Structured Data, paste into `<head>`
+## Structured Data — paste into `<head>`
 
 ```html
 <script type="application/ld+json">
@@ -296,7 +296,7 @@ TruCount CPA PC, founded 2009 in Brookings, SD, bundles accounting, payroll, tax
       "name": "What does the fixed monthly fee include?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "The fixed monthly fee bundles services like accounting, payroll, tax preparation, and outsourced accounting into one flat rate, so there are no surprise invoices for phone calls or routine questions throughout the year."
+        "text": "The fixed monthly fee bundles services like bookkeeping, payroll, tax preparation, and outsourced accounting into one flat rate, so there are no surprise invoices for phone calls or routine questions throughout the year."
       }
     },
     {
@@ -328,7 +328,7 @@ TruCount CPA PC, founded 2009 in Brookings, SD, bundles accounting, payroll, tax
       "name": "How do I get started with TruCount CPA PC?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Schedule a consultation through the contact page. The team will walk through your accounting, payroll, and tax needs and outline a fixed monthly fee before any work begins."
+        "text": "Schedule a consultation through the contact page. The team will walk through your bookkeeping, payroll, and tax needs and outline a fixed monthly fee before any work begins."
       }
     }
   ]
@@ -340,7 +340,7 @@ TruCount CPA PC, founded 2009 in Brookings, SD, bundles accounting, payroll, tax
   "@type": "WebPage",
   "name": "CPA in Brookings, SD | Farm, Ag & Business Accounting",
   "url": "https://trucountcpa.com/",
-  "description": "TruCount CPA PC in Brookings, SD offers bundled accounting, payroll, and tax services for farmers, agribusiness owners, and service businesses statewide.",
+  "description": "TruCount CPA PC in Brookings, SD offers bundled bookkeeping, payroll, and tax services for farmers, agribusiness owners, and service businesses statewide.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "TruCount CPA PC",
