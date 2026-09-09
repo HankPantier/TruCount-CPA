@@ -3,7 +3,7 @@
   "currency": "USD",
   "intro": "Every client gets a dedicated team, a consistent monthly process, and a relationship built around their operation — not a generic checklist.",
   "billing": {
-    "showToggle": true,
+    "showToggle": false,
     "defaultCadence": "monthly",
     "annualDiscountPct": 15,
     "monthlyLabel": "Monthly",
@@ -11,38 +11,38 @@
   },
   "tiers": [
     {
-      "id": "starter",
-      "name": "Starter",
-      "description": "Clean books and the essentials, handled.",
-      "monthlyPrice": 299,
-      "annualPrice": 254,
-      "priceSuffix": "/mo",
+      "id": "foundation",
+      "name": "Foundation",
+      "description": "Your books, done right every month",
+      "monthlyPrice": 500,
+      "annualPrice": 0,
+      "priceSuffix": "/month",
       "isMostPopular": false,
       "features": [
         {
-          "id": "monthly-bookkeeping-reconciliation",
-          "label": "Monthly bookkeeping & reconciliation",
+          "id": "monthly-bank-and-credit-card-reconciliation",
+          "label": "Monthly bank and credit card reconciliation",
           "included": true
         },
         {
-          "id": "financial-statements",
-          "label": "Financial statements",
+          "id": "quarterly-adjustments-adjusting-entries",
+          "label": "Quarterly adjustments & adjusting entries",
           "included": true
         },
         {
-          "id": "annual-business-tax-filing",
-          "label": "Annual business tax filing",
+          "id": "year-end-1099s",
+          "label": "Year-end 1099s",
           "included": true
         },
         {
-          "id": "quarterly-advisory-call",
-          "label": "Quarterly advisory call",
-          "included": false
+          "id": "quarterly-financial-video-review",
+          "label": "Quarterly financial video review",
+          "included": true
         },
         {
-          "id": "fractional-cfo-support",
-          "label": "Fractional CFO support",
-          "included": false
+          "id": "email-support",
+          "label": "Email support",
+          "included": true
         }
       ],
       "cta": {
@@ -51,38 +51,38 @@
       }
     },
     {
-      "id": "growth",
-      "name": "Growth",
-      "description": "Proactive support for a growing business.",
-      "monthlyPrice": 599,
-      "annualPrice": 509,
-      "priceSuffix": "/mo",
+      "id": "outsourced-controller",
+      "name": "Outsourced Controller",
+      "description": "Your books plus a financial partner",
+      "monthlyPrice": 800,
+      "annualPrice": 0,
+      "priceSuffix": "/month",
       "isMostPopular": true,
       "features": [
         {
-          "id": "monthly-bookkeeping-reconciliation",
-          "label": "Monthly bookkeeping & reconciliation",
+          "id": "everything-in-foundation-plus",
+          "label": "Everything in Foundation, plus:",
           "included": true
         },
         {
-          "id": "financial-statements",
-          "label": "Financial statements",
+          "id": "quarterly-financial-review-calls",
+          "label": "Quarterly financial review calls",
           "included": true
         },
         {
-          "id": "business-owner-tax-filing",
-          "label": "Business & owner tax filing",
+          "id": "accounts-payable-receipt-management",
+          "label": "Accounts payable & receipt management",
           "included": true
         },
         {
-          "id": "quarterly-advisory-call",
-          "label": "Quarterly advisory call",
+          "id": "sales-tax",
+          "label": "Sales tax",
           "included": true
         },
         {
-          "id": "fractional-cfo-support",
-          "label": "Fractional CFO support",
-          "included": false
+          "id": "quarterly-financial-statements",
+          "label": "Quarterly financial statements",
+          "included": true
         }
       ],
       "cta": {
@@ -91,27 +91,16 @@
       }
     },
     {
-      "id": "premier",
-      "name": "Premier",
-      "description": "Strategic finance leadership on demand.",
-      "monthlyPrice": 1200,
-      "annualPrice": 1020,
-      "priceSuffix": "/mo",
+      "id": "fractional-cfo",
+      "name": "Fractional CFO",
+      "description": "Your numbers driving your strategy",
+      "monthlyPrice": 0,
+      "annualPrice": 0,
       "isMostPopular": false,
       "features": [
         {
-          "id": "monthly-bookkeeping-reconciliation",
-          "label": "Monthly bookkeeping & reconciliation",
-          "included": true
-        },
-        {
-          "id": "financial-statements",
-          "label": "Financial statements",
-          "included": true
-        },
-        {
-          "id": "business-owner-tax-filing",
-          "label": "Business & owner tax filing",
+          "id": "everything-in-controller-plus",
+          "label": "Everything in Controller, plus:",
           "included": true
         },
         {
@@ -120,8 +109,18 @@
           "included": true
         },
         {
-          "id": "fractional-cfo-support",
-          "label": "Fractional CFO support",
+          "id": "annual-budgeting-cash-flow-projections",
+          "label": "Annual budgeting & cash flow projections",
+          "included": true
+        },
+        {
+          "id": "monthly-financial-statements",
+          "label": "Monthly financial statements",
+          "included": true
+        },
+        {
+          "id": "coordination-with-your-other-advisors",
+          "label": "Coordination with your other advisors",
           "included": true
         }
       ],
@@ -142,23 +141,30 @@
   },
   "addOns": [
     {
-      "id": "payroll-processing",
-      "label": "Payroll processing",
+      "id": "individual-tax-services",
+      "label": "Individual Tax Services",
       "type": "flat",
       "price": 99,
       "cadence": "month",
       "description": "Run payroll, filings, and year-end forms."
     },
     {
-      "id": "catch-up-bookkeeping",
-      "label": "Catch-up bookkeeping",
+      "id": "business-tax-services",
+      "label": "Business Tax Services",
       "type": "flat",
-      "price": 500,
-      "cadence": "once",
+      "price": 250,
+      "cadence": "month",
       "description": "Bring prior months current before we begin."
+    },
+    {
+      "id": "payroll-services",
+      "label": "Payroll Services",
+      "type": "flat",
+      "price": 250,
+      "cadence": "month"
     }
   ],
-  "disclaimer": "Plans are a starting point — your final quote depends on the specifics of your engagement. Contact us for a tailored proposal.",
+  "disclaimer": "Important:\n- Packages are tailored to your operation — we’ll recommend what fits, not what’s easiest for us. \n- Initial setup fee equals one month’s investment. Significant cleanup may cost more — we’ll always tell you upfront. \n- Most clients combine an accounting package with payroll and tax — one team, everything connected. \n- Software (QuickBooks, etc.) is billed at cost.",
   "cta": {
     "label": "Book a consultation",
     "url": "/contact"

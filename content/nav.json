@@ -23,10 +23,6 @@
           ]
         },
         {
-          "label": "Personal income tax",
-          "url": "/services/personal-income-tax"
-        },
-        {
           "label": "Advisory Services",
           "url": "/services/advisory-services",
           "children": [
@@ -51,6 +47,10 @@
               "url": "/services/advisory-services/succession-planning"
             }
           ]
+        },
+        {
+          "label": "Personal income tax",
+          "url": "/services/personal-income-tax"
         }
       ]
     },
