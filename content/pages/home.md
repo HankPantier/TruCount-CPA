@@ -12,7 +12,7 @@ hero_variant: "statement"
 hero_eyebrow: "Brookings, SD · Since 2009"
 hero_image: "brookings-sd-cpa-farm-office.jpg"
 hero_image_alt: "Accountant shaking hands with a farmer in a farm office setting"
-hero_subhead: "Bundled bookkeeping, payroll, and tax support for farmers and business owners across Brookings, SD"
+hero_subhead: "Bundled bookkeeping, payroll, and tax support for farmers, agribusiness operators, and professional service businesses across Brookings, SD and the Midwest heartland"
 hero_headline: "Get back to running your business, not your books"
 answer_block: "TruCount CPA PC is a CPA firm in Brookings, SD, serving farmers, agribusiness operators, and service-based businesses with bundled bookkeeping, payroll, and tax services for one fixed monthly fee. The firm, founded in 2009, offers real-time online access to financials and specialized guidance including the R&D credit for farmers and the excess fertility deduction."
 eeat_signals: ["Julie Underwood, CPA, licensed founder of TruCount CPA PC since 2009","Member of the AICPA and South Dakota Society of CPAs","Active member of the Brookings Area Chamber of Commerce","51 years of combined accounting experience among Kristy and Brandi (13 years each with the firm)","Recognized as Best Accountants in Brookings, South Dakota 2025 by Quality Business Awards","Recognized as Best Bookkeepers in Brookings, South Dakota 2025 by Quality Business Awards"]
