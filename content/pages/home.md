@@ -35,40 +35,20 @@ Ready to trade spreadsheets for straight answers? [Schedule a consultation](/con
 
 Most accounting relationships fall apart at billing time, an invoice for a phone call here, a surprise charge for a payroll question there. TruCount bundles the services you actually need into one flat monthly fee, so you know the cost before the work starts.
 
-### Bookkeeping
-icon: Calculator
-
-Monthly transaction classification, reconciliation, and expense tracking so your books are accurate and ready whenever you need them. [Learn more about bookkeeping](/services/bookkeeping).
-
-### Payroll
-icon: Users
-
-We run payroll, file the deposits, and handle the compliance details so you're not doing math on a Friday afternoon. [See payroll services](/services/payroll).
-
-### Tax preparation and planning
-icon: FileText
-
-Year-round strategic tax planning paired with preparation, delivered through a secure digital process instead of a once-a-year scramble. [Explore tax services](/services/tax).
-
 ### Outsourced accounting
 icon: Briefcase
 
-A full outsourced accounting department, reconciliation, reporting, and advisory, bundled into one relationship instead of a stack of separate vendors. [See outsourced accounting](/services/outsourced-accounting).
+A full outsourced accounting department, reconciliation, reporting, and year-round advisory, bundled into one relationship instead of a stack of separate vendors. [See outsourced accounting](/services/outsourced-accounting).
 
-### Entity type analysis
-icon: Scale
+### Year-round tax and business advice
+icon: FileText
 
-We help you choose the right structure for your farm or business and handle the related state and federal filings. [Review entity type analysis](/services/entity-type-analysis).
+Personalized tax and business advice delivered throughout the year, not just at filing time, so you can make confident decisions whenever it matters. [Explore tax services](/services/tax).
 
-### Accounting system setup
-icon: Cog
+### Personal income tax
+icon: User
 
-QuickBooks and accounting system setup built for how your operation actually runs, not a generic template. [Learn about system setup](/services/accounting-system-setup).
-
-### Retirement plan analysis
-icon: PiggyBank
-
-We help you pick a retirement plan that fits your team and your budget, without overpaying for features you'll never use. [See retirement plan analysis](/services/retirement-plan-analysis).
+A secure, digital personal tax preparation process with customized, year-round guidance so individuals and families are never caught off guard at filing time. [See personal income tax](/services/tax).
 
 <!-- block: content-split | variant: image-right | image: farm-agribusiness-accounting.jpg | alt: "Farmer and accountant reviewing financial paperwork together outdoors" | query: "farmer reviewing paperwork with advisor" -->
 ## Accounting expertise built for farmers and agribusiness operators
