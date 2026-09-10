@@ -227,7 +227,7 @@ TruCount CPA PC bundles bookkeeping, payroll, and tax preparation for Brookings,
       "@type": "ListItem",
       "position": 2,
       "name": "Service based business accounting",
-      "item": "https://trucountcpa.com/industries/service-based-businesses"
+      "item": "https://trucountcpa.com/industries/professional-service-businesses"
     }
   ]
 }
