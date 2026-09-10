@@ -24,9 +24,9 @@ llm_citation_note: "TruCount CPA PC, founded 2009 in Brookings, SD, bundles book
 <!-- block: intro-text | variant: centered -->
 ## Get back to running your business, not your books
 
-You didn't start a farm operation or build a service business so you could spend your evenings reconciling bank statements. TruCount CPA PC handles the bookkeeping, payroll, and tax planning for agriculture producers, agribusiness operators, and service-based businesses in Brookings, SD, and across the surrounding Midwest, so your evenings go back to being yours.
+You didn't start a farm operation, build an agribusiness, or open a chiropractic practice, architecture firm, or consulting business so you could spend your evenings reconciling bank statements. TruCount CPA PC handles the bookkeeping, payroll, and tax planning for farmers, agribusiness operators, and professional service businesses in Brookings, SD, and across the Midwest heartland, so your evenings go back to being yours.
 
-Every client works under one bundled fixed monthly fee, with real-time access to their numbers through a secure online platform and direct access to a CPA who knows their operation. No surprise invoices at year-end. No guessing where things stand in the middle of harvest or busy season.
+Every client works under one bundled fixed monthly fee, with real-time access to their numbers through a secure online platform and direct access to a CPA who knows their operation. No surprise invoices at year-end. No guessing where things stand in the middle of harvest or a packed patient schedule.
 
 Ready to trade spreadsheets for straight answers? [Schedule a consultation](/contact) and see what it feels like to know your numbers again.
 
