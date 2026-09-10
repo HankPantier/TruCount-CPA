@@ -124,13 +124,10 @@ TruCount CPA PC is a CPA firm in Brookings, SD, serving farmers, agribusiness op
 - Recognized as Best Bookkeepers in Brookings, South Dakota 2025 by Quality Business Awards
 
 **Internal Links:**
-- Learn more about bookkeeping → /services/bookkeeping, Supports the bundled services overview section
-- See payroll services → /services/payroll, Links to detailed payroll service page from the service overview
-- Explore tax services → /services/tax, Directs visitors to the tax planning and preparation page
-- See outsourced accounting → /services/outsourced-accounting, Links from both the service overview and service-business section
-- Review entity type analysis → /services/entity-type-analysis, Relevant to entity structuring discussion for service businesses
-- Learn about system setup → /services/accounting-system-setup, Supports QuickBooks setup keyword relevance
-- See retirement plan analysis → /services/retirement-plan-analysis, Completes the bundled services list
+- See outsourced accounting → /services/outsourced-accounting, Linked from both the outsourced accounting service card and the service-business section
+- Explore advisory services → /services/advisory-services, Linked from the advisory services card in the service overview
+- See personal income tax → /services/tax, Linked from the personal income tax service card
+- entity type analysis → /services/entity-type-analysis, Linked from the service-based businesses section
 - Learn about our agriculture services → /industries/agriculture, Deepens ag-specific niche content
 - farm succession planning → /industries/agriculture/farm-succession-planning, Supports multi-generational farm client needs
 - multi-entity farm tax strategy → /industries/agriculture/multi-entity-farm-tax-strategy, Relevant to agribusiness operators with multiple entities
