@@ -53,7 +53,7 @@ A secure, digital personal tax preparation process with customized, year-round g
 <!-- block: content-split | variant: image-right | image: farm-agribusiness-accounting.jpg | alt: "Farmer and accountant reviewing financial paperwork together outdoors" | query: "farmer reviewing paperwork with advisor" -->
 ## Accounting expertise built for farmers and agribusiness operators
 
-Ag accounting isn't a side offering here. Farmers and agribusiness operators across Brookings, Kingsbury, and Moody counties come to TruCount because we understand the tax code that actually applies to a farm balance sheet, income averaging, deferred grain contracts, multi-entity structures, and the timing decisions that come with a fluctuating crop year.
+Ag accounting isn't a side offering here. Farmers and agribusiness operators across Brookings, Kingsbury, and Moody counties, and across the broader Midwest heartland, come to TruCount because we understand the tax code that actually applies to a farm balance sheet: income averaging, deferred grain contracts, multi-entity structures, and the timing decisions that come with a fluctuating crop year.
 
 Two areas we bring up with ag clients that often get missed elsewhere: the R&D credit for farmers investing in new seed varieties, equipment, or production methods, and the excess fertility deduction for buyers taking on soil nutrient value in a land purchase. Both can mean real dollars back in your operation, if someone knows to ask about them.
 
