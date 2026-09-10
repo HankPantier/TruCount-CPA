@@ -38,12 +38,12 @@ Most accounting relationships fall apart at billing time, an invoice for a phone
 ### Outsourced accounting
 icon: Briefcase
 
-A full outsourced accounting department, reconciliation, reporting, and year-round advisory, bundled into one relationship instead of a stack of separate vendors. [See outsourced accounting](/services/outsourced-accounting).
+A full outsourced accounting department with payroll, tax planning and preparation, reconciliation, reporting, and year-round advisory, bundled into one relationship instead of a stack of separate vendors. [See outsourced accounting](/services/outsourced-accounting).
 
-### Year-round tax and business advice
+### Advisory services
 icon: FileText
 
-Personalized tax and business advice delivered throughout the year, not just at filing time, so you can make confident decisions whenever it matters. [Explore tax services](/services/tax).
+Year-round personalized tax and business advice with strategic planning for sustainable growth. [Explore tax services](/services/tax).
 
 ### Personal income tax
 icon: User
