@@ -101,27 +101,6 @@ Being caught off guard by your own finances is the problem we hear most often, f
 
 The goal is simple: you should never have to wonder where your business stands.
 
-<!-- block: team-grid | variant: 2-col -->
-## Meet the team who's invested in your success
-
-Julie Underwood founded TruCount in 2009 and ran it solo for the first four to five years before the firm moved into Brookings. Since then, Kristy and Brandi have each spent 13 years building client relationships here, bringing 51 years of combined accounting experience to the team.
-
-### Julie Underwood, CPA
-photo: julie-underwood_nmmdvw.jpg
-Founder
-
-Julie is a member of the AICPA and the South Dakota Society of CPAs, and she's active with the Brookings Area Chamber of Commerce. She built TruCount on the idea that farmers and small business owners deserve the same financial clarity as a Fortune 500 company, without the Fortune 500 price tag.
-
-### Kristy
-13 years with TruCount
-
-Kristy works closely with agriculture and service-business clients across Brookings, Kingsbury, and Moody counties, and she's the kind of accountant who remembers your kid's name and your harvest schedule in the same conversation.
-
-### Brandi
-13 years with TruCount
-
-Brandi manages client relationships from Logan and Shelby Counties in Ohio, extending TruCount's reach beyond South Dakota and Western Minnesota while keeping the same personal approach the firm was built on.
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Home
 
@@ -165,19 +144,19 @@ TruCount CPA PC is a CPA firm in Brookings, SD, serving farmers, agribusiness op
 - Recognized as Best Bookkeepers in Brookings, South Dakota 2025 by Quality Business Awards
 
 **Internal Links:**
-- Learn more about bookkeeping → /services/bookkeeping — Supports the bundled services overview section
-- See payroll services → /services/payroll — Links to detailed payroll service page from the service overview
-- Explore tax services → /services/tax — Directs visitors to the tax planning and preparation page
-- See outsourced accounting → /services/outsourced-accounting — Links from both the service overview and service-business section
-- Review entity type analysis → /services/entity-type-analysis — Relevant to entity structuring discussion for service businesses
-- Learn about system setup → /services/accounting-system-setup — Supports QuickBooks setup keyword relevance
-- See retirement plan analysis → /services/retirement-plan-analysis — Completes the bundled services list
-- Learn about our agriculture services → /industries/agriculture — Deepens ag-specific niche content
-- farm succession planning → /industries/agriculture/farm-succession-planning — Supports multi-generational farm client needs
-- multi-entity farm tax strategy → /industries/agriculture/multi-entity-farm-tax-strategy — Relevant to agribusiness operators with multiple entities
-- See how we work with service-based businesses → /industries/service-based-businesses — Directs professional service owners to the niche page
-- exit planning support → /industries/service-based-businesses/exit-planning — Relevant to service business ownership transitions
-- Schedule a consultation → /contact — Primary page CTA
+- Learn more about bookkeeping → /services/bookkeeping, Supports the bundled services overview section
+- See payroll services → /services/payroll, Links to detailed payroll service page from the service overview
+- Explore tax services → /services/tax, Directs visitors to the tax planning and preparation page
+- See outsourced accounting → /services/outsourced-accounting, Links from both the service overview and service-business section
+- Review entity type analysis → /services/entity-type-analysis, Relevant to entity structuring discussion for service businesses
+- Learn about system setup → /services/accounting-system-setup, Supports QuickBooks setup keyword relevance
+- See retirement plan analysis → /services/retirement-plan-analysis, Completes the bundled services list
+- Learn about our agriculture services → /industries/agriculture, Deepens ag-specific niche content
+- farm succession planning → /industries/agriculture/farm-succession-planning, Supports multi-generational farm client needs
+- multi-entity farm tax strategy → /industries/agriculture/multi-entity-farm-tax-strategy, Relevant to agribusiness operators with multiple entities
+- See how we work with service-based businesses → /industries/service-based-businesses, Directs professional service owners to the niche page
+- exit planning support → /industries/service-based-businesses/exit-planning, Relevant to service business ownership transitions
+- Schedule a consultation → /contact, Primary page CTA
 
 **FAQ Block:**
 
@@ -203,7 +182,7 @@ A: Schedule a consultation through the contact page. The team will walk through 
 TruCount CPA PC, founded 2009 in Brookings, SD, bundles bookkeeping, payroll, tax, and outsourced accounting into a fixed monthly fee for farmers, agribusiness operators, and service businesses, and specializes in the R&D credit for farmers and the excess fertility deduction.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
