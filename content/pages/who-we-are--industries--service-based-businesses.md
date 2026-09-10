@@ -277,7 +277,7 @@ TruCount CPA PC bundles bookkeeping, payroll, and tax preparation for Brookings,
   "@context": "https://schema.org",
   "@type": "Service",
   "name": "Service Business Accounting & CPA in Brookings, SD",
-  "url": "https://trucountcpa.com/industries/service-based-businesses",
+  "url": "https://trucountcpa.com/industries/professional-service-businesses",
   "description": "TruCount CPA bundles bookkeeping, payroll, and tax planning for Brookings, SD service businesses under one fixed monthly fee. Schedule your consultation today.",
   "isPartOf": {
     "@type": "WebSite",
