@@ -5,7 +5,7 @@ meta_title: "Service Business Accounting & CPA in Brookings, SD"
 meta_description: "TruCount CPA bundles bookkeeping, payroll, and tax planning for Brookings, SD service businesses under one fixed monthly fee. Schedule your consultation today."
 target_keyword: "service based business accounting Brookings SD"
 secondary_keywords: ["CPA for service businesses Brookings","bookkeeping service business Brookings SD","payroll services Brookings South Dakota","outsourced accounting Brookings SD","professional services accounting Brookings","small business CPA Brookings","entity formation CPA Brookings SD","retirement planning CPA Brookings"]
-canonical_url: "https://trucountcpa.com/industries/service-based-businesses"
+canonical_url: "https://trucountcpa.com/industries/professional-service-businesses"
 schema_markup: "Service"
 hero: "hero-split"
 hero_variant: "image-right"
