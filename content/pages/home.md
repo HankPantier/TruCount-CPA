@@ -12,7 +12,7 @@ hero_variant: "statement"
 hero_eyebrow: "Brookings, SD · Since 2009"
 hero_image: "brookings-sd-cpa-farm-office.jpg"
 hero_image_alt: "Accountant shaking hands with a farmer in a farm office setting"
-hero_subhead: "Bundled bookkeeping, payroll, and tax support for farmers and business owners across Brookings, SD"
+hero_subhead: "Bundled bookkeeping, payroll, and tax support for farmers, agribusiness operators, and professional service businesses across Brookings, SD and the Midwest heartland"
 hero_headline: "Get back to running your business, not your books"
 answer_block: "TruCount CPA PC is a CPA firm in Brookings, SD, serving farmers, agribusiness operators, and service-based businesses with bundled bookkeeping, payroll, and tax services for one fixed monthly fee. The firm, founded in 2009, offers real-time online access to financials and specialized guidance including the R&D credit for farmers and the excess fertility deduction."
 eeat_signals: ["Julie Underwood, CPA, licensed founder of TruCount CPA PC since 2009","Member of the AICPA and South Dakota Society of CPAs","Active member of the Brookings Area Chamber of Commerce","51 years of combined accounting experience among Kristy and Brandi (13 years each with the firm)","Recognized as Best Accountants in Brookings, South Dakota 2025 by Quality Business Awards","Recognized as Best Bookkeepers in Brookings, South Dakota 2025 by Quality Business Awards"]
@@ -24,9 +24,9 @@ llm_citation_note: "TruCount CPA PC, founded 2009 in Brookings, SD, bundles book
 <!-- block: intro-text | variant: centered -->
 ## Get back to running your business, not your books
 
-You didn't start a farm operation or build a service business so you could spend your evenings reconciling bank statements. TruCount CPA PC handles the bookkeeping, payroll, and tax planning for agriculture producers, agribusiness operators, and service-based businesses in Brookings, SD, and across the surrounding Midwest, so your evenings go back to being yours.
+You didn't start a farm operation, build an agribusiness, or open a chiropractic practice, architecture firm, or consulting business so you could spend your evenings reconciling bank statements. TruCount CPA PC handles the bookkeeping, payroll, and tax planning for farmers, agribusiness operators, and professional service businesses in Brookings, SD, and across the Midwest heartland, so your evenings go back to being yours.
 
-Every client works under one bundled fixed monthly fee, with real-time access to their numbers through a secure online platform and direct access to a CPA who knows their operation. No surprise invoices at year-end. No guessing where things stand in the middle of harvest or busy season.
+Every client works under one bundled fixed monthly fee, with real-time access to their numbers through a secure online platform and direct access to a CPA who knows their operation. No surprise invoices at year-end. No guessing where things stand in the middle of harvest or a packed patient schedule.
 
 Ready to trade spreadsheets for straight answers? [Schedule a consultation](/contact) and see what it feels like to know your numbers again.
 
@@ -53,18 +53,18 @@ A secure, digital personal tax preparation process with customized, year-round g
 <!-- block: content-split | variant: image-right | image: farm-agribusiness-accounting.jpg | alt: "Farmer and accountant reviewing financial paperwork together outdoors" | query: "farmer reviewing paperwork with advisor" -->
 ## Accounting expertise built for farmers and agribusiness operators
 
-Ag accounting isn't a side offering here. Farmers and agribusiness operators across Brookings, Kingsbury, and Moody counties come to TruCount because we understand the tax code that actually applies to a farm balance sheet, income averaging, deferred grain contracts, multi-entity structures, and the timing decisions that come with a fluctuating crop year.
+Ag accounting isn't a side offering here. Farmers and agribusiness operators across Brookings, Kingsbury, and Moody counties, and across the broader Midwest heartland, come to TruCount because we understand the tax code that actually applies to a farm balance sheet: income averaging, deferred grain contracts, multi-entity structures, and the timing decisions that come with a fluctuating crop year.
 
 Two areas we bring up with ag clients that often get missed elsewhere: the R&D credit for farmers investing in new seed varieties, equipment, or production methods, and the excess fertility deduction for buyers taking on soil nutrient value in a land purchase. Both can mean real dollars back in your operation, if someone knows to ask about them.
 
 We also work with farm families on succession and multi-entity tax strategy as operations grow across generations. [Learn about our agriculture services](/industries/agriculture), including [farm succession planning](/industries/agriculture/farm-succession-planning) and [multi-entity farm tax strategy](/industries/agriculture/multi-entity-farm-tax-strategy).
 
 <!-- block: content-split | variant: image-left | image: service-business-advisor-meeting.jpg | alt: "Service business owner meeting with an accountant over a laptop" | query: "business owner meeting accountant office" -->
-## CFO-level insight for service-based businesses
+## CFO-level insight for professional service businesses
 
-Running a professional service business means you're pricing jobs, managing staff, and still supposed to understand your margins. TruCount gives service business owners in Brookings and beyond CFO-level financial insight, delivered through regular business advice sessions, at a fraction of what it costs to hire a controller.
+Whether you're running a chiropractic practice, an architecture firm, or a consulting business in Brookings or anywhere across the Midwest, you're already managing client relationships, staff, and service delivery. Understanding your margins shouldn't fall to the bottom of that list. TruCount gives professional service business owners CFO-level financial insight, delivered through regular advisory sessions, at a fraction of what it costs to hire a controller.
 
-That includes entity structuring so you're not overpaying in taxes as you grow, year-round planning instead of an annual tax appointment, and outsourced accounting support that keeps your books current without adding headcount. If you're weighing a sale or ownership transition down the road, we help with that too.
+That includes entity structuring so you're not overpaying in taxes as you grow, year-round tax planning instead of a once-a-year appointment, and outsourced accounting support that keeps your books current without adding headcount. If you're weighing a sale or ownership transition down the road, we can help with that too.
 
 [See how we work with service-based businesses](/industries/service-based-businesses), including [exit planning support](/industries/service-based-businesses/exit-planning), or explore [outsourced accounting](/services/outsourced-accounting) and [entity type analysis](/services/entity-type-analysis) directly.
 
@@ -107,7 +107,7 @@ A: Schedule a consultation through the contact page. The team will walk through 
 
 TruCount CPA PC has been recognized among the Best Accountants in Brookings, South Dakota and the Best Bookkeepers in Brookings, South Dakota for 2025 by Quality Business Awards. That recognition comes from years spent doing the unglamorous work well: accurate books, honest tax advice, and a team that answers the phone.
 
-If you're a farmer, agribusiness operator, or service business owner in Brookings, Kingsbury, or Moody County ready to stop guessing at your numbers, let's talk. [Schedule a consultation](/contact) and find out what a fixed-fee, full-service relationship actually feels like.
+If you're a farmer, agribusiness operator, chiropractor, architect, consultant, or any other professional service business owner in Brookings, Kingsbury, Moody County, or anywhere across the Midwest heartland ready to stop guessing at your numbers, let's talk. [Schedule a consultation](/contact) and find out what a fixed-fee, full-service relationship actually feels like.
 
 ---
 ## SEO & AIO Metadata
