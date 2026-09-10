@@ -60,11 +60,11 @@ Two areas we bring up with ag clients that often get missed elsewhere: the R&D c
 We also work with farm families on succession and multi-entity tax strategy as operations grow across generations. [Learn about our agriculture services](/industries/agriculture), including [farm succession planning](/industries/agriculture/farm-succession-planning) and [multi-entity farm tax strategy](/industries/agriculture/multi-entity-farm-tax-strategy).
 
 <!-- block: content-split | variant: image-left | image: service-business-advisor-meeting.jpg | alt: "Service business owner meeting with an accountant over a laptop" | query: "business owner meeting accountant office" -->
-## CFO-level insight for service-based businesses
+## CFO-level insight for professional service businesses
 
-Running a professional service business means you're pricing jobs, managing staff, and still supposed to understand your margins. TruCount gives service business owners in Brookings and beyond CFO-level financial insight, delivered through regular business advice sessions, at a fraction of what it costs to hire a controller.
+Whether you're running a chiropractic practice, an architecture firm, or a consulting business in Brookings or anywhere across the Midwest, you're already managing client relationships, staff, and service delivery. Understanding your margins shouldn't fall to the bottom of that list. TruCount gives professional service business owners CFO-level financial insight, delivered through regular advisory sessions, at a fraction of what it costs to hire a controller.
 
-That includes entity structuring so you're not overpaying in taxes as you grow, year-round planning instead of an annual tax appointment, and outsourced accounting support that keeps your books current without adding headcount. If you're weighing a sale or ownership transition down the road, we help with that too.
+That includes entity structuring so you're not overpaying in taxes as you grow, year-round tax planning instead of a once-a-year appointment, and outsourced accounting support that keeps your books current without adding headcount. If you're weighing a sale or ownership transition down the road, we can help with that too.
 
 [See how we work with service-based businesses](/industries/service-based-businesses), including [exit planning support](/industries/service-based-businesses/exit-planning), or explore [outsourced accounting](/services/outsourced-accounting) and [entity type analysis](/services/entity-type-analysis) directly.
 
