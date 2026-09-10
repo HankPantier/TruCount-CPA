@@ -2,7 +2,7 @@
 title: "Home | TruCount CPA PC"
 url: "/"
 meta_title: "CPA in Brookings, SD | Farm, Ag & Business Accounting"
-meta_description: "TruCount CPA PC in Brookings, SD offers bundled bookkeeping, payroll, and tax services for farmers, agribusiness owners, and service businesses statewide."
+meta_description: "TruCount CPA PC in Brookings, SD offers bundled bookkeeping, payroll, and tax services for farmers, agribusiness operators, and service businesses across the Midwest."
 target_keyword: "CPA in Brookings SD"
 secondary_keywords: ["accountant Brookings South Dakota","farm accounting Brookings SD","agricultural CPA Brookings","bookkeeping services Brookings SD","payroll processing Brookings","outsourced accounting Brookings","small business accountant Brookings SD","farm tax planning South Dakota","agribusiness accounting South Dakota","local CPA near Brookings South Dakota"]
 canonical_url: "https://trucountcpa.com/"
