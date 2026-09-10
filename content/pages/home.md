@@ -107,7 +107,7 @@ A: Schedule a consultation through the contact page. The team will walk through 
 
 TruCount CPA PC has been recognized among the Best Accountants in Brookings, South Dakota and the Best Bookkeepers in Brookings, South Dakota for 2025 by Quality Business Awards. That recognition comes from years spent doing the unglamorous work well: accurate books, honest tax advice, and a team that answers the phone.
 
-If you're a farmer, agribusiness operator, or service business owner in Brookings, Kingsbury, or Moody County ready to stop guessing at your numbers, let's talk. [Schedule a consultation](/contact) and find out what a fixed-fee, full-service relationship actually feels like.
+If you're a farmer, agribusiness operator, chiropractor, architect, consultant, or any other professional service business owner in Brookings, Kingsbury, Moody County, or anywhere across the Midwest heartland ready to stop guessing at your numbers, let's talk. [Schedule a consultation](/contact) and find out what a fixed-fee, full-service relationship actually feels like.
 
 ---
 ## SEO & AIO Metadata
