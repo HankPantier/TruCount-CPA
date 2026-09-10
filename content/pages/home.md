@@ -43,7 +43,7 @@ A full outsourced accounting department with payroll, tax planning and preparati
 ### Advisory services
 icon: FileText
 
-Year-round personalized tax and business advice with strategic planning for sustainable growth. [Explore tax services](/services/tax).
+Year-round personalized tax and business advice with strategic planning for sustainable growth. [Explore advisory services](/services/advisory-services).
 
 ### Personal income tax
 icon: User
