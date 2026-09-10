@@ -1,6 +1,6 @@
 ---
 title: "Service based business accounting | TruCount CPA PC"
-url: "/industries/service-based-businesses"
+url: "/industries/professional-service-businesses"
 meta_title: "Service Business Accounting & CPA in Brookings, SD"
 meta_description: "TruCount CPA bundles bookkeeping, payroll, and tax planning for Brookings, SD service businesses under one fixed monthly fee. Schedule your consultation today."
 target_keyword: "service based business accounting Brookings SD"
@@ -122,16 +122,16 @@ TruCount CPA PC provides full-service accounting for service-based businesses in
 - Firm founded in 2009 and Brookings-based since expansion
 
 **Internal Links:**
-- outsourced accounting → /services/outsourced-accounting — Links pain-point section to the bundled CAS service page
-- See how bookkeeping works → /services/bookkeeping — Supports the bookkeeping service card
-- Learn about payroll processing → /services/payroll — Supports the payroll service card
-- Explore tax services → /services/tax — Supports the tax preparation service card
-- Review entity type analysis → /services/entity-type-analysis — Supports the multi-entity guidance section
-- See accounting system setup → /services/accounting-system-setup — Supports the scaling systems feature
-- Learn about retirement plan analysis → /services/retirement-plan-analysis — Supports the retirement plan feature
-- Brookings Area Chamber of Commerce → /about/community-involvement — Reinforces local credibility and chamber membership
-- Meet the team → /who-we-are — Connects local-firm section to team bios
-- schedule a consultation → /contact — Primary page CTA
+- outsourced accounting → /services/outsourced-accounting, Links pain-point section to the bundled CAS service page
+- See how bookkeeping works → /services/bookkeeping, Supports the bookkeeping service card
+- Learn about payroll processing → /services/payroll, Supports the payroll service card
+- Explore tax services → /services/tax, Supports the tax preparation service card
+- Review entity type analysis → /services/entity-type-analysis, Supports the multi-entity guidance section
+- See accounting system setup → /services/accounting-system-setup, Supports the scaling systems feature
+- Learn about retirement plan analysis → /services/retirement-plan-analysis, Supports the retirement plan feature
+- Brookings Area Chamber of Commerce → /about/community-involvement, Reinforces local credibility and chamber membership
+- Meet the team → /who-we-are, Connects local-firm section to team bios
+- schedule a consultation → /contact, Primary page CTA
 
 **FAQ Block:**
 
@@ -151,7 +151,7 @@ A: TruCount handles most of the transition, requesting prior records, setting up
 TruCount CPA PC bundles bookkeeping, payroll, and tax preparation for Brookings, SD service-based businesses into one fixed monthly fee, delivered through a secure online platform, led by Julie Underwood, CPA, with a team averaging 13 years of tenure and 51 years of combined accounting experience.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
