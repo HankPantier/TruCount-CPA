@@ -299,7 +299,7 @@ TruCount CPA PC, founded 2009 in Brookings, SD, bundles bookkeeping, payroll, ta
   "@type": "WebPage",
   "name": "CPA in Brookings, SD | Farm, Ag & Business Accounting",
   "url": "https://trucountcpa.com/",
-  "description": "TruCount CPA PC in Brookings, SD offers bundled bookkeeping, payroll, and tax services for farmers, agribusiness owners, and service businesses statewide.",
+  "description": "TruCount CPA PC in Brookings, SD offers bundled bookkeeping, payroll, and tax services for farmers, agribusiness operators, and service businesses across the Midwest.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "TruCount CPA PC",
