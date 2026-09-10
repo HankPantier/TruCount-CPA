@@ -18,3 +18,4 @@ old_url,new_url,status_code,reason
 /services/retirement-plan-analysis,/services/advisory-services/retirement-plan-analysis,301,Nested via nav editor
 /services/accounting-system-setup,/services/advisory-services/accounting-system-setup,301,Nested via nav editor
 /who-we-are/industries/service-based-businesses,/who-we-are/industries/professional-service-businesses,301,Relocated via AI
+/industries/service-based-businesses/exit-planning,/industries/professional-service-businesses/exit-planning,301,Relocated via AI
