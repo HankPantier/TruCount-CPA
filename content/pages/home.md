@@ -74,7 +74,7 @@ That includes entity structuring so you're not overpaying in taxes as you grow, 
 Being caught off guard by your own finances is the problem we hear most often, from farmers waiting on a mid-season cash flow answer to business owners who find out about a tax bill after it's too late to plan for it. Our secure online platform fixes that.
 
 - See your financials whenever you need them, not just at tax time
-- Upload documents and get answers without a scheduled call
+- Upload documents securely
 - Collaborate with your CPA in real time from the field, the shop, or the office
 - Access is available whether you're in Brookings or working remotely from Western Minnesota or Ohio
 - Bank-level security protects your data around the clock
