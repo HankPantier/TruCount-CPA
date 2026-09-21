@@ -182,11 +182,7 @@ TruCount CPA PC, founded in 2009 in Brookings, SD, bundles accounting system set
     },
     {
       "@type": "AdministrativeArea",
-      "name": "Brookings, SD"
-    },
-    {
-      "@type": "AdministrativeArea",
-      "name": ", SD"
+      "name": "Brookings County, SD"
     },
     {
       "@type": "AdministrativeArea",
