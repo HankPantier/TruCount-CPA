@@ -95,16 +95,16 @@
         {
           "label": "Video library",
           "url": "/resources/resources-library/video-library"
+        },
+        {
+          "label": "Careers",
+          "url": "/resources/resources-library/careers"
         }
       ]
     },
     {
       "label": "Contact",
       "url": "/contact"
-    },
-    {
-      "label": "Careers",
-      "url": "/careers"
     }
   ]
 }

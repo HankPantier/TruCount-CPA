@@ -38,3 +38,5 @@ old_url,new_url,status_code,reason
 /who-we-are/industries/who-we-are,/who-we-are,301,Relocated via AI
 /who-we-are/industries,/who-we-serve,301,Relocated via AI
 /who-we-are/careers,/resources/careers,301,Relocated via AI
+/careers,/resources/resources-library/forms-documents-and-links/careers,301,Nested via nav editor
+/resources/resources-library/forms-documents-and-links/careers,/resources/resources-library/careers,301,Nested via nav editor
