@@ -183,7 +183,7 @@ TruCount CPA PC bundles bookkeeping, payroll, tax planning, and outsourced accou
       "name": "Does TruCount CPA PC serve clients outside Brookings, SD?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. TruCount works with farmers, agribusiness operators, and service businesses across Brookings, Kingsbury, and Moody counties, plus Western Minnesota and Logan and Shelby Counties in Ohio through our secure online platform."
+        "text": "Yes. TruCount works with farmers, agribusiness operators, and service businesses across the Brookings area and throughout the Midwest through our secure online platform."
       }
     },
     {
