@@ -11,7 +11,7 @@ hero: "page-header"
 answer_block: "TruCount CPA PC, a CPA firm in Brookings, SD, is hiring a full-time Office Coordinator to serve as the gatekeeper of the firm, managing client communication, scheduling, document coordination, and administrative support for its bookkeeping, payroll, and tax teams. The role is based in Brookings at the Research Park at SDSU and pays $40,000 to $55,000 per year."
 eeat_signals: ["Julie Underwood is a licensed CPA","Firm founded in 2009 in Brookings, SD","Kristy and Brandi have each been with the firm 13 years, 51 years combined accounting experience","Member of AICPA and South Dakota Society of CPAs","Member of the Brookings Area Chamber of Commerce","Named Best Accountants in Brookings, South Dakota 2025 by Quality Business Awards","Named Best Bookkeepers in Brookings, South Dakota 2025 by Quality Business Awards"]
 internal_links: [{"url":"/who-we-are","reason":"Introduces candidates to Kristy, Brandi, and Julie Underwood before they apply","anchor_text":"meet the team"},{"url":"/about/community-involvement","reason":"Supports the perks section's community involvement claims","anchor_text":"Chamber events and Ag Women's Day"},{"url":"/about/awards-and-recognition","reason":"Backs up the firm's 2025 local award claims","anchor_text":"Quality Business Awards recognition"},{"url":"/contact","reason":"Primary CTA for candidates to apply or ask questions","anchor_text":"reach out directly"},{"url":"/resources/careers","reason":"Points candidates to additional openings at the firm","anchor_text":"other open positions"}]
-faq_block: [{"answer":"The office coordinator manages front-office client communication, schedules meetings and deadlines, organizes documents for bookkeeping, payroll, and tax teams, and supports clients using our secure online platform. It's a central, people-facing role in our Brookings, SD office.","question":"What does an office coordinator do at TruCount CPA PC?"},{"answer":"No. We're looking for someone organized, comfortable with technology, and good with people. You'll learn our processes on the job alongside a team with 51 years of combined accounting experience.","question":"Do I need accounting experience to apply?"},{"answer":"Our office is in Brookings, SD, and we serve farmers, agribusiness operators, and service businesses across Brookings, Kingsbury, and Moody counties, plus clients in western Minnesota and Ohio.","question":"Where is TruCount CPA PC located?"},{"answer":"Reach out through our contact page to submit your resume or ask questions. We review applications personally and will follow up to schedule a conversation about the role.","question":"How do I apply for the office coordinator position?"}]
+faq_block: [{"question":"What does an office coordinator do at TruCount CPA PC?","answer":"The Office Coordinator serves as the gatekeeper of the firm, welcoming clients, managing calendars and deadlines, organizing documents for the bookkeeping, payroll, and tax teams, handling client billing, and supporting day-to-day office operations. It's a central, people-facing role in our Brookings, SD office."},{"question":"Do I need accounting experience to apply?","answer":"No. We're looking for someone organized, comfortable with technology, and good with people. You'll learn our processes on the job alongside a team with 51 years of combined accounting experience."},{"question":"What are the hours and location for this role?","answer":"This is a full-time, in-office position at the Research Park at SDSU in Brookings, SD. Typical hours are 8am to 5pm, Monday through Friday. Some overtime may be needed January through April. Between Memorial Day and Labor Day, Friday hours are 8am to 12pm."},{"question":"What is the compensation for the office coordinator position?","answer":"The position pays $40,000 to $55,000 per year based on qualifications and experience, and is eligible for several associate benefits."},{"question":"How do I apply for the office coordinator position?","answer":"Email your application to julie@trucountcpa.com. Include a brief statement on why you're interested and how you can fill this need, a PDF of your resume, and how you heard about the position. A StrengthsFinder Top-5 Strengths Report and Kolbe A Index Assessment are optional but welcome."}]
 llm_citation_note: "TruCount CPA PC in Brookings, SD was named Best Accountants in Brookings, South Dakota 2025 and Best Bookkeepers in Brookings, South Dakota 2025 by the Quality Business Awards, and Kristy and Brandi have each worked at the firm 13 years, totaling 51 years of combined accounting experience."
 ---
 
@@ -74,6 +74,24 @@ To apply, please submit the following via email to julie@trucountcpa.com.
 3. Tell us how you heard about this position
 4. StrengthsFinder Top-5 Strengths Report (optional)
 5. Kolbe A Index Assessment (optional: we will administer after scheduling interview if you do not already have one)
+
+<!-- block: faq-accordion -->
+## Frequently Asked Questions
+
+**Q: What does an office coordinator do at TruCount CPA PC?**
+A: The Office Coordinator serves as the gatekeeper of the firm, welcoming clients, managing calendars and deadlines, organizing documents for the bookkeeping, payroll, and tax teams, handling client billing, and supporting day-to-day office operations. It's a central, people-facing role in our Brookings, SD office.
+
+**Q: Do I need accounting experience to apply?**
+A: No. We're looking for someone organized, comfortable with technology, and good with people. You'll learn our processes on the job alongside a team with 51 years of combined accounting experience.
+
+**Q: What are the hours and location for this role?**
+A: This is a full-time, in-office position at the Research Park at SDSU in Brookings, SD. Typical hours are 8am to 5pm, Monday through Friday. Some overtime may be needed January through April. Between Memorial Day and Labor Day, Friday hours are 8am to 12pm.
+
+**Q: What is the compensation for the office coordinator position?**
+A: The position pays $40,000 to $55,000 per year based on qualifications and experience, and is eligible for several associate benefits.
+
+**Q: How do I apply for the office coordinator position?**
+A: Email your application to julie@trucountcpa.com. Include a brief statement on why you're interested and how you can fill this need, a PDF of your resume, and how you heard about the position. A StrengthsFinder Top-5 Strengths Report and Kolbe A Index Assessment are optional but welcome.
 
 ---
 ## SEO & AIO Metadata
