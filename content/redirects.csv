@@ -33,3 +33,4 @@ old_url,new_url,status_code,reason
 /services,/what-we-do,301,Relocated via AI
 /who-we-are/industries/farmers,/who-we-serve/farmers,301,Relocated via AI
 /who-we-are/industries/professional-service-businesses,/who-we-serve/professional-service-businesses,301,Relocated via AI
+/who-we-are/industries/agribusiness,/who-we-serve/agribusiness,301,Relocated via AI
