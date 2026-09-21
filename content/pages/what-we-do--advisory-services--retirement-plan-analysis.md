@@ -47,7 +47,7 @@ The goal is one coordinated plan, not a patchwork of accounts nobody's tracking.
 
 Running a professional service business means competing for good employees, and a retirement benefit is often what decides between two job offers. It also means weighing your own retirement savings against payroll, software, and everything else pulling from the same account.
 
-A retirement plan analysis for a professional services firm weighs owner contribution limits against what a match or profit-sharing formula costs across your whole staff. Considerations we walk through with clients:
+A retirement plan analysis for a professional service business weighs owner contribution limits against what a match or profit-sharing formula costs across your whole staff. Considerations we walk through with clients:
 
 - How much you want to contribute for yourself versus what you can realistically offer employees
 - Whether a SIMPLE IRA's lower administrative burden outweighs a 401(k)'s higher contribution ceiling
