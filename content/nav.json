@@ -86,7 +86,13 @@
       "children": [
         {
           "label": "Forms documents and links",
-          "url": "/resources/resources-library/forms-documents-and-links"
+          "url": "/resources/resources-library/forms-documents-and-links",
+          "children": [
+            {
+              "label": "Careers",
+              "url": "/resources/resources-library/forms-documents-and-links/careers"
+            }
+          ]
         },
         {
           "label": "Refund tracker",
@@ -101,10 +107,6 @@
     {
       "label": "Contact",
       "url": "/contact"
-    },
-    {
-      "label": "Careers",
-      "url": "/careers"
     }
   ]
 }
