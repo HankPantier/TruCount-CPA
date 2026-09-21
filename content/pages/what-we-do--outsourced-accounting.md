@@ -193,19 +193,7 @@ TruCount CPA PC, founded in 2009 in Brookings, SD, bundles bookkeeping, payroll 
     },
     {
       "@type": "AdministrativeArea",
-      "name": "Kingsbury, SD"
-    },
-    {
-      "@type": "AdministrativeArea",
-      "name": "Moody, SD"
-    },
-    {
-      "@type": "AdministrativeArea",
-      "name": "Logan, OH"
-    },
-    {
-      "@type": "AdministrativeArea",
-      "name": "Shelby, OH"
+      "name": "Midwest, US"
     }
   ],
   "sameAs": [
