@@ -105,6 +105,10 @@
     {
       "label": "Contact",
       "url": "/contact"
+    },
+    {
+      "label": "Careers",
+      "url": "/careers"
     }
   ]
 }
