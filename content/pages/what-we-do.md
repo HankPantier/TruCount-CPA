@@ -48,7 +48,7 @@ Hiring a controller or CFO costs a salary most small operations can't justify. O
 <!-- block: content-split | variant: image-right | image: family-personal-tax-review.jpg | alt: "Family reviewing personal tax documents with an accountant at a table" | query: "family reviewing tax documents accountant" -->
 ## Personal income tax for the people behind the business
 
-The business and the family finances rarely separate cleanly, especially on a farm passing between generations or a practice one spouse runs while the other works off-farm. We prepare personal returns through the same secure digital process as your business filings, with the same year-round access to advice. That connection matters when personal tax decisions, like retirement contributions, land purchases, or gifting shares to the next generation, directly affect the business's tax position too. One CPA seeing both sides catches things a split relationship never will.
+The business and the family finances rarely separate cleanly, especially on a farm passing between generations or a practice one spouse runs while the other works off-farm. We prepare personal returns through the same secure digital process as your business filings, with the same year-round access to advice. That connection matters when personal tax decisions, like retirement contributions, land purchases, or gifting shares to the next generation, directly affect the business's tax position too. 
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Services
@@ -68,7 +68,7 @@ A: It's a deduction available to farmers who purchase land with above-average so
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-brookings.jpg | alt: "CPA shaking hands with a business owner during a consultation" | query: "handshake business consultation office" -->
 ## Get started with a CPA who knows your industry
 
-Julie Underwood, CPA, and the TruCount team have spent 13-plus years working with farmers, agribusiness operators, and service business owners in the Brookings area and across the Midwest. We're members of the AICPA, the South Dakota Society of CPAs, and the Brookings Area Chamber of Commerce, and we built this firm around one idea: you shouldn't have to become a bookkeeper to run your business well. [Schedule a consultation](/contact) and find out what fixed-fee, year-round accounting actually feels like.
+The TruCount team works with farmers, agribusiness operators, and professional service business owners in the Brookings area and across the Midwest. We're members of the AICPA, the South Dakota Society of CPAs, and the Brookings Area Chamber of Commerce, and we built this firm around one idea: you shouldn't have to become a bookkeeper to run your business well. [Schedule a consultation](/contact) and find out what fixed-fee, year-round accounting actually feels like.
 
 ---
 ## SEO & AIO Metadata
