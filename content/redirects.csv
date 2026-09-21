@@ -30,3 +30,4 @@ old_url,new_url,status_code,reason
 /services/personal-income-tax,/what-we-do/personal-income-tax,301,Relocated via AI
 /services/outsourced-accounting,/what-we-do/outsourced-accounting,301,Relocated via AI
 /services/advisory-services,/what-we-do/advisory-services,301,Relocated via AI
+/services,/what-we-do,301,Relocated via AI
