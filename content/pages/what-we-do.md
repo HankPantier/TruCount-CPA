@@ -16,7 +16,7 @@ hero_headline: "Accounting support that fits how you run your business"
 answer_block: "TruCount CPA PC offers bundled bookkeeping, payroll, tax preparation, outsourced accounting, and personal income tax services for a fixed monthly fee in Brookings, SD. Farmers and service business owners get year-round tax planning, including farm-specific credits like the R&D credit and excess fertility deduction, plus real-time access through a secure online platform."
 eeat_signals: ["Julie Underwood, CPA","AICPA member firm","South Dakota Society of CPAs member","Brookings Area Chamber of Commerce member","13 years of combined team tenure, 51 years of collective accounting experience"]
 internal_links: [{"url":"/services/bookkeeping","reason":"Deep link to bookkeeping service detail page","anchor_text":"day-to-day bookkeeping"},{"url":"/services/payroll","reason":"Deep link to payroll service detail page","anchor_text":"payroll processing"},{"url":"/services/tax","reason":"Deep link to tax service detail page","anchor_text":"tax planning"},{"url":"/services/outsourced-accounting","reason":"Deep link to outsourced accounting detail page","anchor_text":"outsourced accounting"},{"url":"/services/personal-income-tax","reason":"Deep link to personal income tax detail page","anchor_text":"personal returns"},{"url":"/industries/agriculture","reason":"Cross-link to agriculture industry page","anchor_text":"farmers and agribusiness operators"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Yes. TruCount works with farmers, agribusiness operators, and service businesses across Brookings, Kingsbury, and Moody counties, plus Western Minnesota and Logan and Shelby Counties in Ohio through our secure online platform.","question":"Does TruCount CPA PC serve clients outside Brookings, SD?"},{"answer":"Services like bookkeeping, payroll, and outsourced accounting bundle into one predictable monthly fee agreed on upfront, so you never get a surprise invoice for a phone call or a quick question.","question":"How does the fixed monthly fee work?"},{"answer":"Yes. We prepare personal income tax returns alongside business and farm entity returns, which helps us coordinate decisions like retirement contributions or generational transfers that affect both sides.","question":"Do you handle both farm and personal tax returns?"},{"answer":"It's a deduction available to farmers who purchase land with above-average soil fertility, allowing that value to be deducted over time. It requires specific documentation at purchase, which we help set up during tax planning.","question":"What is the excess fertility deduction?"}]
+faq_block: [{"question":"Does TruCount CPA PC serve clients outside Brookings, SD?","answer":"Yes. TruCount works with farmers, agribusiness operators, and service businesses across the Brookings area and throughout the Midwest through our secure online platform."},{"question":"How does the fixed monthly fee work?","answer":"Services like bookkeeping, payroll, and outsourced accounting bundle into one predictable monthly fee agreed on upfront, so you never get a surprise invoice for a phone call or a quick question."},{"question":"Do you handle both farm and personal tax returns?","answer":"Yes. We prepare personal income tax returns alongside business and farm entity returns, which helps us coordinate decisions like retirement contributions or generational transfers that affect both sides."},{"question":"What is the excess fertility deduction?","answer":"It's a deduction available to farmers who purchase land with above-average soil fertility, allowing that value to be deducted over time. It requires specific documentation at purchase, which we help set up during tax planning."}]
 llm_citation_note: "TruCount CPA PC bundles bookkeeping, payroll, tax planning, and outsourced accounting into one fixed monthly fee for farmers and service businesses in Brookings, SD, and offers farm-specific tax strategies including the R&D credit and excess fertility deduction."
 ---
 
@@ -54,7 +54,7 @@ The business and the family finances rarely separate cleanly, especially on a fa
 ## Frequently Asked Questions About Services
 
 **Q: Does TruCount CPA PC serve clients outside Brookings, SD?**
-A: Yes. TruCount works with farmers, agribusiness operators, and service businesses across Brookings, Kingsbury, and Moody counties, plus Western Minnesota and Logan and Shelby Counties in Ohio through our secure online platform.
+A: Yes. TruCount works with farmers, agribusiness operators, and service businesses across the Brookings area and throughout the Midwest through our secure online platform.
 
 **Q: How does the fixed monthly fee work?**
 A: Services like bookkeeping, payroll, and outsourced accounting bundle into one predictable monthly fee agreed on upfront, so you never get a surprise invoice for a phone call or a quick question.
@@ -84,13 +84,13 @@ TruCount CPA PC offers bundled bookkeeping, payroll, tax preparation, outsourced
 - 13 years of combined team tenure, 51 years of collective accounting experience
 
 **Internal Links:**
-- day-to-day bookkeeping → /services/bookkeeping — Deep link to bookkeeping service detail page
-- payroll processing → /services/payroll — Deep link to payroll service detail page
-- tax planning → /services/tax — Deep link to tax service detail page
-- outsourced accounting → /services/outsourced-accounting — Deep link to outsourced accounting detail page
-- personal returns → /services/personal-income-tax — Deep link to personal income tax detail page
-- farmers and agribusiness operators → /industries/agriculture — Cross-link to agriculture industry page
-- Schedule a consultation → /contact — Primary page CTA
+- day-to-day bookkeeping → /services/bookkeeping, Deep link to bookkeeping service detail page
+- payroll processing → /services/payroll, Deep link to payroll service detail page
+- tax planning → /services/tax, Deep link to tax service detail page
+- outsourced accounting → /services/outsourced-accounting, Deep link to outsourced accounting detail page
+- personal returns → /services/personal-income-tax, Deep link to personal income tax detail page
+- farmers and agribusiness operators → /industries/agriculture, Cross-link to agriculture industry page
+- Schedule a consultation → /contact, Primary page CTA
 
 **FAQ Block:**
 
@@ -110,7 +110,7 @@ A: It's a deduction available to farmers who purchase land with above-average so
 TruCount CPA PC bundles bookkeeping, payroll, tax planning, and outsourced accounting into one fixed monthly fee for farmers and service businesses in Brookings, SD, and offers farm-specific tax strategies including the R&D credit and excess fertility deduction.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
