@@ -2,13 +2,13 @@
 title: "Office coordinator | TruCount CPA PC"
 url: "/careers/office-coordinator"
 meta_title: "Office Coordinator Job | TruCount CPA Firm Brookings SD"
-meta_description: "TruCount CPA PC in Brookings, SD is hiring a friendly office coordinator to support farmers, agribusiness owners, and service businesses. Apply today to join our family-oriented team."
+meta_description: "TruCount CPA PC in Brookings, SD is hiring a full-time Office Coordinator to support our bookkeeping, payroll, and tax teams. Apply today to join our family-oriented firm."
 target_keyword: "office coordinator Brookings SD"
 secondary_keywords: ["CPA firm Brookings SD","accountant Brookings South Dakota","careers Brookings SD accounting firm","bookkeeping services Brookings SD","TruCount CPA Brookings"]
 canonical_url: "https://trucountcpa.com/careers/office-coordinator"
 schema_markup: "JobPosting"
 hero: "page-header"
-answer_block: "TruCount CPA PC, a CPA firm in Brookings, SD, is hiring an office coordinator to manage client communication, scheduling, and document coordination for its bookkeeping, payroll, and tax teams. The role suits an organized, tech-comfortable person who enjoys working with farmers, agribusiness owners, and service business clients."
+answer_block: "TruCount CPA PC, a CPA firm in Brookings, SD, is hiring a full-time Office Coordinator to serve as the gatekeeper of the firm, managing client communication, scheduling, document coordination, and administrative support for its bookkeeping, payroll, and tax teams. The role is based in Brookings at the Research Park at SDSU and pays $40,000 to $55,000 per year."
 eeat_signals: ["Julie Underwood is a licensed CPA","Firm founded in 2009 in Brookings, SD","Kristy and Brandi have each been with the firm 13 years, 51 years combined accounting experience","Member of AICPA and South Dakota Society of CPAs","Member of the Brookings Area Chamber of Commerce","Named Best Accountants in Brookings, South Dakota 2025 by Quality Business Awards","Named Best Bookkeepers in Brookings, South Dakota 2025 by Quality Business Awards"]
 internal_links: [{"url":"/who-we-are","reason":"Introduces candidates to Kristy, Brandi, and Julie Underwood before they apply","anchor_text":"meet the team"},{"url":"/about/community-involvement","reason":"Supports the perks section's community involvement claims","anchor_text":"Chamber events and Ag Women's Day"},{"url":"/about/awards-and-recognition","reason":"Backs up the firm's 2025 local award claims","anchor_text":"Quality Business Awards recognition"},{"url":"/contact","reason":"Primary CTA for candidates to apply or ask questions","anchor_text":"reach out directly"},{"url":"/resources/careers","reason":"Points candidates to additional openings at the firm","anchor_text":"other open positions"}]
 faq_block: [{"answer":"The office coordinator manages front-office client communication, schedules meetings and deadlines, organizes documents for bookkeeping, payroll, and tax teams, and supports clients using our secure online platform. It's a central, people-facing role in our Brookings, SD office.","question":"What does an office coordinator do at TruCount CPA PC?"},{"answer":"No. We're looking for someone organized, comfortable with technology, and good with people. You'll learn our processes on the job alongside a team with 51 years of combined accounting experience.","question":"Do I need accounting experience to apply?"},{"answer":"Our office is in Brookings, SD, and we serve farmers, agribusiness operators, and service businesses across Brookings, Kingsbury, and Moody counties, plus clients in western Minnesota and Ohio.","question":"Where is TruCount CPA PC located?"},{"answer":"Reach out through our contact page to submit your resume or ask questions. We review applications personally and will follow up to schedule a conversation about the role.","question":"How do I apply for the office coordinator position?"}]
@@ -79,7 +79,7 @@ To apply, please submit the following via email to julie@trucountcpa.com.
 ## SEO & AIO Metadata
 
 **Answer Block:**
-TruCount CPA PC, a CPA firm in Brookings, SD, is hiring an office coordinator to manage client communication, scheduling, and document coordination for its bookkeeping, payroll, and tax teams. The role suits an organized, tech-comfortable person who enjoys working with farmers, agribusiness owners, and service business clients.
+TruCount CPA PC, a CPA firm in Brookings, SD, is hiring a full-time Office Coordinator to serve as the gatekeeper of the firm, managing client communication, scheduling, document coordination, and administrative support for its bookkeeping, payroll, and tax teams. The role is based in Brookings at the Research Park at SDSU and pays $40,000 to $55,000 per year.
 
 **E-E-A-T Signals:**
 - Julie Underwood is a licensed CPA
@@ -236,7 +236,7 @@ TruCount CPA PC in Brookings, SD was named Best Accountants in Brookings, South 
   "@type": "WebPage",
   "name": "Office Coordinator Job | TruCount CPA Firm Brookings SD",
   "url": "https://trucountcpa.com/careers/office-coordinator",
-  "description": "TruCount CPA PC in Brookings, SD is hiring a friendly office coordinator to support farmers, agribusiness owners, and service businesses. Apply today to join our family-oriented team.",
+  "description": "TruCount CPA PC in Brookings, SD is hiring a full-time Office Coordinator to support our bookkeeping, payroll, and tax teams. Apply today to join our family-oriented firm.",
   "isPartOf": {
     "@type": "WebSite",
     "name": "TruCount CPA PC",
