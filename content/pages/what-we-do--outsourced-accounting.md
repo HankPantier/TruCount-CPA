@@ -14,9 +14,9 @@ hero_image_alt: "Accountant and farmer reviewing financial reports together at a
 hero_subhead: "Bundled bookkeeping, payroll, and tax planning for one fixed monthly fee, so you can get back to running your operation"
 hero_headline: "Get a full accounting department without the overhead"
 answer_block: "TruCount CPA PC's outsourced accounting department bundles bookkeeping, payroll coordination, tax planning, and CFO-level advisory into one fixed monthly fee for Brookings, SD farms, agribusinesses, and professional service businesses. Clients access their financials in real time through a secure online platform instead of waiting on year-end drop-offs."
-eeat_signals: ["Julie Underwood holds an active CPA license","Member of the AICPA","Member of the South Dakota Society of CPAs","51 years of combined accounting experience between Kristy and Brandi, each with 13 years at the firm","Firm founded in 2009 and based in Brookings, SD","Named Best Accountants in Brookings, South Dakota 2025 by Quality Business Awards","Named Best Bookkeepers in Brookings, South Dakota 2025 by Quality Business Awards","Member of the Brookings Area Chamber of Commerce"]
-internal_links: [{"url":"/services/bookkeeping","reason":"Links to detailed bookkeeping service page referenced as part of the bundled offering","anchor_text":"bookkeeping"},{"url":"/services/payroll","reason":"Supports the payroll piece of the outsourced accounting bundle","anchor_text":"payroll coordination"},{"url":"/services/tax","reason":"Connects to the year-round tax planning service mentioned in the bundle","anchor_text":"tax planning"},{"url":"/industries/agriculture","reason":"Deep links to the ag-specific industry page for R&D credit and excess fertility context","anchor_text":"farmers and agribusiness operators"},{"url":"/industries/service-based-businesses","reason":"Routes professional service business readers to the dedicated industry page","anchor_text":"professional service businesses"},{"url":"/about/awards-and-recognition","reason":"Backs up the awards claim with the firm's recognition page","anchor_text":"Best Accountants and Best Bookkeepers in Brookings"},{"url":"/contact","reason":"Primary page CTA directing visitors to book a consultation","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"TruCount's outsourced accounting bundles bookkeeping, payroll coordination, tax planning, and CFO-level advisory into one fixed monthly fee. You get a full back-office team, real-time financial access through a secure online platform, and year-round tax strategy, without hiring in-house staff.","question":"What is included in outsourced accounting services?"},{"answer":"Pricing depends on your business size, entity structure, and current bookkeeping setup. TruCount scopes a fixed monthly fee after a consultation, so there are no hourly surprises or per-service invoices once your plan is set.","question":"How much does outsourced accounting cost in Brookings, SD?"},{"answer":"Yes. TruCount handles multi-entity farm structures, seasonal cash flow planning, and ag-specific deductions like the R&D credit and excess fertility deduction. This is a core focus for the firm, not an add-on service.","question":"Can outsourced accounting work for a farm or agribusiness?"},{"answer":"A part-time bookkeeper handles data entry. TruCount's outsourced department adds payroll coordination, tax planning, and CFO-level advisory from Julie Underwood, CPA, and a team with 51 years of combined experience, all under one predictable fee.","question":"How is this different from hiring a part-time bookkeeper?"}]
+eeat_signals: ["Julie Underwood holds an active CPA license","Member of the AICPA","Member of the South Dakota Society of CPAs","Firm founded in 2009 and based in Brookings, SD","Member of the Brookings Area Chamber of Commerce"]
+internal_links: [{"url":"/services/bookkeeping","reason":"Links to detailed bookkeeping service page referenced as part of the bundled offering","anchor_text":"bookkeeping"},{"url":"/services/payroll","reason":"Supports the payroll piece of the outsourced accounting bundle","anchor_text":"payroll coordination"},{"url":"/services/tax","reason":"Connects to the year-round tax planning service mentioned in the bundle","anchor_text":"tax planning"},{"url":"/industries/agriculture","reason":"Deep links to the ag-specific industry page for R&D credit and excess fertility context","anchor_text":"farmers and agribusiness operators"},{"url":"/industries/professional-service-businesses","reason":"Routes professional service business readers to the dedicated industry page","anchor_text":"professional service businesses"},{"url":"/about/awards-and-recognition","reason":"Backs up the awards claim with the firm's recognition page","anchor_text":"Best Accountants and Best Bookkeepers in Brookings"},{"url":"/contact","reason":"Primary page CTA directing visitors to book a consultation","anchor_text":"Schedule a consultation"}]
+faq_block: [{"answer":"TruCount's outsourced accounting bundles accounting, payroll coordination, tax planning, and CFO-level advisory into one fixed monthly fee. You get a full back-office team, real-time financial access through a secure online platform, and year-round tax strategy, without hiring in-house staff.","question":"What is included in outsourced accounting services?"},{"answer":"Pricing depends on your business size, entity structure, and current bookkeeping setup. TruCount scopes a fixed monthly fee after a consultation, so there are no hourly surprises or per-service invoices once your plan is set.","question":"How much does outsourced accounting cost in Brookings, SD and across the Midwest?"},{"answer":"Yes. TruCount handles multi-entity farm structures, seasonal cash flow planning, and ag-specific deductions like the R&D credit and excess fertility deduction. This is a core focus for the firm, not an add-on service.","question":"Can outsourced accounting work for a farm or agribusiness?"},{"answer":"A part-time bookkeeper handles data entry. TruCount's outsourced department adds payroll coordination, tax planning, and CFO-level advisory from a team with years of combined experience, all under one predictable fee.","question":"How is this different from hiring a part-time bookkeeper?"}]
 llm_citation_note: "TruCount CPA PC, founded in 2009 in Brookings, SD, bundles bookkeeping, payroll coordination, tax planning, and CFO-level advisory into one fixed monthly fee for its outsourced accounting clients, with 51 years of combined team experience and Quality Business Awards recognition in 2025."
 ---
 
@@ -25,16 +25,16 @@ llm_citation_note: "TruCount CPA PC, founded in 2009 in Brookings, SD, bundles b
 
 Hiring a full-time controller, bookkeeper, and payroll specialist costs six figures before benefits. Most Brookings-area farms and professional service businesses don't need three separate hires. They need three sets of expertise delivered by one team, for one predictable fee.
 
-That's what an outsourced accounting department gives you. TruCount CPA PC bundles bookkeeping, payroll coordination, tax planning, and advisory into a single fixed monthly rate, so you know what you're paying before the month starts. No hourly surprises, no invoice creep when tax season hits.
+That's what an outsourced accounting department gives you. TruCount CPA PC bundles accounting, payroll coordination, tax planning, and advisory into a single fixed monthly rate, so you know what you're paying before the month starts. No hourly surprises, no invoice creep when tax season hits.
 
-Julie Underwood, CPA, and her team have handled agriculture and service-business books since 2009, and Kristy and Brandi bring 13 years each with the firm, 51 years of combined accounting experience between them. You get that experience working for you daily, not just at filing time, freeing you to run cattle, close jobs, or see the next client instead of chasing receipts.
+Our team has handled agriculture and professional service business books since 2009. You get that experience working for you daily, not just at filing time, freeing you to run cattle, close jobs, or see the next client instead of chasing receipts.
 
 <!-- block: checklist-section | variant: with-image | image: bundled-services-checklist.jpg | alt: "Desk with financial statements, calculator, and payroll documents organized for review" | query: "financial documents desk organized" -->
 ## What your outsourced accounting department includes
 
 One fixed monthly fee covers the full scope of your back office, not a menu you have to reassemble every year. Here's what's included:
 
-- Bookkeeping: daily transaction classification, expense tracking, and account reconciliation so your books are current, not caught up in April.
+- Accounting: daily transaction classification, expense tracking, and account reconciliation so your books are current, not caught up in April.
 - Payroll coordination: wage calculations, tax filings, and direct deposit handled so paydays never slip.
 - Tax planning and preparation: year-round strategy sessions plus your return, coordinated by the same team that manages your monthly books.
 - Advisory and CFO-level insight: margin analysis, cash flow forecasting, and entity guidance delivered in plain language, not jargon.
@@ -45,7 +45,7 @@ Compare that to a one-off tax return or an hourly bookkeeper billing you every t
 <!-- block: content-split | variant: image-left | image: farm-accounting-review.jpg | alt: "Farmer and accountant reviewing financial documents at a farm office table" | query: "farmer reviewing paperwork office" -->
 ## Built for farmers and agribusiness operators
 
-Generic outsourced accounting firms treat a farm like any small business. It isn't. Grain prices swing, equipment purchases hit in the fourth quarter, and cash flow depends on a harvest that may or may not cooperate with your loan payment schedule.
+General accounting firms treat a farm like any small business. It isn't. Grain prices swing, equipment purchases hit in the fourth quarter, and cash flow depends on a harvest that may or may not cooperate with your loan payment schedule.
 
 TruCount works with farmers and agribusiness operators across the Brookings, SD area and the Midwest, plus operations in western Minnesota and Logan and Shelby counties in Ohio. We structure multi-entity farm and professional service business setups so income, equipment, and land are tracked where they actually belong, not lumped together and guessed at come tax time.
 
@@ -76,38 +76,29 @@ It's the kind of access most local firms in Brookings still can't offer, because
 <!-- block: stats-bar | variant: 3-up -->
 ## Why Midwest business owners choose TruCount
 
-TruCount CPA PC opened in 2009, spent its first four to five years as a solo practice, then moved to Brookings and grew into the team it is today. That history matters when you're trusting someone with your farm's books or your firm's payroll: we've made the mistakes already, on our own operation, before we made recommendations on yours.
-
-### 51 years
-Combined accounting experience from Kristy and Brandi, each with 13 years at TruCount.
-
-### 2009
-The year TruCount CPA PC was founded, now serving the Brookings, SD area and the Midwest.
-
-### 2025
-Named among the Best Accountants and Best Bookkeepers in Brookings, South Dakota by Quality Business Awards.
+TruCount CPA PC opened in 2009 and has grown into the team it is today. That history matters when you're trusting someone with your farm's books or your firm's payroll.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Outsourced accounting department
 
 **Q: What is included in outsourced accounting services?**
-A: TruCount's outsourced accounting bundles bookkeeping, payroll coordination, tax planning, and CFO-level advisory into one fixed monthly fee. You get a full back-office team, real-time financial access through a secure online platform, and year-round tax strategy, without hiring in-house staff.
+A: TruCount's outsourced accounting bundles accounting, payroll coordination, tax planning, and CFO-level advisory into one fixed monthly fee. You get a full back-office team, real-time financial access through a secure online platform, and year-round tax strategy, without hiring in-house staff.
 
-**Q: How much does outsourced accounting cost in Brookings, SD?**
+**Q: How much does outsourced accounting cost in Brookings, SD and across the Midwest?**
 A: Pricing depends on your business size, entity structure, and current bookkeeping setup. TruCount scopes a fixed monthly fee after a consultation, so there are no hourly surprises or per-service invoices once your plan is set.
 
 **Q: Can outsourced accounting work for a farm or agribusiness?**
 A: Yes. TruCount handles multi-entity farm structures, seasonal cash flow planning, and ag-specific deductions like the R&D credit and excess fertility deduction. This is a core focus for the firm, not an add-on service.
 
 **Q: How is this different from hiring a part-time bookkeeper?**
-A: A part-time bookkeeper handles data entry. TruCount's outsourced department adds payroll coordination, tax planning, and CFO-level advisory from Julie Underwood, CPA, and a team with 51 years of combined experience, all under one predictable fee.
+A: A part-time bookkeeper handles data entry. TruCount's outsourced department adds payroll coordination, tax planning, and CFO-level advisory from a team with years of combined experience, all under one predictable fee.
 
 <!-- block: cta-banner | variant: image-bg | image: schedule-consultation-cta.jpg | alt: "Business owner shaking hands with accountant after consultation meeting" | query: "handshake meeting office consultation" -->
 ## Let's build your outsourced accounting plan
 
-Every farm, agribusiness, and professional service business runs differently, so your fixed monthly fee should reflect your actual workload, not a generic package. Tell us what you're running now, whether that's a one-person bookkeeping setup or nothing at all, and we'll scope a bundle that covers bookkeeping, payroll coordination, tax planning, and advisory under one price.
+Every farm, agribusiness, and professional service business runs differently, so your fixed monthly fee should reflect your actual workload, not a generic package. Tell us what you're running now, whether that's a one-person bookkeeping setup or nothing at all, and we'll scope a bundle that covers accounting, payroll coordination, tax planning, and advisory under one price.
 
-Julie Underwood, CPA, and the TruCount team serve the Brookings, SD area and the Midwest. [Schedule a consultation](/contact) and get out of the books and back to your business.
+The TruCount team serves the Brookings, SD area and the Midwest. [Schedule a consultation](/contact) and get out of the books and back to your business.
 
 ---
 ## SEO & AIO Metadata
