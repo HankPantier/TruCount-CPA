@@ -136,7 +136,7 @@ TruCount CPA PC is a CPA firm in Brookings, SD, serving farmers, agribusiness op
 **FAQ Block:**
 
 **Q: Is TruCount CPA PC a local CPA firm in Brookings, SD?**
-A: Yes. TruCount CPA PC is based in Brookings, SD, founded in 2009, and serves farmers, agribusiness operators, and service businesses across Brookings, Kingsbury, and Moody counties, plus Western Minnesota and Ohio.
+A: Yes. TruCount CPA PC is based in Brookings, SD, founded in 2009, and serves farmers, agribusiness operators, and professional service businesses in the Brookings, SD, area and across the Midwest.
 
 **Q: What does the fixed monthly fee include?**
 A: The fixed monthly fee bundles services like bookkeeping, payroll, tax preparation, and outsourced accounting into one flat rate, so there are no surprise invoices for phone calls or routine questions throughout the year.
@@ -144,11 +144,11 @@ A: The fixed monthly fee bundles services like bookkeeping, payroll, tax prepara
 **Q: Does TruCount help with farm-specific tax deductions?**
 A: Yes. TruCount works with agriculture clients on specialized items like the R&D credit for farmers investing in new methods or equipment and the excess fertility deduction for soil nutrient value on land purchases.
 
-**Q: Can I see my financials in real time?**
+**Q: Will I have anytime access to my financials?**
 A: Yes. TruCount provides a secure online platform where clients can view financials, upload documents, and collaborate with their CPA anytime, rather than waiting for a scheduled appointment.
 
 **Q: Does TruCount only work with agriculture clients?**
-A: No. Alongside farmers and agribusiness operators, TruCount serves service-based businesses and individuals needing personal tax support, with CFO-level insight and entity structuring for growing service companies.
+A: No. Alongside farmers and agribusiness operators, TruCount serves professional service businesses and individuals needing personal tax support, with CFO-level insight and entity structuring for growing service companies.
 
 **Q: How do I get started with TruCount CPA PC?**
 A: Schedule a consultation through the contact page. The team will walk through your bookkeeping, payroll, and tax needs and outline a fixed monthly fee before any work begins.
@@ -242,7 +242,7 @@ TruCount CPA PC, founded 2009 in Brookings, SD, bundles bookkeeping, payroll, ta
       "name": "Is TruCount CPA PC a local CPA firm in Brookings, SD?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes. TruCount CPA PC is based in Brookings, SD, founded in 2009, and serves farmers, agribusiness operators, and service businesses across Brookings, Kingsbury, and Moody counties, plus Western Minnesota and Ohio."
+        "text": "Yes. TruCount CPA PC is based in Brookings, SD, founded in 2009, and serves farmers, agribusiness operators, and professional service businesses in the Brookings, SD, area and across the Midwest."
       }
     },
     {
@@ -263,7 +263,7 @@ TruCount CPA PC, founded 2009 in Brookings, SD, bundles bookkeeping, payroll, ta
     },
     {
       "@type": "Question",
-      "name": "Can I see my financials in real time?",
+      "name": "Will I have anytime access to my financials?",
       "acceptedAnswer": {
         "@type": "Answer",
         "text": "Yes. TruCount provides a secure online platform where clients can view financials, upload documents, and collaborate with their CPA anytime, rather than waiting for a scheduled appointment."
@@ -274,7 +274,7 @@ TruCount CPA PC, founded 2009 in Brookings, SD, bundles bookkeeping, payroll, ta
       "name": "Does TruCount only work with agriculture clients?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "No. Alongside farmers and agribusiness operators, TruCount serves service-based businesses and individuals needing personal tax support, with CFO-level insight and entity structuring for growing service companies."
+        "text": "No. Alongside farmers and agribusiness operators, TruCount serves professional service businesses and individuals needing personal tax support, with CFO-level insight and entity structuring for growing service companies."
       }
     },
     {
