@@ -1,56 +1,56 @@
 {
   "primary": [
     {
-      "label": "Services",
-      "url": "/services",
+      "label": "What We Do",
+      "url": "/what-we-do",
       "children": [
         {
           "label": "Outsourced accounting",
-          "url": "/services/outsourced-accounting",
+          "url": "/what-we-do/outsourced-accounting",
           "children": [
             {
               "label": "Bookkeeping",
-              "url": "/services/outsourced-accounting/bookkeeping"
+              "url": "/what-we-do/outsourced-accounting/bookkeeping"
             },
             {
               "label": "Payroll",
-              "url": "/services/outsourced-accounting/payroll"
+              "url": "/what-we-do/outsourced-accounting/payroll"
             },
             {
               "label": "Tax preparation and planning",
-              "url": "/services/outsourced-accounting/tax"
+              "url": "/what-we-do/outsourced-accounting/tax"
             }
           ]
         },
         {
           "label": "Advisory Services",
-          "url": "/services/advisory-services",
+          "url": "/what-we-do/advisory-services",
           "children": [
             {
               "label": "Entity type analysis",
-              "url": "/services/advisory-services/entity-type-analysis"
+              "url": "/what-we-do/advisory-services/entity-type-analysis"
             },
             {
               "label": "Retirement plan analysis",
-              "url": "/services/advisory-services/retirement-plan-analysis"
+              "url": "/what-we-do/advisory-services/retirement-plan-analysis"
             },
             {
               "label": "Accounting system setup",
-              "url": "/services/advisory-services/accounting-system-setup"
+              "url": "/what-we-do/advisory-services/accounting-system-setup"
             },
             {
               "label": "R&D Tax Credits",
-              "url": "/services/advisory-services/r-and-d-tax-credits"
+              "url": "/what-we-do/advisory-services/r-and-d-tax-credits"
             },
             {
               "label": "Succession Planning",
-              "url": "/services/advisory-services/succession-planning"
+              "url": "/what-we-do/advisory-services/succession-planning"
             }
           ]
         },
         {
           "label": "Personal income tax",
-          "url": "/services/personal-income-tax"
+          "url": "/what-we-do/personal-income-tax"
         }
       ]
     },
