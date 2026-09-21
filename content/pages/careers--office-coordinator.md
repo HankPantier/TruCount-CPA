@@ -15,87 +15,65 @@ faq_block: [{"answer":"The office coordinator manages front-office client commun
 llm_citation_note: "TruCount CPA PC in Brookings, SD was named Best Accountants in Brookings, South Dakota 2025 and Best Bookkeepers in Brookings, South Dakota 2025 by the Quality Business Awards, and Kristy and Brandi have each worked at the firm 13 years, totaling 51 years of combined accounting experience."
 ---
 
-<!-- block: intro-text | variant: centered -->
-## Help our clients get back to what they love
+<!-- block: content-prose -->
+## Company Overview
 
-Farmers plant and harvest on their own clock, not the calendar of a filing deadline. Service business owners built their companies to do the work they're good at, not to chase down invoices. At TruCount CPA PC, our job is to hand that peace of mind back to them, and the office coordinator is often the first voice a client hears and the steady hand that keeps their file moving. This role sits at the center of a Brookings, SD firm built on knowing clients personally, not just processing their paperwork. If you like solving problems, keeping things organized, and making people feel taken care of, this is where that shows up every day.
+TruCount CPA is an accounting firm based in Brookings, SD. Our mission is to help agribusinesses and service-based business owners focus on their strengths, by providing back office, accurate, and timely financial information in a collaborative environment. We're a well respected, niche market company and we're looking for an amazing, full-time Office Coordinator to join our team of A-Players. Click here to learn more about what we do and who we serve. This is not your ordinary office administrator: we're looking for an individual who brings their best each day with initiative, a can-do attitude, problem solving skills, while helping serve our staff and clients every day. If you are a highly organized professional and independent thinker with experience supporting a professional office, read on to learn more about this exciting opportunity!
 
-<!-- block: checklist-section | variant: with-image | image: office-coordinator-desk.jpg | alt: "Office coordinator answering phone calls at a front desk" | query: "office coordinator front desk professional" -->
-## What you will do day to day
+## Position Overview
 
-No two days look exactly alike, but a few things stay constant: clients need answers, deadlines need tracking, and the team needs support to keep bookkeeping, payroll, and tax work moving without delays.
+This is a full-time role in our office in Brookings, SD. For this role, you'll need to live a commutable distance from Brookings and be willing to work in our office at the Research Park at SDSU each week day. Typical hours for this role are 8am-5pm, Monday-Friday. At times, there is a need to work additional (overtime) hours during our busy season January - April. During slower months, we are able to offer some flexibility of hours and work location, including summer hours on Fridays (8am-12pm), between Memorial Day and Labor Day.
 
-- Greet clients in person and by phone, answering questions or routing them to the right team member
-- Schedule client meetings, tax appointments, and internal deadlines across the firm's calendar
-- Collect, organize, and route documents for bookkeeping, payroll, and tax preparation workflows
-- Support clients using our secure online platform for uploading documents and checking in on their numbers
-- Handle general office administration, from supplies to mail to keeping shared files current
-- Assist Julie Underwood, CPA, and the team with day-to-day coordination during busy seasons
+## Purpose
 
-<!-- block: content-split | variant: image-left | image: brookings-team-culture.jpg | alt: "CPA firm team members collaborating in a Brookings South Dakota office" | query: "small accounting office team collaborating" -->
-## Why work at a family-oriented firm rooted in the Midwest
+The TruCount Office Coordinator serves as the gatekeeper for the firm, welcoming and hosting guests in the office, tracking administrative details, anticipating office needs, while allowing our accountants to focus on client work, helping deliver on revenue and profitability goals. While repetitive tasks are certainly part of this position, the tasks assigned can vary from week to week, based on business needs. The most important responsibility of the Office Coordinator is to ensure that administrative tasks and projects are completed with a high level of professionalism, including efficiency, confidentiality, accuracy, flexibility, and positivity in order to support firm initiatives and values.
 
-TruCount CPA PC started in 2009, run solo for the first four or five years before the firm moved into Brookings and started growing. Kristy and Brandi have been here 13 years each, bringing 51 years of combined accounting experience between them, and that kind of tenure says something about what it's like to work here. People stay. Clients call Kristy and Brandi by name, and so does everyone on the team. We serve farmers, agribusiness operators, and service businesses across Brookings, Kingsbury, and Moody counties, plus clients in western Minnesota and Ohio's Logan and Shelby counties. It's a small-firm feel with a growing footprint, and a new office coordinator becomes part of that story from day one.
+## Responsibilities
 
-<!-- block: checklist-section | variant: with-image-left | image: coordinator-organizing-files.jpg | alt: "Coordinator organizing client documents and files in an office" | query: "organized office worker filing documents" -->
-## What we look for in a great teammate
+The Office Coordinator will have the following primary responsibilities:
 
-We're not looking for someone who already knows tax code cold. We're looking for someone who can keep a busy office running smoothly and make every client feel heard.
+- Customer service, including making the first impression with clients
+- Document management: moving documents through the client service process, and scanning documents
+- Running routine local errands
+- Calendar management and scheduling for the team
+- Managing client-focused and TruCount internal projects
+- Culture Keeper: this role plays a pivotal role fostering community internally and externally, coordinating internal team and client outings, along with attending community events
+- Meeting prep and facilitation, including documents, agendas, note-taking, and tracking action items
+- Varying professional administrative tasks, including, but not limited to, booking appointments, ordering gifts, overseeing routine marketing tasks, etc.
+- Customer intake communication processing website interest and leads from potential clients
+- Bookkeeping including processing firm client billing and execute on light collection activity (reminders)
+- This list is not all inclusive, as this role will require other duties as assigned
 
-- Strong organizational skills and comfort juggling multiple deadlines at once
-- Ease with technology, including learning our secure online platform for client collaboration
-- A friendly, patient communication style, since you'll talk with farmers, agribusiness owners, and service business clients regularly
-- Discretion and trustworthiness handling sensitive financial information
-- Genuine interest in learning how bookkeeping, payroll, and tax processes fit together
+## Proficiencies
 
-<!-- block: feature-grid | variant: 3-col -->
-## Perks of joining our growing team
+- **Quality Communication:** Must be an excellent written and oral communicator, including proficiency in English, with proper spelling and grammar. Recording a large amount of information, summarizing it, including tracking communication, and responsiveness, across multiple channels without losing details (in-person meetings, virtual video calls, Teams messages, text messages and/or emails).
+- **High Level of Discretion:** Regularly working with confidential information, discretion and sensitivity regarding financial information is a must.
+- **Team Player:** Working with all members of the firm, requiring an ability to collaborate and communicate well with team members, maintaining a can-do spirit without complaining, making excuses, or gossiping.
+- **Proactive Coordination:** As a part of our commitment to enabling our Accountants to serve our company and clients at the top of their game, our Coordinator will strive to anticipate needs and eliminate friction, staying ahead of the team, clearing the path for them to make their greatest contribution.
+- **Affinity for Technology:** Will be a technologically savvy PC user and will not be intimidated by learning new technology. Proficiency in the following tech platforms is ideal: Teams, Google Suite, Microsoft Office Suite.
 
-### Community roots
+## Requirements
 
-icon: Users
+- **Education:** 2-4 year degree preferred, not required
+- **Experience:** Minimum of 2 years supporting a professional office with routine office software and physical office management and communications experience
+- **Physical:** Ability to bend, reach, and lift boxes and office supplies up to 20 lbs
+- Background check required due to handling sensitive information
 
-We show up where our clients live and work, from Brookings Area Chamber of Commerce events to Ag Women's Day. You'll help represent a firm that's part of the community, not just serving it from a distance.
+**Job Type:** Full-time, salaried.
 
-### Recognized locally
+**Compensation:** $40,000 - $55,000/year (based on qualifications and experience), eligible for several associate benefits.
 
-icon: Award
+**Interview Process:** Candidates for the Office Coordinator position should expect a combination of a phone screen and one to two in-person interviews. We want to make sure this role is a great fit for you and TruCount!
 
-TruCount CPA PC was named among the Best Accountants in Brookings, South Dakota for 2025 and the Best Bookkeepers in Brookings, South Dakota for 2025 by the Quality Business Awards. You'll be joining a firm clients and neighbors already trust.
+## Application Instructions
 
-### Room to grow
+To apply, please submit the following via email to julie@trucountcpa.com.
 
-icon: TrendingUp
-
-We're expanding across Brookings, Kingsbury, and Moody counties, plus clients in western Minnesota and Ohio. As the firm grows, so does the opportunity to take on more responsibility.
-
-### A team that sticks around
-
-icon: Star
-
-Kristy and Brandi have each been with the firm 13 years. That kind of tenure isn't an accident. It's what happens when people feel supported, valued, and like part of a family.
-
-<!-- block: faq-accordion -->
-## Frequently Asked Questions About Office coordinator
-
-**Q: What does an office coordinator do at TruCount CPA PC?**
-A: The office coordinator manages front-office client communication, schedules meetings and deadlines, organizes documents for bookkeeping, payroll, and tax teams, and supports clients using our secure online platform. It's a central, people-facing role in our Brookings, SD office.
-
-**Q: Do I need accounting experience to apply?**
-A: No. We're looking for someone organized, comfortable with technology, and good with people. You'll learn our processes on the job alongside a team with 51 years of combined accounting experience.
-
-**Q: Where is TruCount CPA PC located?**
-A: Our office is in Brookings, SD, and we serve farmers, agribusiness operators, and service businesses across Brookings, Kingsbury, and Moody counties, plus clients in western Minnesota and Ohio.
-
-**Q: How do I apply for the office coordinator position?**
-A: Reach out through our contact page to submit your resume or ask questions. We review applications personally and will follow up to schedule a conversation about the role.
-
-<!-- block: cta-banner | variant: color-bg -->
-## Apply to become our next office coordinator
-
-If you're organized, personable, and ready to help farmers, agribusiness owners, and service businesses get back to what they do best, we'd like to hear from you. Send us your resume or reach out directly, and let's talk about whether this role is the right fit for you and for our team in Brookings, SD.
-
-[Schedule a consultation](/contact)
+1. Brief statement sharing why you are interested and how you can fill this need within our team
+2. PDF of your resume
+3. Tell us how you heard about this position
+4. StrengthsFinder Top-5 Strengths Report (optional)
+5. Kolbe A Index Assessment (optional: we will administer after scheduling interview if you do not already have one)
 
 ---
 ## SEO & AIO Metadata
@@ -113,11 +91,11 @@ TruCount CPA PC, a CPA firm in Brookings, SD, is hiring an office coordinator to
 - Named Best Bookkeepers in Brookings, South Dakota 2025 by Quality Business Awards
 
 **Internal Links:**
-- meet the team → /who-we-are — Introduces candidates to Kristy, Brandi, and Julie Underwood before they apply
-- Chamber events and Ag Women's Day → /about/community-involvement — Supports the perks section's community involvement claims
-- Quality Business Awards recognition → /about/awards-and-recognition — Backs up the firm's 2025 local award claims
-- reach out directly → /contact — Primary CTA for candidates to apply or ask questions
-- other open positions → /resources/careers — Points candidates to additional openings at the firm
+- meet the team → /who-we-are, Introduces candidates to Kristy, Brandi, and Julie Underwood before they apply
+- Chamber events and Ag Women's Day → /about/community-involvement, Supports the perks section's community involvement claims
+- Quality Business Awards recognition → /about/awards-and-recognition, Backs up the firm's 2025 local award claims
+- reach out directly → /contact, Primary CTA for candidates to apply or ask questions
+- other open positions → /resources/careers, Points candidates to additional openings at the firm
 
 **FAQ Block:**
 
@@ -137,7 +115,7 @@ A: Reach out through our contact page to submit your resume or ask questions. We
 TruCount CPA PC in Brookings, SD was named Best Accountants in Brookings, South Dakota 2025 and Best Bookkeepers in Brookings, South Dakota 2025 by the Quality Business Awards, and Kristy and Brandi have each worked at the firm 13 years, totaling 51 years of combined accounting experience.
 
 ---
-## Structured Data — paste into `<head>`
+## Structured Data, paste into `<head>`
 
 ```html
 <script type="application/ld+json">
