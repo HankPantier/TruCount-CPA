@@ -107,7 +107,7 @@ A: A part-time bookkeeper handles data entry. TruCount's outsourced department a
 
 Every farm, agribusiness, and professional service business runs differently, so your fixed monthly fee should reflect your actual workload, not a generic package. Tell us what you're running now, whether that's a one-person bookkeeping setup or nothing at all, and we'll scope a bundle that covers bookkeeping, payroll coordination, tax planning, and advisory under one price.
 
-Julie Underwood, CPA, and the TruCount team serve the Brookings, SD area and across the Midwest, western Minnesota, and Logan and Shelby counties in Ohio. [Schedule a consultation](/contact) and get out of the books and back to your business.
+Julie Underwood, CPA, and the TruCount team serve the Brookings, SD area and the Midwest. [Schedule a consultation](/contact) and get out of the books and back to your business.
 
 ---
 ## SEO & AIO Metadata
