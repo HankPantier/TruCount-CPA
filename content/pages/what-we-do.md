@@ -1,7 +1,7 @@
 ---
-title: "Services | TruCount CPA PC"
+title: "What We Do | TruCount CPA PC"
 url: "/services"
-meta_title: "CPA Services Brookings SD | TruCount CPA PC"
+meta_title: "What We Do | CPA Services Brookings SD | TruCount CPA PC"
 meta_description: "Bookkeeping, payroll, tax planning, and outsourced accounting for farmers and service businesses in Brookings SD. Fixed monthly fee, no billing surprises."
 target_keyword: "CPA services Brookings SD"
 secondary_keywords: ["bookkeeping services Brookings South Dakota","payroll processing Brookings SD","tax preparation Brookings","farm accounting Brookings SD","agricultural tax services South Dakota","outsourced accounting Brookings","personal income tax Brookings SD","agribusiness accounting Brookings"]
