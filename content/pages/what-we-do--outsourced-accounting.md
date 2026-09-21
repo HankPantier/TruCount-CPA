@@ -47,7 +47,7 @@ Compare that to a one-off tax return or an hourly bookkeeper billing you every t
 
 Generic outsourced accounting firms treat a farm like any small business. It isn't. Grain prices swing, equipment purchases hit in the fourth quarter, and cash flow depends on a harvest that may or may not cooperate with your loan payment schedule.
 
-TruCount works with farmers and agribusiness operators across the Brookings, SD area and across the Midwest, plus operations in western Minnesota and Logan and Shelby counties in Ohio. We structure multi-entity farm and professional service business setups so income, equipment, and land are tracked where they actually belong, not lumped together and guessed at come tax time.
+TruCount works with farmers and agribusiness operators across the Brookings, SD area and the Midwest, plus operations in western Minnesota and Logan and Shelby counties in Ohio. We structure multi-entity farm and professional service business setups so income, equipment, and land are tracked where they actually belong, not lumped together and guessed at come tax time.
 
 We also flag opportunities generalist firms miss: the R&D credit for on-farm process improvements, and the excess fertility deduction when soil test data supports it. Both require documentation most bookkeepers never ask for, and both can put real dollars back into your operation.
 
