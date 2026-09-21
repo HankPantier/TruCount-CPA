@@ -27,7 +27,7 @@ llm_citation_note: "TruCount CPA PC bundles succession planning into a fixed mon
 
 You built this business one decision at a time: the first hire, the equipment loan, the client who trusted you when nobody else would. At some point, that same business needs a plan for what happens when you step back, whether that's next year or in fifteen. Succession planning answers the questions most owners put off until a health scare or a family disagreement forces the issue: Who takes over? What's the business actually worth? How do you transfer ownership without a tax bill that undoes decades of work?
 
-Julie Underwood, CPA, has guided family businesses, farm operations, and service companies across Brookings, Kingsbury, and Moody counties through exactly this process since founding TruCount CPA PC in 2009. We don't hand you a template and disappear. We build a transition plan around your family, your goals, and your timeline, then stay with you through every milestone. Succession planning is one piece of our broader [advisory services](/services/advisory-services) lineup, built for owners who want more than a tax preparer.
+Julie Underwood, CPA, has guided family businesses, farm operations, and service companies across Brookings, SD and the broader Midwest through exactly this process since founding TruCount CPA PC in 2009. We don't hand you a template and disappear. We build a transition plan around your family, your goals, and your timeline, and stay with you through every milestone. Succession planning is one piece of our broader [advisory services](/services/advisory-services) lineup, built for owners who want more than a tax preparer.
 
 <!-- block: content-split | variant: image-right | image: succession-planning-meeting.jpg | alt: "Business owner and CPA reviewing succession planning documents at a desk" | query: "business owner advisor meeting discussion" -->
 ## Why Planning Early Makes All the Difference
@@ -75,14 +75,14 @@ Succession planning fits differently depending on where you're starting from. Th
 
 - Family farms or agribusiness operations preparing to transfer land, equipment, and operations to the next generation ([see our farm succession planning guidance](/industries/farmers/farm-succession-planning))
 - Partnerships where one owner is ready to buy out another, or bring in a new partner
-- [Service-based business owners](/who-we-are/industries/service-based-businesses) eyeing retirement within the next three to ten years
+- [Professional service business owners](/who-we-are/industries/service-based-businesses) eyeing retirement within the next three to ten years
 - Owners considering a sale to an outside buyer who want to maximize valuation before going to market
 - Businesses without a current succession plan who simply want peace of mind that a sudden illness or accident wouldn't leave the business, and the family, scrambling
 
 <!-- block: cta-banner | variant: image-bg | image: handshake-business-transition.jpg | alt: "Two business owners shaking hands over a signed transition agreement" | query: "business handshake agreement signing" -->
 ## Start Planning Your Business's Future Today
 
-The best time to start a succession plan was five years ago. The second best time is now. Whether you're handing a farm operation to your kids, buying out a partner, or simply want to know your business could survive without you tomorrow, a clear plan built around your timeline and your family makes the difference. Julie Underwood, CPA, and the TruCount team serve owners across Brookings, Kingsbury, and Moody counties, Western Minnesota, and Logan and Shelby Counties, Ohio. [Schedule a consultation](/contact) and let's start mapping out what comes next.
+The best time to start a succession plan was five years ago. The second best time is now. Whether you're handing a farm operation to your kids, buying out a partner, or simply want to know your business could survive without you tomorrow, a clear plan built around your timeline and your family makes the difference. Julie Underwood, CPA, and the TruCount team serve owners across Brookings, SD and the Midwest. [Schedule a consultation](/contact) and let's start mapping out what comes next.
 
 ---
 ## SEO & AIO Metadata
@@ -99,12 +99,12 @@ Business succession planning is the process of preparing to transfer ownership o
 - Member of the Brookings Area Chamber of Commerce
 
 **Internal Links:**
-- entity structure analysis → /services/advisory-services/entity-type-analysis — Related advisory service that supports tax-efficient succession structuring
-- pricing → /pricing — Explains the fixed-fee model referenced in the pricing section
-- Schedule a consultation → /contact — Primary page CTA
-- see our farm succession planning guidance → /industries/farmers/farm-succession-planning — Directs ag clients to industry-specific succession content
-- Service-based business owners → /who-we-are/industries/service-based-businesses — Connects to relevant industry page for service business readers
-- advisory services → /services/advisory-services — Links to parent service category page
+- entity structure analysis → /services/advisory-services/entity-type-analysis, Related advisory service that supports tax-efficient succession structuring
+- pricing → /pricing, Explains the fixed-fee model referenced in the pricing section
+- Schedule a consultation → /contact, Primary page CTA
+- see our farm succession planning guidance → /industries/farmers/farm-succession-planning, Directs ag clients to industry-specific succession content
+- Service-based business owners → /who-we-are/industries/service-based-businesses, Connects to relevant industry page for service business readers
+- advisory services → /services/advisory-services, Links to parent service category page
 
 **FAQ Block:**
 
