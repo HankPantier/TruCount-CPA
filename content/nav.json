@@ -86,13 +86,7 @@
       "children": [
         {
           "label": "Forms documents and links",
-          "url": "/resources/resources-library/forms-documents-and-links",
-          "children": [
-            {
-              "label": "Careers",
-              "url": "/resources/resources-library/forms-documents-and-links/careers"
-            }
-          ]
+          "url": "/resources/resources-library/forms-documents-and-links"
         },
         {
           "label": "Refund tracker",
@@ -101,6 +95,10 @@
         {
           "label": "Video library",
           "url": "/resources/resources-library/video-library"
+        },
+        {
+          "label": "Careers",
+          "url": "/resources/resources-library/careers"
         }
       ]
     },
