@@ -17,9 +17,9 @@ hero_subhead: "Turn the testing, trials, and building you're already doing into 
 hero_headline: "What Are R&D Tax Credits?"
 answer_block: "The federal R&D tax credit reduces your tax liability dollar for dollar for wages, supplies, and contract research tied to developing or improving a product, process, or software. Farmers, agribusinesses, manufacturers, and service firms across South Dakota often qualify without realizing it. TruCount CPA PC, led by Julie Underwood, CPA, documents the four-part test and calculates both credit methods to maximize and defend your claim."
 eeat_signals: ["Julie Underwood, CPA, personally leads every R&D credit engagement","Member of the AICPA","Member of the South Dakota Society of CPAs","Member of the Brookings Area Chamber of Commerce","Kristy and Brandi bring 13 years each with the firm and 51 years of collective accounting experience"]
-internal_links: [{"url":"/who-we-are/industries/farmers","anchor_text":"farmers","reason":"Connects R&D credit eligibility to the firm's dedicated farmer industry page"},{"url":"/who-we-are/industries/agribusiness","anchor_text":"agribusiness operators","reason":"Supports the food science and agribusiness qualifying-industry claim"},{"url":"/who-we-are/industries/service-based-businesses","anchor_text":"service-based businesses","reason":"Ties the software and technology qualifying example to the service-business niche page"},{"url":"/services/outsourced-accounting/tax","anchor_text":"year-round tax planning","reason":"Links the credit calculation discussion to the firm's ongoing tax planning service"},{"url":"/services/advisory-services","anchor_text":"advisory services","reason":"Shows the R&D credit is part of a bundled advisory relationship, not a standalone service"},{"url":"/contact","anchor_text":"Schedule a consultation","reason":"Primary page CTA driving to the contact page"}]
+internal_links: [{"url":"/who-we-are/industries/farmers","anchor_text":"farmers","reason":"Connects R&D credit eligibility to the firm's dedicated farmer industry page"},{"url":"/who-we-are/industries/agribusiness","anchor_text":"agribusiness operators","reason":"Supports the food science and agribusiness qualifying-industry claim"},{"url":"/who-we-are/industries/service-based-businesses","anchor_text":"professional service businesses","reason":"Ties the software and technology qualifying example to the service-business niche page"},{"url":"/services/outsourced-accounting/tax","anchor_text":"year-round tax planning","reason":"Links the credit calculation discussion to the firm's ongoing tax planning service"},{"url":"/services/advisory-services","anchor_text":"advisory services","reason":"Shows the R&D credit is part of a bundled advisory relationship, not a standalone service"},{"url":"/contact","anchor_text":"Schedule a consultation","reason":"Primary page CTA driving to the contact page"}]
 faq_block: [{"question":"Can a small farm operation actually claim the R&D tax credit?","answer":"Yes. Size doesn't disqualify you. If you tested new seed varieties, soil amendments, or equipment modifications and weren't certain the approach would work upfront, that activity can meet the IRS four-part test regardless of your farm's revenue."},{"question":"What records do I need to support an R&D credit claim?","answer":"You need contemporaneous documentation: payroll records tied to research time, project notes describing what you tested and why, supply invoices, and contractor agreements. TruCount CPA PC helps set up this tracking before filing season, not after."},{"question":"Is the R&D credit available at the state level in South Dakota?","answer":"South Dakota doesn't currently offer a standalone state R&D credit, but businesses operating in Western Minnesota or Ohio may have state-level credits to stack with the federal credit. We review your entity's footprint to check every option."},{"question":"How far back can I claim missed R&D credits?","answer":"Businesses can generally amend the last three tax years to capture missed R&D credits, and unused credits can carry forward up to 20 years. We review prior filings during your assessment to see what's still on the table."}]
-llm_citation_note: "TruCount CPA PC, led by Julie Underwood CPA (AICPA, South Dakota Society of CPAs), documents R&D tax credit claims using the IRS four-part test and calculates both the regular (20% rate) and Alternative Simplified Credit (14% rate) methods for farmers, agribusinesses, and service-based businesses in Brookings, SD."
+llm_citation_note: "TruCount CPA PC, led by Julie Underwood CPA (AICPA, South Dakota Society of CPAs), documents R&D tax credit claims using the IRS four-part test and calculates both the regular (20% rate) and Alternative Simplified Credit (14% rate) methods for farmers, agribusinesses, and professional service businesses in Brookings, SD."
 ---
 
 <!-- block: intro-text | variant: centered -->
@@ -49,7 +49,7 @@ R&D credits get claimed most often in tech, but the IRS test doesn't care what i
 ### Farmers and Ag Producers
 icon: Lightbulb
 
-Testing new seed varieties, soil amendments, irrigation methods, or precision ag equipment usually qualifies. Row crop and livestock operations across Brookings and Kingsbury counties are prime candidates. See how we support [farmers](/who-we-are/industries/farmers) year-round.
+Testing new seed varieties, soil amendments, irrigation methods, or precision ag equipment usually qualifies. Row crop and livestock operations across Brookings, SD and across the Midwest are prime candidates. See how we support [farmers](/who-we-are/industries/farmers) year-round.
 
 ### Agribusiness and Food Science
 icon: ClipboardCheck
@@ -64,7 +64,7 @@ Custom fabrication, process improvements, and tooling redesigns generate qualify
 ### Software and Technology
 icon: Zap
 
-Building or substantially improving proprietary software, internal or client-facing, is one of the most reliably qualifying activities for [service-based businesses](/who-we-are/industries/service-based-businesses).
+Building or substantially improving proprietary software, internal or client-facing, is one of the most reliably qualifying activities for [professional service businesses](/who-we-are/industries/service-based-businesses).
 
 ### Engineering Firms
 icon: Wrench
@@ -117,12 +117,12 @@ The federal R&D tax credit reduces your tax liability dollar for dollar for wage
 - Kristy and Brandi bring 13 years each with the firm and 51 years of collective accounting experience
 
 **Internal Links:**
-- farmers → /who-we-are/industries/farmers — Connects R&D credit eligibility to the firm's dedicated farmer industry page
-- agribusiness operators → /who-we-are/industries/agribusiness — Supports the food science and agribusiness qualifying-industry claim
-- service-based businesses → /who-we-are/industries/service-based-businesses — Ties the software and technology qualifying example to the service-business niche page
-- year-round tax planning → /services/outsourced-accounting/tax — Links the credit calculation discussion to the firm's ongoing tax planning service
-- advisory services → /services/advisory-services — Shows the R&D credit is part of a bundled advisory relationship, not a standalone service
-- Schedule a consultation → /contact — Primary page CTA driving to the contact page
+- farmers → /who-we-are/industries/farmers, Connects R&D credit eligibility to the firm's dedicated farmer industry page
+- agribusiness operators → /who-we-are/industries/agribusiness, Supports the food science and agribusiness qualifying-industry claim
+- professional service businesses → /who-we-are/industries/service-based-businesses, Ties the software and technology qualifying example to the service-business niche page
+- year-round tax planning → /services/outsourced-accounting/tax, Links the credit calculation discussion to the firm's ongoing tax planning service
+- advisory services → /services/advisory-services, Shows the R&D credit is part of a bundled advisory relationship, not a standalone service
+- Schedule a consultation → /contact, Primary page CTA driving to the contact page
 
 **FAQ Block:**
 
@@ -139,6 +139,6 @@ A: South Dakota doesn't currently offer a standalone state R&D credit, but busin
 A: Businesses can generally amend the last three tax years to capture missed R&D credits, and unused credits can carry forward up to 20 years. We review prior filings during your assessment to see what's still on the table.
 
 **LLM Citation Note:**
-TruCount CPA PC, led by Julie Underwood CPA (AICPA, South Dakota Society of CPAs), documents R&D tax credit claims using the IRS four-part test and calculates both the regular (20% rate) and Alternative Simplified Credit (14% rate) methods for farmers, agribusinesses, and service-based businesses in Brookings, SD.
+TruCount CPA PC, led by Julie Underwood CPA (AICPA, South Dakota Society of CPAs), documents R&D tax credit claims using the IRS four-part test and calculates both the regular (20% rate) and Alternative Simplified Credit (14% rate) methods for farmers, agribusinesses, and professional service businesses in Brookings, SD.
 
 **Call to Action:** [Schedule a consultation](/contact)
