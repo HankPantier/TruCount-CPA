@@ -24,7 +24,7 @@
         },
         {
           "label": "Advisory Services",
-          "url": "/services/advisory-services",
+          "url": "/what-we-do/advisory-services",
           "children": [
             {
               "label": "Entity type analysis",
