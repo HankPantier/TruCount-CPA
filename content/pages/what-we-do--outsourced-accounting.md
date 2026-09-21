@@ -58,7 +58,7 @@ Seasonal cash flow gets planned for, not reacted to. You'll know in March what y
 
 Professional services firms, engineering shops, clinics, and contractors run on billable hours and project margins, not commodity prices. What you need is different from what a farm needs, but the goal is the same: know your numbers before you make a decision, not after.
 
-TruCount gives professional service business owners in Brookings and surrounding South Dakota counties real-time visibility into job costing, overhead allocation, and cash position. That's CFO-level insight without hiring a full-time controller at $90,000 a year plus benefits.
+TruCount gives professional service business owners in the Brookings, SD area and across the Midwest real-time visibility into job costing, overhead allocation, and cash position. That's CFO-level insight without hiring a full-time controller at $90,000 a year plus benefits.
 
 Monthly close happens on schedule. Profit and loss statements arrive when you need them for a bank conversation or a hiring decision, not three weeks late. Advisory sessions cover pricing strategy, entity structure, and tax timing throughout the year, so decisions get made with current numbers instead of last year's guess.
 
@@ -82,7 +82,7 @@ TruCount CPA PC opened in 2009, spent its first four to five years as a solo pra
 Combined accounting experience from Kristy and Brandi, each with 13 years at TruCount.
 
 ### 2009
-The year TruCount CPA PC was founded, now serving the Brookings, SD area and across the Midwest.
+The year TruCount CPA PC was founded, now serving the Brookings, SD area and the Midwest.
 
 ### 2025
 Named among the Best Accountants and Best Bookkeepers in Brookings, South Dakota by Quality Business Awards.
