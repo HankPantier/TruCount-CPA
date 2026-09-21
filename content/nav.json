@@ -55,30 +55,30 @@
       ]
     },
     {
-      "label": "Industries we serve",
-      "url": "/who-we-are/industries",
+      "label": "Who We Serve",
+      "url": "/who-we-serve",
       "children": [
         {
           "label": "Farmers & Crop Producers",
-          "url": "/who-we-are/industries/farmers"
+          "url": "/who-we-serve/farmers"
         },
         {
           "label": "Service based business accounting",
-          "url": "/who-we-are/industries/professional-service-businesses"
+          "url": "/who-we-serve/professional-service-businesses"
         },
         {
           "label": "Agribusiness Operations",
-          "url": "/who-we-are/industries/agribusiness"
+          "url": "/who-we-serve/agribusiness"
         }
       ]
     },
     {
       "label": "Who we are",
-      "url": "/who-we-are/industries/who-we-are",
+      "url": "/who-we-are",
       "children": [
         {
           "label": "Careers",
-          "url": "/who-we-are/industries/who-we-are/careers"
+          "url": "/who-we-are/careers"
         }
       ]
     },
