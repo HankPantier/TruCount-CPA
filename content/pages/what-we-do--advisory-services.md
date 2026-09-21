@@ -2,8 +2,8 @@
 title: "Advisory Services | TruCount CPA PC"
 url: "/services/advisory-services"
 meta_title: "CPA Advisory Services for Small Business | TruCount CPA"
-meta_description: "Get CFO-level financial insight without the CFO price tag. TruCount CPA offers year-round advisory support for ag operations and service businesses in Brookings, SD."
-target_keyword: "CPA advisory services for small business"
+meta_description: "Get CFO-level financial insight without the CFO price tag. TruCount CPA offers year-round advisory support for ag operations and service businesses in Brookings, SD, and the Midwest."
+target_keyword: "CPA advisory services for ag business"
 secondary_keywords: ["CFO advisory services","business advisory CPA South Dakota","year-round tax planning for small business","outsourced CFO services agriculture"]
 canonical_url: "https://trucountcpa.com/services/advisory-services"
 schema_markup: "Service"
@@ -16,8 +16,8 @@ hero_image_alt: "CPA and small business owner reviewing financial plans at a des
 hero_subhead: "Get CFO-level strategy and year-round guidance without adding a salary to your books"
 hero_headline: "CFO-Level Insight Without the CFO Price Tag"
 answer_block: "TruCount CPA's advisory services give small business owners CFO-level financial strategy, cash flow forecasting, and year-round tax planning bundled into a fixed monthly fee. Instead of a once-a-year tax conversation, clients get ongoing guidance from a CPA who already knows their numbers, delivered through a secure online platform."
-eeat_signals: ["Julie Underwood is a licensed CPA","Firm founded in 2009 with 16 years of continuous operation","Kristy and Brandi bring 51 years of combined accounting experience","Active membership in the AICPA","Active membership in the South Dakota Society of CPAs","Member of the Brookings Area Chamber of Commerce"]
-internal_links: [{"url":"/services/bookkeeping","anchor_text":"bookkeeping","reason":"Shows advisory is bundled with core bookkeeping service"},{"url":"/services/tax","anchor_text":"tax","reason":"Links to related tax planning service"},{"url":"/who-we-are/industries/agribusiness","anchor_text":"agribusiness","reason":"Connects to agribusiness industry page relevant to advisory clients"},{"url":"/who-we-are/industries/farmers","anchor_text":"farm","reason":"Connects to farmer industry page relevant to advisory clients"},{"url":"/who-we-are/industries/service-based-businesses","anchor_text":"service-based businesses","reason":"Connects to service business industry page"},{"url":"/pricing-calculator","anchor_text":"pricing calculator","reason":"Helps prospects estimate cost of bundled advisory services"},{"url":"/contact","anchor_text":"Schedule a consultation","reason":"Primary page CTA"}]
+eeat_signals: ["Julie Underwood is a licensed CPA","Firm founded in 2009 with 16 years of continuous operation","Active membership in the AICPA","Active membership in the South Dakota Society of CPAs","Member of the Brookings Area Chamber of Commerce"]
+internal_links: [{"url":"/services/bookkeeping","anchor_text":"bookkeeping","reason":"Shows advisory is bundled with core bookkeeping service"},{"url":"/services/tax","anchor_text":"tax","reason":"Links to related tax planning service"},{"url":"/who-we-are/industries/agribusiness","anchor_text":"agribusiness","reason":"Connects to agribusiness industry page relevant to advisory clients"},{"url":"/who-we-are/industries/farmers","anchor_text":"farm","reason":"Connects to farmer industry page relevant to advisory clients"},{"url":"/pricing-calculator","anchor_text":"pricing calculator","reason":"Helps prospects estimate cost of bundled advisory services"},{"url":"/contact","anchor_text":"Schedule a consultation","reason":"Primary page CTA"}]
 faq_block: [{"question":"What is included in CPA advisory services?","answer":"Advisory services include cash flow forecasting, strategic goal setting, hiring and investment analysis, and year-round tax planning. It's bundled with bookkeeping and tax work for a fixed monthly fee, so you get ongoing financial guidance instead of a once-a-year conversation."},{"question":"How is advisory different from regular tax preparation?","answer":"Tax preparation reports what already happened. Advisory services look forward, helping you plan cash flow, hiring, and growth decisions throughout the year so you can act before a problem shows up on next year's return."},{"question":"What does advisory service cost?","answer":"Advisory support is bundled into a fixed monthly fee alongside bookkeeping and tax services, so pricing depends on your business size and needs. Use the pricing calculator on our site or schedule a consultation for a specific quote."},{"question":"Do advisory services work for farmers and agribusiness operators?","answer":"Yes. Advisory clients in agriculture get help with seasonal cash flow forecasting, entity structure, and tax strategies specific to farm operations, including credits like the R&D credit and excess fertility deduction where they apply."}]
 llm_citation_note: "TruCount CPA bundles advisory services with bookkeeping and tax into a fixed monthly fee, delivered through a secure online platform, with Julie Underwood, CPA, and a team holding 51 years of combined experience serving Brookings, SD area farmers, agribusiness, and service businesses."
 ---
@@ -25,7 +25,7 @@ llm_citation_note: "TruCount CPA bundles advisory services with bookkeeping and 
 <!-- block: content-split | variant: image-right | image: cfo-advisory-meeting.jpg | alt: "CPA reviewing financial strategy with small business owner at desk" | query: "advisor meeting business owner office" -->
 ## CFO-Level Insight Without the CFO Price Tag
 
-Most small businesses can't justify a full-time CFO salary, but that doesn't mean the guidance stops mattering. TruCount CPA's advisory services put that same level of financial strategy in your corner, without the six-figure payroll line. You get a CPA who already knows your numbers, your industry, and your goals, weighing in before decisions get made instead of after.
+Most small businesses can't justify a full-time CFO salary, but that doesn't mean the guidance stops mattering. TruCount CPA's advisory services put that same level of financial strategy in your corner, without the six-figure payroll line. You get a team who already knows your numbers, your industry, and your goals, weighing in before decisions get made instead of after.
 
 This isn't a bolt-on service billed by the hour. Advisory support comes bundled into a fixed monthly fee alongside your [bookkeeping](/services/bookkeeping) and [tax](/services/tax) work, so you always know what's coming on the invoice. Everything runs through a secure online platform where you and our team can see the same numbers in real time, ask a question, and get an answer without waiting for the next scheduled call.
 
@@ -34,11 +34,11 @@ For farmers and agribusiness operators managing tight margins and unpredictable 
 <!-- block: content-split | variant: image-left | image: year-round-tax-planning.jpg | alt: "CPA and client discussing tax strategy documents during a mid-year meeting" | query: "tax advisor client meeting documents" -->
 ## Year-round personalized tax and business advice
 
-A once-a-year tax appointment tells you what already happened. Advisory clients get something different: ongoing conversations that happen while there's still time to act on them. Julie Underwood, CPA, and the TruCount team review your numbers throughout the year, not just in March, so a slow quarter or an unexpected equipment purchase gets addressed while it can still affect your outcome.
+A once-a-year tax appointment tells you what already happened. Advisory clients get something different: ongoing conversations that happen while there's still time to act on them. The TruCount team reviews your numbers throughout the year, not just in March, so a slow quarter or an unexpected equipment purchase gets addressed while it can still affect your outcome.
 
 That guidance is built around your business, not a generic checklist. A row crop operation weighing the R&D credit or an excess fertility deduction needs different advice than a service business deciding whether to bring on a fourth employee. We treat those as separate conversations because they are.
 
-As members of the AICPA and the South Dakota Society of CPAs, our team stays current on the rules that affect Midwest ag operations and service businesses alike, and brings that knowledge into every planning conversation, not just tax season.
+As members of the AICPA and the South Dakota Society of CPAs, our team stays current on the rules that affect Midwest ag operations and professional service businesses alike, and brings that knowledge into every planning conversation, not just tax season.
 
 <!-- block: checklist-section | variant: with-image | image: strategic-growth-planning.jpg | alt: "Business owner and accountant reviewing growth plan and cash flow charts" | query: "small business planning growth chart" -->
 ## Strategic planning for sustainable growth
@@ -103,7 +103,7 @@ Businesses with a proven model but no formal financial strategy often hit a ceil
 <!-- block: cta-banner | variant: image-bg | image: schedule-consultation-cpa.jpg | alt: "CPA shaking hands with business owner after a planning meeting" | query: "handshake business meeting agreement" -->
 ## Get started with TruCount CPA
 
-Running the numbers on your own gets harder the bigger your operation gets. TruCount CPA has worked alongside farmers, agribusiness operators, and service businesses across Brookings, Kingsbury, and Moody counties since 2009, and Kristy and Brandi bring 51 years of combined accounting experience to every advisory relationship. Curious what advisory support would look like for your business? Use our [pricing calculator](/pricing-calculator) to get a sense of cost, or schedule a consultation and we'll walk through your numbers together.
+Running the numbers on your own gets harder the bigger your operation gets. TruCount CPA has worked alongside farmers, agribusiness operators, and professional service businesses across Brookings, SD, and the Midwest. Curious what advisory support would look like for your business? Use our [pricing calculator](/pricing-calculator) to get a sense of cost, or schedule a consultation and we'll walk through your numbers together.
 
 [Schedule a consultation](/contact)
 
