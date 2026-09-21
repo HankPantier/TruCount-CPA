@@ -93,7 +93,7 @@ Operations expanding acreage, adding equipment, or bringing on a next generation
 ### Service-Based Business Owners
 icon: Briefcase
 
-Contractors, clinics, and professional practices scaling staff and revenue need someone watching cash flow between busy seasons. Learn more about how we work with [service-based businesses](/who-we-are/industries/service-based-businesses).
+Contractors, clinics, and professional practices scaling staff and revenue need someone watching cash flow between busy seasons. Learn more about how we work with [professional service businesses](/who-we-serve/professional-service-businesses).
 
 ### Established Businesses Ready to Scale
 icon: TrendingUp
@@ -122,13 +122,13 @@ TruCount CPA's advisory services give small business owners CFO-level financial 
 - Member of the Brookings Area Chamber of Commerce
 
 **Internal Links:**
-- bookkeeping → /services/bookkeeping — Shows advisory is bundled with core bookkeeping service
-- tax → /services/tax — Links to related tax planning service
-- agribusiness → /who-we-are/industries/agribusiness — Connects to agribusiness industry page relevant to advisory clients
-- farm → /who-we-are/industries/farmers — Connects to farmer industry page relevant to advisory clients
-- service-based businesses → /who-we-are/industries/service-based-businesses — Connects to service business industry page
-- pricing calculator → /pricing-calculator — Helps prospects estimate cost of bundled advisory services
-- Schedule a consultation → /contact — Primary page CTA
+- bookkeeping → /services/bookkeeping, Shows advisory is bundled with core bookkeeping service
+- tax → /services/tax, Links to related tax planning service
+- agribusiness → /who-we-are/industries/agribusiness, Connects to agribusiness industry page relevant to advisory clients
+- farm → /who-we-are/industries/farmers, Connects to farmer industry page relevant to advisory clients
+- professional service businesses → /who-we-serve/professional-service-businesses, Connects to professional service businesses page
+- pricing calculator → /pricing-calculator, Helps prospects estimate cost of bundled advisory services
+- Schedule a consultation → /contact, Primary page CTA
 
 **FAQ Block:**
 
