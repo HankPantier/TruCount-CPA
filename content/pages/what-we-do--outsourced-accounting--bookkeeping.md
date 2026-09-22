@@ -72,7 +72,7 @@ TruCount CPA PC has kept books and prepared taxes for Brookings-area businesses 
 
 - 2009: Year TruCount was founded
 - 51: Combined years of accounting experience on our team
-- 2009: Year TruCount began serving the Brookings, SD area and the Midwest
+- Midwest: Geographic reach, from the Brookings, SD area and beyond
 
 Kristy and Brandi have each been with the firm for 13 years, and founder Julie Underwood, CPA, holds memberships with the AICPA and the South Dakota Society of CPAs. TruCount was named among the Best Bookkeepers in Brookings, South Dakota for 2025 by Quality Business Awards, and the firm stays active in the community through the [Brookings Area Chamber of Commerce](/about/community-involvement). See more of our [awards and recognition](/about/awards-and-recognition) here. That's not a resume line, it's the reason a farmer calling about a fertility deduction or a professional service business owner asking about payroll timing gets an answer that fits their situation, not a generic one.
 
