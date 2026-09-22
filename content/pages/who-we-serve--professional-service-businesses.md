@@ -46,7 +46,7 @@ A one-off tax return doesn't tell you much about how a professional service busi
 ### Accounting
 icon: Calculator
 
-Transaction classification, expense tracking, and account reconciliation happen on a regular schedule, not once a year, so the numbers behind your invoices and payroll are always current. [See how bookkeeping works](/services/bookkeeping).
+Transaction classification, expense tracking, and account reconciliation happen on a regular schedule, not once a year, so the numbers behind your invoices and payroll are always current. [See how accounting works](/services/accounting).
 
 ### Payroll
 icon: Users
