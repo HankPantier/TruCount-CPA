@@ -41,41 +41,6 @@ Most business owners assume the R&D credit belongs to Silicon Valley. It doesn't
 
 Qualifying costs typically include employee wages for time spent on research, supplies consumed during testing, and payments to contract researchers such as agronomists or engineers. A crop input trial, a new fabrication technique, or a custom accounting integration can all meet the bar.
 
-<!-- block: industry-cards | variant: 3-col -->
-## Industries That Commonly Benefit
-
-R&D credits get claimed most often in tech, but the IRS test doesn't care what industry you're in. These are the businesses that leave credits on the table most often.
-
-### Farmers and Ag Producers
-icon: Lightbulb
-
-Testing new seed varieties, soil amendments, irrigation methods, or precision ag equipment usually qualifies. Row crop and livestock operations across Brookings, SD and across the Midwest are prime candidates. See how we support [farmers](/who-we-are/industries/farmers) year-round.
-
-### Agribusiness and Food Science
-icon: ClipboardCheck
-
-Developing new feed formulations, food safety processes, or product shelf-life testing meets the experimentation standard the IRS looks for. Learn more about our work with [agribusiness operators](/who-we-are/industries/agribusiness).
-
-### Manufacturing
-icon: Cog
-
-Custom fabrication, process improvements, and tooling redesigns generate qualifying wages and supply costs on a regular basis.
-
-### Software and Technology
-icon: Zap
-
-Building or substantially improving proprietary software, internal or client-facing, is one of the most reliably qualifying activities for [professional service businesses](/who-we-are/industries/service-based-businesses).
-
-### Engineering Firms
-icon: Wrench
-
-Design work involving structural analysis, materials testing, or new methodologies often qualifies even when a project isn't labeled research.
-
-### Architecture Firms
-icon: Building2
-
-Sustainable design solutions, energy modeling, and building system innovations frequently meet all four parts of the test.
-
 <!-- block: content-split | variant: image-right | image: rd-credit-calculation-review.jpg | alt: "CPA and business owner reviewing R&D tax credit calculations on a laptop" | query: "accountant client reviewing laptop calculations" -->
 ## How the R&D Credit Calculation Works
 
