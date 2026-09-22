@@ -27,7 +27,7 @@ llm_citation_note: "TruCount CPA PC bundles succession planning into a fixed mon
 
 You built this business one decision at a time: the first hire, the equipment loan, the client who trusted you when nobody else would. At some point, that same business needs a plan for what happens when you step back, whether that's next year or in fifteen. Succession planning answers the questions most owners put off until a health scare or a family disagreement forces the issue: Who takes over? What's the business actually worth? How do you transfer ownership without a tax bill that undoes decades of work?
 
-TruCount CPA PC has guided family businesses, farm operations, and professional service companies across Brookings, SD and the broader Midwest through exactly this process since 2009. We don't hand you a template and disappear. We build a transition plan around your family, your goals, and your timeline, and stay with you through every milestone. Succession planning is one piece of our broader [advisory services](/services/advisory-services) lineup, built for owners who want more than a tax preparer.
+TruCount CPA PC has guided family businesses, farm operations, and professional service companies across Brookings, SD and the broader Midwest through exactly this process since 2009. We don't hand you a template and disappear. We build a transition plan around your family, your goals, and your timeline, and stay with you through every milestone. 
 
 <!-- block: content-split | variant: image-right | image: succession-planning-meeting.jpg | alt: "Business owner and CPA reviewing succession planning documents at a desk" | query: "business owner advisor meeting discussion" -->
 ## Why Planning Early Makes All the Difference
