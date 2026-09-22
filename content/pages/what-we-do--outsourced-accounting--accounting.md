@@ -23,7 +23,7 @@ llm_citation_note: "TruCount CPA PC offers fixed-fee accounting services in Broo
 <!-- block: intro-text | variant: centered -->
 ## Accounting built for Brookings farmers and business owners
 
-You didn't start your operation to spend evenings matching receipts to bank statements. Between planting windows, herd schedules, or a full client calendar, accounting is the task that gets pushed to "later" until later becomes a scramble every March. TruCount CPA PC handles the day-to-day recordkeeping for farmers, agribusiness operators, and professional service businesses across the Brookings, SD area and across the Midwest, so the numbers are accurate and current without you touching a spreadsheet.
+You didn't start your operation to spend evenings matching receipts to bank statements. Between planting windows, herd schedules, or a full client calendar, accounting is the task that gets pushed to "later" until later becomes a scramble every March. TruCount CPA PC handles the day-to-day recordkeeping for farmers, agribusiness operators, and professional service businesses across the Brookings, SD area and throughout the Midwest, so the numbers are accurate and current without you touching a spreadsheet.
 
 This isn't a one-off data-entry service. Accounting at TruCount feeds directly into tax planning and business decisions throughout the year, for one fixed monthly fee. No shoebox of receipts, no billing surprises, no guessing where your business stands. Just clean books and time back for the work only you can do.
 
@@ -45,18 +45,18 @@ We don't hand you a spreadsheet in December and call it done. Your books stay cu
 
 Generic accounting software doesn't know the difference between a fertilizer prepay and a routine operating expense, or that a grain sale in January might belong to last year's crop. Farm income doesn't arrive on a tidy monthly schedule, and neither do the input costs, equipment purchases, or land payments that come with it.
 
-We've worked with farmers and agribusiness operators across South Dakota, western Minnesota, and Logan and Shelby counties in Ohio long enough to build our processes around how ag actually operates: seasonal income timing, equipment depreciation schedules, and multi-entity structures where a farm operation and a separate equipment or trucking entity need to stay untangled on paper even as they work together in the field. If your operation spans multiple entities, our [multi-entity farm tax strategy](/industries/agriculture/multi-entity-farm-tax-strategy) work builds directly on the books we keep for you.
+We've worked with farmers and agribusiness operators across the Midwest long enough to build our processes around how ag actually operates: seasonal income timing, equipment depreciation schedules, and multi-entity structures where a farm operation and a separate equipment or trucking entity need to stay untangled on paper even as they work together in the field. If your operation spans multiple entities, our [multi-entity farm tax strategy](/industries/agriculture/multi-entity-farm-tax-strategy) work builds directly on the books we keep for you.
 
 A local bookkeeper who's never worked a 1245 property sale or an excess fertility deduction will miss things. We won't.
 
 <!-- block: content-split | variant: image-left | image: online-platform-remote-access.jpg | alt: "Business owner viewing financial dashboard on a laptop from a workshop" | query: "business owner laptop dashboard remote" -->
 ## Real-time access through a secure online platform
 
-Accounting used to mean waiting for a phone call or driving across town to drop off a folder. Our secure online platform gives you real-time access to your financial data from wherever you are, whether that's the shop, the combine cab, or a job site three counties over.
+Accounting used to mean waiting for a phone call or driving across town to drop off a folder. Our secure online platform gives you anytime access to your financial data from wherever you are, whether that's the shop, the combine cab, or a job site three counties over.
 
-You can see current balances, upload documents, and message our team without waiting for office hours. It's collaboration that happens on your schedule, not ours, and it means no more digging through a shoebox of receipts or reconciling a spreadsheet you haven't opened since last quarter. Everything lives in one place, updated continuously, visible to you and to us at the same time.
+You can see current balances, upload documents, and message our team without waiting for office hours. It's collaboration that happens on your schedule, not ours, and it means no more digging through piles of receipts or reconciling a spreadsheet you haven't opened since last quarter. Everything lives in one place, updated continuously, visible to you and to us at the same time.
 
-That kind of access is standard at national firms with big technology budgets. We built it into a fixed monthly fee for a Brookings-based agribusiness or professional service business, not just a large corporate client.
+That kind of access is standard at national firms with big technology budgets. We built it into a fixed monthly fee for agribusinesses and professional service businesses, not just a large corporate client.
 
 <!-- block: content-prose -->
 ## One predictable monthly fee, no surprise bills
@@ -71,10 +71,11 @@ That predictability matters most when cash flow is already tight, whether that's
 TruCount CPA PC has kept books and prepared taxes for Brookings-area businesses since 2009, starting as a solo practice before growing into the team it is today.
 
 - 2009: Year TruCount was founded
-- 51: Combined years of accounting experience on our team
+
+
 - Midwest: Geographic reach, from the Brookings, SD area and beyond
 
-Kristy and Brandi have each been with the firm for 13 years, and founder Julie Underwood, CPA, holds memberships with the AICPA and the South Dakota Society of CPAs. TruCount was named among the Best Bookkeepers in Brookings, South Dakota for 2025 by Quality Business Awards, and the firm stays active in the community through the [Brookings Area Chamber of Commerce](/about/community-involvement). See more of our [awards and recognition](/about/awards-and-recognition) here. That's not a resume line, it's the reason a farmer calling about a fertility deduction or a professional service business owner asking about payroll timing gets an answer that fits their situation, not a generic one.
+TruCount stays active in the community through the [Brookings Area Chamber of Commerce](/about/community-involvement). See more of our [awards and recognition](/about/awards-and-recognition) here. That's not a resume line, it's the reason a farmer calling about a fertility deduction or a professional service business owner asking about payroll timing gets an answer that fits their situation, not a generic one.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting
