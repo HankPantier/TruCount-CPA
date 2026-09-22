@@ -27,7 +27,7 @@ Brookings sits in the middle of South Dakota farm country, and TruCount CPA PC w
 
 Our team is backed by experienced people who grew up farming or currently own farming operations, so our farm clients know we have their best interest at heart because we understand what it takes to run a successful farm in today's agricultural economy.
 
-[Farmers](/industries/agriculture), agribusiness operators, and [service-based business owners](/industries/service-based-businesses) across South Dakota and throughout the Midwest come to us for one reason: they want to know their numbers before a decision gets made, not after.
+Farmers, agribusiness operators, and professional service businesses across South Dakota and throughout the Midwest come to us for one reason: they want to know their numbers before a decision gets made, not after.
 
 <!-- block: content-split | variant: image-right | image: farmer-reviewing-finances-field.jpg | alt: "Farmer reviewing financial paperwork near a tractor in a field" | query: "farmer reviewing paperwork tractor field" -->
 ## Farmers and crop and cattle operations
@@ -43,9 +43,9 @@ Two strategies most local firms overlook: the research and development credit fo
 
 Plenty of agribusiness operators we work with run more than one entity: a farm corporation alongside a trucking company, or a cattle operation paired with a custom application business. Each entity has its own books, its own tax treatment, and its own set of decisions that affect the others.
 
-[Entity type analysis](/services/entity-type-analysis) is where that gets sorted out. We look at how your operation is structured today, whether an S corp, partnership, or sole proprietorship still makes sense, and what state and federal filings each entity requires going forward. Then [outsourced accounting](/services/outsourced-accounting) keeps the reconciliation, reporting, and advisory work bundled under one fixed monthly fee, so nothing slips between entities and nothing shows up as a billing surprise.
+Entity type analysis is where that gets sorted out. We look at how your operation is structured today, whether an S corp, partnership, or sole proprietorship still makes sense, and what state and federal filings each entity requires going forward. Then [outsourced accounting](/services/outsourced-accounting) keeps the reconciliation, reporting, and advisory work bundled under one fixed monthly fee, so nothing slips between entities and nothing shows up as a billing surprise.
 
-Read more about our approach to [multi-entity farm tax strategy](/industries/agriculture/multi-entity-farm-tax-strategy). The goal is simple: clean numbers across every entity, so you know exactly where profit is coming from and where it's getting eaten by overhead, well before your CPA calls in April.
+The goal is simple: clean numbers across every entity, so you know exactly where profit is coming from and where it's getting eaten by overhead, well before your CPA calls in April.
 
 <!-- block: checklist-section | variant: with-image | image: professional-service-owner-laptop.jpg | alt: "Service business owner checking financial dashboard on a laptop" | query: "business owner laptop financial dashboard" -->
 ## Professional services businesses that want their numbers in real time
@@ -64,7 +64,7 @@ Our secure online platform gives you that, plus a bundled fixed monthly fee that
 
 Every farm eventually changes hands, and every professional service business owner eventually thinks about what comes next. Neither conversation should start the year someone decides to retire.
 
-We build [farm succession planning](/industries/agriculture/farm-succession-planning) into the ongoing relationship, along with [exit planning](/industries/service-based-businesses/exit-planning) for professional service business owners who want a clean handoff or sale. Because we already know your numbers year-round, the plan reflects your actual operation instead of a generic template.
+We build farm succession planning into the ongoing relationship, along with exit planning for professional service business owners who want a clean handoff or sale. Because we already know your numbers year-round, the plan reflects your actual operation instead of a generic template.
 
 Whether that means bringing a son or daughter into the operation over five years or preparing a service company for sale, the planning starts long before the transition does.
 
