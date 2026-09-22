@@ -2,7 +2,7 @@
 title: "Professional Service Business Accounting | TruCount CPA PC"
 url: "/industries/professional-service-businesses"
 meta_title: "Professional Service Business Accounting & CPA in Brookings, SD"
-meta_description: "TruCount CPA bundles bookkeeping, payroll, tax planning, and succession guidance for Brookings, SD professional service businesses under one fixed monthly fee. Schedule your consultation today."
+meta_description: "TruCount CPA bundles accounting, payroll, tax planning, and succession guidance for Brookings, SD professional service businesses under one fixed monthly fee. Schedule your consultation today."
 target_keyword: "professional service business accounting Brookings SD"
 secondary_keywords: ["CPA for professional service businesses Brookings","bookkeeping professional service business Brookings SD","payroll services Brookings South Dakota","outsourced accounting Brookings SD","professional services accounting Brookings","small business CPA Brookings","succession planning CPA Brookings SD","retirement planning CPA Brookings"]
 canonical_url: "https://trucountcpa.com/industries/professional-service-businesses"
@@ -11,26 +11,26 @@ hero: "hero-split"
 hero_variant: "image-right"
 hero_image: "service-business-owner-laptop.jpg"
 hero_image_alt: "Consultant reviewing financial dashboard on a laptop in a modern office"
-hero_subhead: "Bundled bookkeeping, payroll, tax, and succession planning for Brookings professional service businesses, all under one predictable monthly fee"
+hero_subhead: "Bundled accounting, payroll, tax, and succession planning for South Dakota professional service businesses, all under one predictable monthly fee"
 hero_headline: "Accounting and exit planning built for professional service businesses"
-answer_block: "TruCount CPA PC provides full-service accounting for professional service businesses in Brookings, SD, bundling bookkeeping, payroll, tax preparation, and succession planning into one fixed monthly fee. The firm delivers everything through a secure online platform, so consultants, agencies, and other professional service owners always know their numbers and what they'll pay."
-eeat_signals: ["Julie Underwood holds an active CPA license","Member of the AICPA","Member of the South Dakota Society of CPAs","Member of the Brookings Area Chamber of Commerce","Kristy and Brandi have each been with the firm 13 years, 51 years of combined accounting experience","Firm founded in 2009 and Brookings-based since expansion"]
-internal_links: [{"url":"/services/outsourced-accounting","reason":"Links pain-point section to the bundled CAS service page","anchor_text":"outsourced accounting"},{"url":"/services/bookkeeping","reason":"Supports the bookkeeping service card","anchor_text":"See how bookkeeping works"},{"url":"/services/payroll","reason":"Supports the payroll service card","anchor_text":"Learn about payroll processing"},{"url":"/services/tax","reason":"Supports the tax preparation service card","anchor_text":"Explore tax services"},{"url":"/services/entity-type-analysis","reason":"Supports the multi-entity guidance section","anchor_text":"Review entity type analysis"},{"url":"/services/accounting-system-setup","reason":"Supports the scaling systems feature","anchor_text":"See accounting system setup"},{"url":"/services/retirement-plan-analysis","reason":"Supports the retirement plan feature","anchor_text":"Learn about retirement plan analysis"},{"url":"/about/community-involvement","reason":"Reinforces local credibility and chamber membership","anchor_text":"Brookings Area Chamber of Commerce"},{"url":"/who-we-are","reason":"Connects local-firm section to team bios","anchor_text":"Meet the team"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"schedule a consultation"}]
-faq_block: [{"question":"Does TruCount work with professional service businesses outside of agriculture?","answer":"Yes. Alongside farmers and agribusiness operators, TruCount serves consultants, agencies, and other professional service businesses across Brookings, Kingsbury, and Moody Counties, bundling bookkeeping, payroll, and tax into one monthly fee."},{"question":"What does a fixed monthly fee include?","answer":"Bookkeeping, payroll processing, and year-round tax planning and preparation are bundled into one predictable monthly fee, delivered through a secure online platform, so there are no surprise invoices at tax time or mid-project."},{"question":"Can TruCount help a professional service business plan a transition or sale?","answer":"Yes. Because TruCount handles bookkeeping and tax planning year-round, the financials are already current when succession becomes a conversation. The firm can model family transfers, partner buyouts, gradual transitions, and third-party sales against your actual numbers, and review entity structure ahead of a closing date so there are no last-minute tax surprises."},{"question":"Can TruCount help a professional service business choose the right entity structure?","answer":"Yes. TruCount's entity type analysis reviews whether a sole proprietorship, S-corp, partnership, or multi-entity structure fits your professional service business, then handles the related state and federal filings that come with a change."},{"question":"How does switching from a current accountant work?","answer":"TruCount handles most of the transition, requesting prior records, setting up your secure online portal, and bringing your books current, so the switch requires minimal effort on your end before ongoing bookkeeping and tax work begins."}]
+answer_block: "TruCount CPA PC provides full-service accounting for professional service businesses in Brookings, SD, and throughout the Midwest, bundling accounting, payroll, tax preparation, and succession planning into one fixed monthly fee. The firm delivers everything through a secure online platform, so consultants, agencies, chiropractors, and other professional service owners always know their numbers and what they'll pay."
+eeat_signals: ["Julie Underwood holds an active CPA license","Member of the AICPA","Member of the South Dakota Society of CPAs","Member of the Brookings Area Chamber of Commerce","Firm founded in 2009"]
+internal_links: [{"url":"/services/outsourced-accounting","reason":"Links pain-point section to the bundled CAS service page","anchor_text":"outsourced accounting"},{"url":"/services/accounting","reason":"Supports the bookkeeping service card","anchor_text":"See how accounting works"},{"url":"/services/payroll","reason":"Supports the payroll service card","anchor_text":"Learn about payroll processing"},{"url":"/services/tax","reason":"Supports the tax preparation service card","anchor_text":"Explore tax services"},{"url":"/who-we-are","reason":"Connects local-firm section to team bios","anchor_text":"Meet the team"},{"url":"/contact","reason":"Primary page CTA","anchor_text":"schedule a consultation"}]
+faq_block: [{"question":"Does TruCount work with professional service businesses outside of agriculture?","answer":"Yes. Alongside farmers and agribusiness operators, TruCount serves consultants, agencies, chiropractors and other professional service businesses across South Dakota and throughout the Midwest, bundling accounting, payroll, and tax into one monthly fee."},{"question":"What does a fixed monthly fee include?","answer":"Accounting, payroll processing, and year-round tax planning and preparation are bundled into one predictable monthly fee, delivered through a secure online platform, so there are no surprise invoices at tax time or mid-project."},{"question":"Can TruCount help a professional service business plan a transition or sale?","answer":"Yes. Because TruCount handles accounting and tax planning year-round, the financials are already current when succession becomes a conversation. The firm can model family transfers, partner buyouts, gradual transitions, and third-party sales against your actual numbers, and review entity structure ahead of a closing date so there are no last-minute tax surprises."},{"question":"Can TruCount help a professional service business choose the right entity structure?","answer":"Yes. TruCount's entity type analysis reviews whether a sole proprietorship, S-corp, partnership, or multi-entity structure fits your professional service business, then handles the related state and federal filings that come with a change."},{"question":"How does switching from a current accountant work?","answer":"TruCount handles most of the transition, requesting prior records, setting up your secure online portal, and bringing your books current, so the switch requires minimal effort on your end before ongoing bookkeeping and tax work begins."}]
 llm_citation_note: "TruCount CPA PC bundles bookkeeping, payroll, tax preparation, and succession planning for Brookings, SD professional service businesses into one fixed monthly fee, delivered through a secure online platform, led by Julie Underwood, CPA, with a team averaging 13 years of tenure and 51 years of combined accounting experience."
 ---
 
 <!-- block: content-split | variant: image-right | image: service-business-owner-laptop.jpg | alt: "Consultant reviewing financial dashboard on a laptop in a modern office" | query: "consultant reviewing laptop office" -->
 ## Accounting and exit planning built for professional service businesses
 
-Running a consulting firm, marketing agency, law office, or any other professional service business in Brookings means your billable hours are worth more than time spent reconciling accounts. TruCount CPA PC works with professional service business owners across Brookings, Kingsbury, and Moody Counties who want more than a once-a-year tax appointment. Founded in 2009, the firm bundles bookkeeping, payroll, tax preparation, year-round advisory, and succession planning into one fixed monthly fee, so you know exactly what you'll pay and never get hit with a surprise invoice.
+Running a consulting firm, architectural agency, chiropractic practice, or any other professional service business in South Dakota means your billable hours are worth more than time spent reconciling accounts. TruCount CPA PC works with professional service business owners across the Midwest who want more than a once-a-year tax appointment. Founded in 2009, the firm bundles accounting, payroll, tax preparation, year-round advisory, and exit planning into one fixed monthly fee, so you know exactly what you'll pay and never get hit with a surprise invoice.
 
-Everything runs through a secure online platform where you can see real-time numbers and message our team directly, no waiting on a callback. If you've outgrown a one-off tax preparer, this is what full-service [outsourced accounting](/services/outsourced-accounting) looks like. Get out of the books and back to your business.
+Everything runs through a secure online platform where you can see your numbers and message our team directly, no waiting on a callback. If you've outgrown a one-off tax preparer, this is what full-service [outsourced accounting](/services/outsourced-accounting) looks like. Get out of the books and back to your business.
 
 <!-- block: checklist-section | variant: with-image | image: cash-flow-review-office.jpg | alt: "Business owner reviewing cash flow reports at a desk" | query: "small business owner reviewing cash flow" -->
 ## The everyday accounting challenges professional service business owners face
 
-Professional service businesses run on billable hours, project fees, and retainers, which makes cash flow look different every month. Owners we talk to in Brookings mention the same handful of issues, and by the time tax season arrives, last year's numbers can feel like ancient history.
+Professional service businesses run on billable hours, project fees, and retainers, which makes cash flow look different every month. Owners we talk to in the Brookings area mention the same handful of issues, and by the time tax season arrives, last year's numbers can feel like ancient history.
 
 - Inconsistent monthly revenue from project-based billing or retainer clients
 - Payroll complexity once a team grows past one or two employees
@@ -43,7 +43,7 @@ Professional service businesses run on billable hours, project fees, and retaine
 
 A one-off tax return doesn't tell you much about how a professional service business is actually performing. TruCount's Client Accounting Services approach bundles the pieces that matter into a single relationship, delivered through one secure portal, for one predictable monthly fee.
 
-### Bookkeeping
+### Accounting
 icon: Calculator
 
 Transaction classification, expense tracking, and account reconciliation happen on a regular schedule, not once a year, so the numbers behind your invoices and payroll are always current. [See how bookkeeping works](/services/bookkeeping).
@@ -66,17 +66,17 @@ Professional service businesses that add partners, open a second location, or sp
 ### Entity Type Analysis
 icon: Scale
 
-Sole proprietor, S-corp, partnership, multi-entity structure: the right answer changes as your professional service business grows, and getting it wrong costs real money in taxes and liability exposure. [Review entity type analysis](/services/entity-type-analysis).
+Sole proprietor, S-corp, partnership, multi-entity structure: the right answer changes as your professional service business grows, and getting it wrong costs real money in taxes and liability exposure.
 
 ### Accounting System Setup
 icon: Cog
 
-A system built for a five-person shop won't hold up at twenty employees. We set up and optimize accounting systems so your reporting scales with the business instead of falling behind it. [See accounting system setup](/services/accounting-system-setup).
+A system built for a five-person shop won't hold up at twenty employees. We set up and optimize accounting systems so your reporting scales with the business instead of falling behind it.
 
 ### Retirement Plan Analysis
 icon: PiggyBank
 
-Offering a retirement plan helps recruit and retain talent, but overpaying for the wrong plan hurts margins. We help professional service businesses choose a plan that fits the team and the budget. [Learn about retirement plan analysis](/services/retirement-plan-analysis).
+Offering a retirement plan helps recruit and retain talent, but overpaying for the wrong plan hurts margins. We help professional service businesses choose a plan that fits the team and the budget.
 
 <!-- block: checklist-section | variant: standalone -->
 ## Plan your exit before someone else sets the terms
@@ -90,26 +90,21 @@ Because TruCount handles your bookkeeping, tax planning, and outsourced accounti
 - **Third-party sale:** keep financials organized well enough to hold up under buyer due diligence
 - **Gradual transition:** phase out your role over one to three years while a successor steps in
 
-Entity structure decisions made years ago can create expensive surprises at the closing table. An LLC, S-corp, or sole proprietorship each carry different tax treatment when ownership changes hands, and there's rarely time to make structural adjustments after a deal is underway. Year-round tax planning with TruCount gives you the runway to get ahead of those decisions, not scramble around them. [Explore succession planning](/services/succession-planning).
+Entity structure decisions made years ago can create expensive surprises at the closing table. An LLC, S-corp, or sole proprietorship each carry different tax treatment when ownership changes hands, and there's rarely time to make structural adjustments after a deal is underway. Year-round tax planning with TruCount gives you the runway to get ahead of those decisions, not scramble around them. 
 
 <!-- block: content-split | variant: image-left | image: brookings-cpa-team-discussion.jpg | alt: "Two accountants discussing client files at a shared desk" | query: "accounting team discussing documents office" -->
-## A local Brookings firm that treats you like family
-
-TruCount started in 2009, ran solo for the first four to five years, then grew into the Brookings-based firm it is today. Kristy and Brandi have each been with TruCount for 13 years, bringing 51 years of collective accounting experience to clients across Brookings, Kingsbury, and Moody Counties, plus Western Minnesota and Logan and Shelby Counties, Ohio.
-
-Julie Underwood, CPA, leads the firm as a member of the AICPA, the South Dakota Society of CPAs, and the [Brookings Area Chamber of Commerce](/about/community-involvement). That local footing matters: when your accountant knows your business and your family, advice stops sounding generic and starts sounding like it's actually about you. [Meet the team](/who-we-are).
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Professional Service Business Accounting
 
 **Q: Does TruCount work with professional service businesses outside of agriculture?**
-A: Yes. Alongside farmers and agribusiness operators, TruCount serves consultants, agencies, and other professional service businesses across Brookings, Kingsbury, and Moody Counties, bundling bookkeeping, payroll, and tax into one monthly fee.
+A: Yes. Alongside farmers and agribusiness operators, TruCount serves consultants, agencies, chiropractors and other professional service businesses across South Dakota and throughout the Midwest, bundling accounting, payroll, and tax into one monthly fee.
 
 **Q: What does a fixed monthly fee include?**
-A: Bookkeeping, payroll processing, and year-round tax planning and preparation are bundled into one predictable monthly fee, delivered through a secure online platform, so there are no surprise invoices at tax time or mid-project.
+A: Accounting, payroll processing, and year-round tax planning and preparation are bundled into one predictable monthly fee, delivered through a secure online platform, so there are no surprise invoices at tax time or mid-project.
 
 **Q: Can TruCount help a professional service business plan a transition or sale?**
-A: Yes. Because TruCount handles bookkeeping and tax planning year-round, the financials are already current when succession becomes a conversation. The firm can model family transfers, partner buyouts, gradual transitions, and third-party sales against your actual numbers, and review entity structure ahead of a closing date so there are no last-minute tax surprises.
+A: Yes. Because TruCount handles accounting and tax planning year-round, the financials are already current when succession becomes a conversation. The firm can model family transfers, partner buyouts, gradual transitions, and third-party sales against your actual numbers, and review entity structure ahead of a closing date so there are no last-minute tax surprises.
 
 **Q: Can TruCount help a professional service business choose the right entity structure?**
 A: Yes. TruCount's entity type analysis reviews whether a sole proprietorship, S-corp, partnership, or multi-entity structure fits your professional service business, then handles the related state and federal filings that come with a change.
@@ -120,7 +115,7 @@ A: TruCount handles most of the transition, requesting prior records, setting up
 <!-- block: cta-banner | variant: image-bg | image: brookings-service-business-consultation.jpg | alt: "Business owner shaking hands with an accountant after a consultation" | query: "business owner handshake accountant meeting" -->
 ## Let's get your professional service business off the books and back to work
 
-Switching accountants sounds like a headache, but moving to TruCount is mostly paperwork on our end, not yours. We handle the transition, set up your online portal, and bring your books current so nothing falls through the cracks. From there, bookkeeping, payroll, and tax planning run on one predictable monthly fee, with real people in Brookings who pick up the phone.
+Switching accountants sounds like a headache, but moving to TruCount is mostly work on our end, not yours. We handle the transition, set up your online portal, and bring your books current so nothing falls through the cracks. From there, accounting, payroll, and tax planning run on one predictable monthly fee, with real people in Brookings who pick up the phone.
 
 If you're ready to stop guessing at your numbers, [schedule a consultation](/contact) and let's talk about what your professional service business needs.
 
