@@ -41,41 +41,6 @@ Most business owners assume the R&D credit belongs to Silicon Valley. It doesn't
 
 Qualifying costs typically include employee wages for time spent on research, supplies consumed during testing, and payments to contract researchers such as agronomists or engineers. A crop input trial, a new fabrication technique, or a custom accounting integration can all meet the bar.
 
-<!-- block: industry-cards | variant: 3-col -->
-## Industries That Commonly Benefit
-
-R&D credits get claimed most often in tech, but the IRS test doesn't care what industry you're in. These are the businesses that leave credits on the table most often.
-
-### Farmers and Ag Producers
-icon: Lightbulb
-
-Testing new seed varieties, soil amendments, irrigation methods, or precision ag equipment usually qualifies. Row crop and livestock operations across Brookings, SD and across the Midwest are prime candidates. See how we support [farmers](/who-we-are/industries/farmers) year-round.
-
-### Agribusiness and Food Science
-icon: ClipboardCheck
-
-Developing new feed formulations, food safety processes, or product shelf-life testing meets the experimentation standard the IRS looks for. Learn more about our work with [agribusiness operators](/who-we-are/industries/agribusiness).
-
-### Manufacturing
-icon: Cog
-
-Custom fabrication, process improvements, and tooling redesigns generate qualifying wages and supply costs on a regular basis.
-
-### Software and Technology
-icon: Zap
-
-Building or substantially improving proprietary software, internal or client-facing, is one of the most reliably qualifying activities for [professional service businesses](/who-we-are/industries/service-based-businesses).
-
-### Engineering Firms
-icon: Wrench
-
-Design work involving structural analysis, materials testing, or new methodologies often qualifies even when a project isn't labeled research.
-
-### Architecture Firms
-icon: Building2
-
-Sustainable design solutions, energy modeling, and building system innovations frequently meet all four parts of the test.
-
 <!-- block: content-split | variant: image-right | image: rd-credit-calculation-review.jpg | alt: "CPA and business owner reviewing R&D tax credit calculations on a laptop" | query: "accountant client reviewing laptop calculations" -->
 ## How the R&D Credit Calculation Works
 
@@ -83,25 +48,11 @@ There are two ways to calculate the R&D credit, and picking the right one change
 
 The Alternative Simplified Credit (ASC) method suits smaller and mid-sized businesses better because it doesn't require decades of historical data. It looks at your average QREs from the prior three years, then applies a 14% rate to the amount your current spending exceeds half that average. If you had no qualifying research in the prior three years, a flat 6% rate applies instead.
 
-Neither method wins automatically. The right choice depends on your spending history, your gross receipts, and how well your records support each calculation. This is where a CPA who knows your books, not just your tax return, earns their fee. We run both scenarios during your [year-round tax planning](/services/outsourced-accounting/tax) sessions so you claim the larger, defensible credit.
+Neither method wins automatically. The right choice depends on your spending history, your gross receipts, and how well your records support each calculation. This is where a CPA who knows your books, not just your tax return, earns their fee. We run both scenarios during your year-round tax planning sessions so you claim the larger, defensible credit.
 
 <!-- block: content-split | variant: image-left | image: julie-underwood-cpa-review.jpg | alt: "CPA reviewing R&D tax credit documentation with a business owner" | query: "cpa reviewing documents with client" -->
-## Why Work With TruCount CPA PC
-
-An R&D credit claim is only as strong as its documentation. The IRS has increased audit scrutiny on R&D credit claims since 2022, and filings prepared without contemporaneous records, an actual four-part test analysis, and a defensible calculation method get challenged first. A credit calculator or software tool that spits out a number with no CPA behind it leaves you exposed if the IRS asks questions.
-
-The TruCount team leads every R&D credit engagement personally. We document the qualifying activity, calculate both the regular and ASC methods, and hand you an audit-ready file, not just a number on a return.
-
-For farm and agribusiness clients, the R&D credit often pairs well with other ag-specific strategies, like the excess fertility deduction for purchased farmland. We look at your full tax picture through the same [advisory services](/services/advisory-services) relationship that already handles your bookkeeping and payroll.
 
 <!-- block: cta-banner | variant: image-bg | image: brookings-cpa-consultation.jpg | alt: "Business owner shaking hands with a CPA after a tax consultation" | query: "handshake business meeting office" -->
-## Get Started: Free R&D Credit Assessment
-
-Most business owners never claim the R&D credit because nobody ever told them their work qualifies. A short conversation is usually enough to tell. Bring us your payroll records, project notes, or a rough description of what you tested or built last year, and we'll give you a straight answer about whether it's worth pursuing.
-
-Schedule a consultation with TruCount CPA PC, and we'll walk through your qualifying activities, estimate your potential credit, and map out what documentation you'll need going forward. No jargon, just a clear read on what the R&D credit could mean for your bottom line.
-
-[Schedule a consultation](/contact)
 
 ---
 ## SEO & AIO Metadata
