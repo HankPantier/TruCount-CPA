@@ -75,7 +75,7 @@ TruCount CPA PC has kept books and prepared taxes for Brookings-area businesses 
 
 - Midwest: Geographic reach, from the Brookings, SD area and beyond
 
-TruCount stays active in the community through the [Brookings Area Chamber of Commerce](/about/community-involvement). See more of our [awards and recognition](/about/awards-and-recognition) here. That's not a resume line, it's the reason a farmer calling about a fertility deduction or a professional service business owner asking about payroll timing gets an answer that fits their situation, not a generic one.
+TruCount stays active in the community through the Brookings Area Chamber of Commerce. See more of our awards and recognition here. That's not a resume line, it's the reason a farmer calling about a fertility deduction or a professional service business owner asking about payroll timing gets an answer that fits their situation, not a generic one.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting
