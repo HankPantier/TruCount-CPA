@@ -18,7 +18,7 @@ answer_block: "Buying a vehicle usually wins financially if you drive over 12,00
 ---
 If you've sat in a dealership finance office and watched the salesperson slide a lease quote across the desk right next to a loan quote, you already know the pitch: "Same payment, newer car, no worries." What they're not telling you is how the decision actually plays out on your tax return, your balance sheet, or your cash flow three years from now. That's the piece Julie Underwood, CPA, walks through with clients at TruCount CPA PC before they sign anything, whether it's a family sedan or a service truck for a Brookings-based contracting business.
 
-The lease-versus-buy question isn't one-size-fits-all, and it shouldn't be answered by a payment calculator alone. Your mileage habits, whether the vehicle is used for business, and how you want to handle depreciation all change the math. Here's the framework we use with clients across Brookings, Kingsbury, and Moody counties, and how it applies whether you're buying a personal vehicle or adding a truck to an agribusiness fleet.
+The [lease-versus-buy question](/resources/auto-leasing-vs-buying-which-makes-more-sense-2) isn't one-size-fits-all, and it shouldn't be answered by a payment calculator alone. Your mileage habits, whether the vehicle is used for business, and how you want to handle depreciation all change the math. Here's the framework we use with clients across Brookings, Kingsbury, and Moody counties, and how it applies whether you're buying a personal vehicle or adding a truck to an agribusiness fleet.
 
 ## What dealerships won't tell you about lease versus buy
 
@@ -28,7 +28,7 @@ Buying means you're financing the entire purchase price, so your payment is high
 
 ## The cash flow math that matters more than the monthly payment
 
-Monthly payment tunnel vision is the single biggest mistake we see, especially with business owners who are used to thinking in terms of "can I afford the payment" rather than "what does this cost me over the life of the vehicle."
+Monthly payment tunnel vision is the single biggest mistake we see, especially with business owners who are used to thinking in terms of "can I afford the payment" rather than "what does this cost me over the life of the vehicle"—a [money mindset issue](/resources/your-money-mindset-is-costing-your-small-business-more-than) that repeats across decisions year after year.
 
 Run the numbers over the full term, not just one month:
 

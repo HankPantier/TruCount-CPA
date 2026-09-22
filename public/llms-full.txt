@@ -1430,3 +1430,809 @@ If you're organized, personable, and ready to help farmers, agribusiness owners,
 [Schedule a consultation](/contact)
 
 ---
+
+## Resources
+
+### Your Time Is Priceless, But the IRS Won't Deduct It: What You Can Write Off for Volunteering
+URL: /resources/your-time-is-priceless-but-the-irs-wont-deduct-it-what-you-c
+
+Every fall, someone at a nonprofit board meeting or a 4-H fundraiser asks the same question: can I deduct the time I spent doing this? The honest answer disappoints most people. The IRS has never allowed a deduction for the value of your labor, no matter how many hours you gave or how specialized the skill. What trips people up even more is the flip side: many volunteers assume that because their time isn't deductible, nothing about their volunteering is. That's wrong too, and it can mean leaving real money on the table every April.
+
+The out-of-pocket costs tied to volunteer work are often fully deductible. Mileage, supplies, uniforms, even some travel expenses can qualify if you know the rules and keep the receipts to back them up. Here's what actually counts, what doesn't, and how to document it so the deduction survives if the IRS ever asks.
+
+## Why your time doesn't show up on Schedule A
+
+The IRS treats a volunteer's hours the same way it treats a gift of appreciated goodwill: real, valuable, and not something with a dollar figure attached for tax purposes. A CPA who spends 20 hours preparing a nonprofit's books for free can't deduct what those hours would have billed at. A contractor who frames a Habitat for Humanity house on a Saturday can't deduct the going rate for framing labor. This holds true no matter the skill level or the market rate for that work.
+
+What changes the math is money you actually spend, out of your own pocket, in service of that volunteer work. [IRS Publication 526](https://www.irs.gov/publications/p526) draws a clear line between the value of services (never deductible) and unreimbursed expenses connected to those services (deductible, with conditions).
+
+## The organization has to qualify before anything else does
+
+Before any expense counts, the organization you're volunteering for has to be a qualified charity under IRS rules, generally a 501(c)(3) or similar tax-exempt organization. Volunteering for a political campaign, a for-profit business, or an informal group that hasn't filed for tax-exempt status won't produce a deduction no matter how good the cause is. Churches, most 4-H and FFA chapters, hospitals, and registered nonprofits typically qualify. If you're not sure about a specific organization, the [IRS Charities & Nonprofits resource hub](https://www.irs.gov/charities-non-profits) lets you check exempt status before you start tracking expenses.
+
+This matters more than people expect in a farming and small-town community like Brookings, where a lot of giving happens through grain donations to church fundraisers, sponsorship of 4-H livestock shows, or unpaid board service on a co-op or credit union board. Some of those relationships qualify. Some don't. Confirming status up front saves a headache later.
+
+## Mileage, supplies, and travel volunteers actually miss
+
+Three categories cover most of the deductible expenses volunteers overlook:
+
+**Mileage.** If you drive your own vehicle to and from volunteer work, you can deduct actual gas and oil costs directly tied to the trips, or use the standard charitable mileage rate, which is set by statute at 14 cents per mile. That rate hasn't moved with inflation the way the business mileage rate has, so it's modest, but it adds up for someone driving to deliver Meals on Wheels three times a week or hauling supplies to a fairgrounds cleanup.
+
+**Supplies and uniforms.** If a charity asks you to buy and wear a specific uniform that isn't suitable for everyday use, that cost is deductible. Same with supplies you purchase and donate to the cause, like paint for a community mural project or feed for animals at a 4-H demonstration barn, as long as you weren't reimbursed.
+
+**Travel away from home.** If you travel to volunteer at a convention, a disaster relief effort, or a mission trip, and there's no significant element of personal vacation involved, reasonable travel costs including lodging and meals can be deductible. The rule gets stricter here: if the trip has meaningful personal recreation attached, the IRS can disallow the whole thing, so this is a category worth reviewing with a CPA before you assume it qualifies.
+
+What never qualifies: the value of your time, lost wages from taking time off work to volunteer, and the cost of your regular clothing even if you happen to wear it while volunteering.
+
+## Keep the paper trail or lose the deduction
+
+The IRS doesn't take your word for unreimbursed volunteer expenses. For any single contribution of $250 or more, you need a written acknowledgment from the organization describing the services you provided and confirming you received nothing of value in return. Below that threshold, your own records, mileage logs, receipts, and bank or credit card statements, need to be good enough to reconstruct the expense if asked.
+
+Most people who lose this deduction on audit don't lose it because the expense wasn't real. They lose it because they didn't write anything down at the time and can't rebuild six months of mileage from memory in March. A simple habit works better than any app: log the date, destination, purpose, and miles every time you drive for a qualified organization, right when it happens.
+
+## Itemizing is the real gatekeeper
+
+Here's the detail that catches even careful record-keepers off guard: none of this matters unless you itemize deductions on Schedule A instead of taking the standard deduction. With the standard deduction sitting well above what most individual filers can itemize their way past, a lot of volunteers with legitimate, well-documented expenses still end up taking the standard deduction because it's simply larger. That doesn't mean the record-keeping was wasted. Charitable mileage and expenses stack with mortgage interest, state taxes, and other itemized items, and for some years, particularly ones with a larger cash gift or a big medical expense, itemizing does come out ahead. Reviewing this each year, rather than assuming it will play out the same way it did last year, is where a year-round conversation with your accountant pays for itself.
+
+## For board members and business owners who volunteer through the business
+
+Professional service owners and farm operators in Brookings often serve on co-op boards, ag lender advisory committees, or nonprofit boards connected to their industry. When that volunteer work overlaps with business activity, the deduction rules get more nuanced. A farmer who donates grain directly to a qualified charity, for example, may get better tax treatment than one who sells the grain and donates the cash, because the donated commodity can avoid triggering income in the first place. A business owner who underwrites a 4-H show as a sponsorship, rather than a straight donation, may be looking at a deductible marketing expense instead of a charitable one, with different substantiation rules attached.
+
+This is where it helps to have someone who already knows your entity structure look at the specific gift before you assume which bucket it falls into. Our CPA team, including Julie Underwood, CPA, reviews these situations as part of [year-round tax planning](/what-we-do/outsourced-accounting/business-tax) rather than waiting until the return is due, because the classification often depends on decisions made months before filing season, not after.
+
+If you're an individual filer trying to sort out what qualifies before you sit down with your documents, our [personal income tax preparation](/what-we-do/personal-income-tax) process walks through exactly this kind of question as part of the return, not as an afterthought. And if you just need a running checklist of what to save throughout the year, our [forms, documents, and links library](/resources/resources-library/forms-documents-and-links) has templates that make mileage and expense tracking less of a chore.
+
+## Common Questions
+
+**Can I deduct the value of professional services I donate to a nonprofit, like legal or accounting work?**
+No. The IRS specifically disallows a deduction for the value of services performed, no matter how specialized the skill or what you'd normally charge for it. Only unreimbursed out-of-pocket expenses connected to that volunteer work, like mileage or supplies, are deductible.
+
+**Do I need a receipt for every small volunteer expense?**
+For donations of $250 or more, yes, you need written acknowledgment from the organization. Below that, you still need reliable records, a mileage log, receipts, or bank statements, good enough to reconstruct the expense if the IRS asks. Track it when it happens rather than trying to rebuild it later.
+
+**What's the mileage rate for driving to volunteer activities?**
+The standard charitable mileage rate is 14 cents per mile, set by statute rather than adjusted annually for inflation like the business rate. You can also deduct actual gas and oil costs for the trip instead, whichever method you choose, keep a log of dates and destinations.
+
+**Is it worth tracking volunteer expenses if I usually take the standard deduction?**
+Often yes, because your situation can change year to year with a larger gift, a medical expense, or a change in income that makes itemizing worthwhile. Keeping the records costs almost nothing and preserves the option, even in years the standard deduction still wins out.
+
+If you volunteer, sit on a nonprofit or co-op board, or run a farm or professional service business and aren't sure which of your charitable activity actually qualifies for a deduction, [get in touch with our team](/contact) before filing season gets busy. A short conversation now can save a missed deduction, or an uncomfortable audit question, later.
+
+---
+
+
+### Burnout Isn't a Business Strategy: Self-Care Should Be Part of Every Owner's Growth Plan
+URL: /resources/burnout-isnt-a-business-strategy-self-care-should-be-part-of-2
+
+A dairy farmer in Brookings County called us in March, three weeks into calving season, still doing books at 11 p.m. because that was the only quiet hour left in his day. He'd missed a quarterly estimated payment. Not because he didn't have the cash, but because he was too tired to remember it was due. That's not a bookkeeping problem. That's a burnout problem wearing a bookkeeping costume, and it shows up in nearly every industry we work with, from row-crop operations to law offices to HVAC companies running three trucks and a skeleton crew.
+
+Business owners tend to treat rest as something you earn after the work is done. The work is never done, so the rest never comes. What gets lost in that math is that judgment, the thing that actually runs the business, degrades long before the body gives out. You don't file for bankruptcy because you were tired. You file because a tired version of you signed a lease you shouldn't have, missed a tax deadline, or kept an underperforming employee two years too long because confronting the problem felt like more than you had in you that week.
+
+## The real cost of running yourself into the ground
+
+Fatigue doesn't announce itself as a financial risk. It shows up as a delayed decision, a skipped review of the books, an invoice that doesn't go out until the client forgets what it was for. Multiply that by 50 or 60 hours a week for a few years and you get a business that's technically surviving but leaking money in a dozen small places nobody has the energy to find.
+
+The South Dakota Society of CPAs and the AICPA both talk about advisory relationships that catch problems before they compound, and that's the piece most exhausted owners are missing. They're not lacking effort. They're lacking a second set of eyes that isn't also running on four hours of sleep. When Julie Underwood, CPA, sits down with a multi-entity ag operation, half the value isn't the tax return. It's catching the owner before he makes a decision at 11 p.m. that he'd never make at 9 a.m. with coffee and a clear head.
+
+## Why exhausted owners make expensive mistakes
+
+Here's the pattern we see across farm operations and professional service firms alike: the owner is also the bookkeeper, the HR department, the sales team, and the person who decides whether to buy the new equipment or wait a year. That's five full-time jobs stacked on one calendar, and something always gets the leftover attention. Usually it's the numbers, because unlike a client call or a broken piece of equipment, a spreadsheet doesn't demand you look at it today.
+
+The cost shows up later. A missed Section 179 election. A payroll tax deposit filed late because nobody was tracking the calendar. A succession conversation that never happens because the owner is too depleted to think five years out, only five days out. We built our [outsourced accounting department](/what-we-do/outsourced-accounting) specifically for this gap, bundling bookkeeping, payroll, and tax planning into one fixed monthly fee so an owner isn't the last line of defense against every deadline on the books.
+
+## Rest is a line item, not a luxury
+
+Most owners budget for equipment, insurance, and marketing. Almost none budget for their own capacity. That's backwards, because capacity is the asset every other line item depends on. A combine sitting idle for a week costs you money you can calculate. An owner who's been running on fumes for six months costs you money you can't calculate until the bad decision has already been made.
+
+Treating self-care as a financial safeguard means building actual margin into the calendar, the same way you'd build a cash reserve for a slow season. That might mean blocking two afternoons a month with no client calls. It might mean handing bookkeeping to someone else so decision-making energy goes toward pricing jobs or planning next year's planting, not reconciling a bank statement. The SBA's [guidance on managing your business](https://www.sba.gov/business-guide/manage-your-business) makes a similar point: sustainable operations depend on systems that don't require the owner to personally hold every piece together.
+
+## Building margin into a business that never stops
+
+Farms and service businesses share a stubborn myth: the work never stops, so neither can you. Livestock still needs feeding on a Sunday. A client's fire alarm system still fails at 2 a.m. But the businesses that last 20 or 30 years, not just 3 or 5, are almost always the ones where the owner built a team or a system that can run without them for a stretch, even a short one.
+
+That's part of why succession planning matters earlier than most owners think. If you're the only person who understands the entity structure, the tax strategy, and the relationships that keep the business running, you can't step away without something breaking. Brandi Altstaetter works with multi-generational farm families on exactly this handoff, and the conversation always starts the same way: who else needs to understand this business, and when do we start teaching them. The same logic applies to professional service firms weighing an [exit or ownership transition](/industries/professional-service-businesses/exit-planning). A business that depends entirely on one exhausted person isn't a business. It's a very demanding job wearing a business's clothes.
+
+## How the right accounting relationship gives you room to breathe
+
+Owners often think advisory support is a luxury for bigger companies. In practice, it's the thing that gives a smaller operation room to function like a bigger one. CFO-level insight, delivered without a CFO salary, means someone else is watching cash flow, flagging tax exposure, and running the numbers on that equipment purchase before it becomes a 2 a.m. decision made alone.
+
+That's the real argument for a full-service relationship instead of a once-a-year tax appointment. When [advisory services](/what-we-do/advisory-services) include budgeting, revenue analysis, and cash flow review year-round, the owner isn't carrying every financial judgment call solo. Decisions get made in daylight, with a real-time online platform showing the actual numbers, not a guess based on how the checking account felt last week. Owners sleep better. Not because the work disappeared, but because they're no longer the only person catching what falls through.
+
+## Common Questions
+
+**Is self-care really a financial issue, or is that just wellness talk dressed up for business owners?**
+It's financial. Decision fatigue leads to missed deadlines, late tax deposits, and delayed pricing decisions that cost real money. A business owner who protects sleep, delegates bookkeeping, and takes real time off makes sharper calls on the decisions that actually move revenue, which is a direct line to the bottom line, not a side benefit.
+
+**How do I know if burnout is already affecting my business decisions?**
+Watch for late filings, skipped financial reviews, and decisions made under pressure that you regret within a month. If you can't remember the last time you looked at your numbers without a deadline forcing you to, that's a signal your capacity, not your effort, is the bottleneck.
+
+**What's one concrete step an owner can take this month?**
+Hand off one recurring financial task, whether that's payroll, reconciliation, or quarterly tax estimates, to someone else before year-end. Even one task removed from a solo owner's plate frees up the mental bandwidth needed for the decisions only they can make.
+
+**Does hiring outside help actually reduce stress, or does it just add another thing to manage?**
+A fixed-fee bundled relationship, where bookkeeping, payroll, and tax planning sit under one team and one monthly cost, removes the coordination burden entirely. You're not managing three vendors and three invoices. You're getting one accurate answer when you ask how the business is doing.
+
+If the version of you making decisions at 11 p.m. isn't the version you'd trust with the business, it's worth talking to someone who can take a few of those decisions off your plate. [Contact TruCount CPA PC](/contact) and let's figure out where your numbers, and your calendar, need the most relief.
+
+---
+
+
+### Business Credit Card Rewards: A Financial Strategy for Business Owners
+URL: /resources/business-credit-card-rewards-a-financial-strategy-for-busine-2
+
+Most business owners we talk with in Brookings picked their business credit card the same way they picked their bank: whatever branch was closest when they opened the account. Then the rewards emails start arriving, and suddenly there's a decision to make between airline miles, cash back, and a card with a logo that matches the truck. The real question isn't which rewards program sounds best. It's whether the card actually matches how your business spends money, and whether you're tracking it in a way that keeps your books and your tax return clean.
+
+A credit card rewards program is a cash-flow tool before it's a perk. Treated well, it can offset a real percentage of your fuel, feed, supply, or software spend every year. Treated carelessly, it turns into another account your bookkeeper has to untangle every month, and a source of confusion at tax time.
+
+## Rewards are a spending strategy, not a shopping decision
+
+Start with your actual numbers, not the card's marketing page. Pull twelve months of expense categories: fuel, equipment parts, software subscriptions, travel, office supplies, whatever makes up the bulk of your spend. A farm operation running $60,000 a year in diesel and parts purchases needs a card built around fuel and vehicle maintenance rewards, not one optimized for hotel points. A professional service firm with $30,000 in annual software and travel costs is better served by a flat-rate cash back card or one with strong travel categories.
+
+The mismatch we see most often: a business owner picks a travel rewards card because a colleague swears by it, then never travels enough to redeem the points before they expire. That's not a rewards strategy. That's an unredeemed liability sitting on a statement.
+
+Matching the card to the spend pattern also protects your cash flow. A 2% cash back card on $80,000 of annual purchases returns $1,600 a year, real money that can go straight back into the business or offset a tax payment. A points card with a complicated redemption schedule might return the same value on paper, but only if someone actually cashes in the points, which most owners never get around to doing.
+
+## How business card rewards affect your tax return
+
+Here's the short answer: rewards earned from spending, like cash back or points on purchases, are generally treated as a rebate or discount rather than taxable income. You're not paying tax on the 2% cash back you earned buying diesel fuel. Where it gets more nuanced is sign-up bonuses that don't require a purchase, referral bonuses, and rewards tied to opening an account rather than spending on it. Those can be treated differently depending on the structure of the offer.
+
+The IRS Small Business and Self-Employed Tax Center is a solid starting point for understanding how these categories are generally treated, and it's worth a look before you assume every bonus works the same way. (See the [IRS Small Business and Self-Employed Tax Center](https://www.irs.gov/businesses/small-businesses-self-employed).)
+
+The more common mistake we catch isn't a missed tax form. It's a deduction problem. If you pay for a $2,000 piece of equipment with a card and earn $40 in cash back, the deductible expense is still the full $2,000, not $1,960. Rewards don't reduce your deductible business expense; they're a separate benefit. Mixing that up on your books, even by a small amount, compounds over a year of transactions and shows up as a discrepancy when your tax preparer reconciles your accounts.
+
+## Choosing the right card for how your business spends
+
+Once you know your spending pattern, the decision gets simpler. Here's a rough framework we walk clients through:
+
+| Spend pattern | Card type to prioritize | Why it fits |
+|---|---|---|
+| Heavy fuel and vehicle costs (farms, service crews with fleets) | Fuel and vehicle rewards, or flat 2% cash back | Direct return on your largest recurring cost |
+| Software, supplies, recurring vendor payments | Flat-rate cash back | No category tracking required, consistent return |
+| Frequent travel for client work or conferences | Travel rewards with no blackout dates | Redemption value only matters if you actually travel enough to use it |
+| Seasonal spend spikes (planting, harvest, tax season staffing) | Card with a high credit limit and 0% intro APR period | Cash flow flexibility matters more than the rewards rate during the spike |
+
+A few other things worth checking before you apply: the annual fee versus your projected rewards earned, whether the issuer reports to business credit bureaus separately from your personal credit, and whether the card integrates with your accounting software for automatic transaction feeds. That last point matters more than most owners expect. A card that doesn't sync cleanly with your bookkeeping platform creates manual entry work every month, and manual entry is where categorization errors creep in.
+
+If you're also weighing a vehicle purchase alongside a card decision, it's worth understanding how leasing versus buying affects your deductions and cash flow before you commit to either. Our post on [auto leasing versus buying](/resources/auto-leasing-vs-buying-which-makes-more-sense) walks through the Section 179 and mileage considerations that often intersect with this same spend category.
+
+## Reconciling points and cash back so your books stay clean
+
+Rewards create a small but persistent bookkeeping problem: where does the cash back or point redemption show up on your financial statements? Most accounting software treats a cash back redemption as other income or a reduction to expense, and the treatment needs to stay consistent month over month. If your bookkeeper records it one way in March and a different way in August, your year-end financial statements won't tie out, and your tax preparer has to spend time reconciling the difference instead of planning your next quarter.
+
+This is where a card rewards strategy overlaps with a bigger issue we see constantly: subscription and recurring charge creep. Once a card is racking up points, it's tempting to route every software trial and vendor subscription through it without a second look. Six months later, there are charges nobody remembers approving. We wrote about how to audit that kind of creep in [Take Back Control of Subscription Creep](/resources/take-back-control-of-subscription-creep), and it pairs well with a card review, since both come down to the same habit: looking at your statement line by line instead of assuming it's fine.
+
+The SBA's guide to managing business finances is a useful companion resource here too, particularly on building a cash flow habit around monthly reconciliation rather than an annual scramble. (See [SBA: Manage Your Business Finances](https://www.sba.gov/business-guide/manage-your-business/manage-your-finances).)
+
+If reconciliation like this already feels like something you're behind on, that's usually a sign your bookkeeping needs a second set of eyes, not just a better card. Our [bookkeeping and accounting services](/what-we-do/outsourced-accounting/accounting) fold monthly reconciliation, including credit card and rewards tracking, into a fixed monthly fee, so nothing gets missed between tax seasons.
+
+## Common Questions
+
+**Are business credit card rewards taxable income?**
+Generally no. Cash back and points earned from actual business purchases are treated as a rebate on the purchase price, not taxable income. Sign-up bonuses and referral bonuses that don't require spending can be treated differently, so it's worth checking the specific offer terms and confirming the treatment with your CPA before you file.
+
+**Does cash back reduce my deductible business expenses?**
+No. If you buy $5,000 in equipment and earn $100 in cash back, you still deduct the full $5,000 purchase. The rewards are a separate financial benefit, not a discount on the expense itself. Recording it as a reduction to the expense account instead of separate income is a common bookkeeping error worth catching early.
+
+**How do I choose between a cash back and a points-based business card?**
+Look at your actual spend categories over the past twelve months. Flat cash back works best for businesses with diverse, unpredictable spending. Category-specific or travel points make sense only if your spending concentrates heavily in one area, like fuel, and you'll realistically redeem the points before they expire.
+
+**Should I use one card for everything or separate cards by category?**
+One primary card simplifies reconciliation and keeps your bookkeeper's job manageable. Multiple cards can maximize category-specific rewards, but only if your accounting system can cleanly track and reconcile each one separately every month, which adds real time to your bookkeeping process.
+
+If you want a second opinion on which card fits your spending, or you're not sure your current bookkeeping is catching rewards and reconciliation correctly, [reach out to our team](/contact) and we'll walk through your numbers together.
+
+---
+
+
+### Insuring Where It Counts: Avoid Over-Insuring in the Wrong Places
+URL: /resources/insuring-where-it-counts-avoid-over-insuring-in-the-wrong-pl-2
+
+A lot of insurance shopping happens backward. An agent hands over a renewal packet, the owner skims the declarations page, and the policy gets renewed because last year's numbers looked fine. Nobody asks the actual question: if this specific risk happened tomorrow, what would it cost, and could the business absorb that cost without insurance? That question, not a generic checklist of policy types, is what should drive every coverage decision.
+
+We see this constantly in Brookings and across the farms and service businesses we work with in South Dakota. A farm operation insures a fifteen-year-old grain truck at full replacement cost while carrying no coverage at all for the six weeks of lost income if the one person who runs the planter gets hurt. A law firm or engineering shop pays for a general liability policy sized to match what a competitor down the street carries, without ever calculating what a six-month interruption would actually cost in lost billings. Insurance bought this way isn't protection. It's a guess dressed up as a plan.
+
+## Insurance is a math problem before it's a shopping list
+
+Every risk you carry falls into one of two buckets: things your business or personal balance sheet can absorb on its own, and things that would force you to borrow, liquidate assets, or shut down operations. Insurance only makes financial sense for the second bucket. If a loss would cost $8,000 and you have $50,000 sitting in an operating reserve, paying a premium to transfer that risk is often money spent solving a problem you already solved yourself.
+
+The calculation gets more useful once you frame it around two numbers: your net worth (what you'd lose access to in a worst-case claim) and your monthly cash flow (what you need coming in to keep operating while a claim gets sorted out). A farm with $3 million in land equity and $40,000 in monthly operating expenses has a very different risk profile than a two-partner CPA firm with $200,000 in retained earnings and $60,000 in monthly payroll. Both need coverage. Neither needs the same coverage.
+
+## Where farm and agribusiness owners tend to over-insure
+
+Equipment is the easiest place to overspend. Farmers often insure aging machinery at full replacement value years after the actual liquidation or resale value has dropped well below that number. A combine purchased for $420,000 a decade ago isn't worth $420,000 today, and insuring it as if it were means paying premiums calculated against a number that no longer exists.
+
+The same pattern shows up with duplicate coverage across entities. Multi-entity farm structures, where land, equipment, and the operating business sit in separate LLCs or partnerships for tax reasons, sometimes end up with the same asset insured twice because two entities each carry a policy that references it. If your operation runs through more than one entity for tax purposes, it's worth checking coverage alongside the entity structure itself. That's the kind of overlap we catch when we work through multi-entity farm tax strategy with clients, and it's often the first place real premium savings show up.
+
+## Where professional service business owners tend to under-insure
+
+The opposite problem shows up in service businesses. A firm carries a standard $1 million general liability policy because that's what the landlord's lease requires or what a client contract specifies, and stops there. What's often missing is coverage for the risk that actually threatens the business: losing the person who brings in most of the revenue.
+
+In a four-person accounting or engineering firm, one partner often accounts for 40 to 60 percent of billable revenue. If that person is disabled or dies unexpectedly, the firm doesn't just lose a colleague. It loses cash flow at the exact moment it needs cash to cover a buyout, hire a replacement, or wind down client relationships. Key person insurance and buy-sell funding exist specifically for this gap, and they're the pieces most often missing from a professional service business's coverage, not the general liability limit everyone already has.
+
+## A four-part exposure check worth running every year
+
+A useful annual review breaks risk into four categories and asks a specific question in each one.
+
+| Risk category | Question to ask | Common miss |
+|---|---|---|
+| Property | What's the current liquidation value, not the original purchase price? | Insuring depreciated equipment at replacement cost |
+| Liability | What's the realistic maximum claim size given your revenue and client base? | Coverage limits set by habit, not exposure |
+| Income replacement | How many months could operations run without your top revenue producer or a key piece of equipment? | No business interruption or key person coverage |
+| Succession and transfer | Does a death or disability trigger a cash need the business can't cover on its own? | No buy-sell agreement funded by life insurance |
+
+Running through this table takes less than an hour once the numbers are in front of you. Most owners have never had all four columns filled in at the same time, which is exactly why gaps and overlaps both go unnoticed for years.
+
+## How coverage choices show up on your tax return
+
+Premiums for most business insurance, property, liability, and workers' compensation among them, are generally deductible as ordinary business expenses under [IRS Publication 535](https://www.irs.gov/publications/p535). Life insurance premiums for key person policies typically are not deductible when the business is the beneficiary, which changes the real after-tax cost of that coverage compared to a property or liability policy with the same premium. Comparing two policies by premium alone, without accounting for deductibility, is comparing the wrong numbers.
+
+This is where a coverage review overlaps with tax planning rather than staying a pure insurance conversation. It also overlaps with succession work: a farm operation planning a transition to the next generation, or a professional service business mapping out an eventual sale, needs its insurance and its transition plan built around the same net worth figures. We walk clients through this as part of [farm succession planning](/industries/farmers/farm-succession-planning) and [service business exit planning](/industries/professional-service-businesses/exit-planning), because a funding gap discovered mid-transition is a lot more expensive to fix than one caught during an annual review.
+
+## Where this fits into a bigger risk conversation
+
+Insurance review is one piece of a larger picture that includes cash flow, entity structure, and where your assets actually sit. Our [advisory services](/what-we-do/advisory-services) work covers cash flow analysis and budgeting year-round, and insurance exposure is a natural extension of that same conversation, not a separate errand to check off once a year with an agent who has never seen your books.
+
+## Common Questions
+
+**How much insurance coverage do you need for a farm or small business?**
+There's no flat number. Start by identifying your maximum realistic loss in each risk category, then compare it against what your business could absorb from cash reserves without borrowing. Coverage should close the gap between those two figures, not simply match what a competitor or landlord requires.
+
+**What's the difference between insuring for replacement value and insuring for actual exposure?**
+Replacement value covers what it costs to buy something new. Exposure-based coverage accounts for what you'd actually lose, including lost income and liquidation value, which is usually lower for equipment and higher for income disruption than most policies assume.
+
+**Is business insurance tax deductible?**
+Most property, liability, and workers' compensation premiums are deductible as ordinary business expenses under [IRS Publication 535](https://www.irs.gov/publications/p535). Key person life insurance where the business is the beneficiary generally is not, which affects the real cost of that coverage.
+
+**When does key person insurance make sense for a professional service business?**
+It makes sense when one person accounts for a large share of revenue or client relationships, commonly 30 percent or more in small firms. The policy should be sized to cover the cash gap a sudden loss would create, including buyout funding and the cost of replacing that revenue while a successor gets up to speed.
+
+If you want an honest look at where your coverage matches your actual risk and where it doesn't, [reach out to our team](/contact) and we'll walk through the numbers with you.
+
+---
+
+
+### Why the Smart Money Is Quietly Moving From Public Stocks to Private Markets
+URL: /resources/why-the-smart-money-is-quietly-ditching-public-stocks-for-pr
+
+A handful of clients have asked us the same question this year. A wealth manager mentioned private credit or a private equity fund, and now they want to know what it actually does to their tax return. It's a fair question, and it's happening for a reason: the pool of companies trading on public exchanges keeps shrinking, and money that used to chase IPOs is now chasing negotiated deals nobody sees on a stock ticker.
+
+## Fewer IPOs are changing where the money goes
+
+Fewer companies choose to go public than they did fifteen years ago. Staying private longer means avoiding the disclosure costs, activist shareholders, and quarterly earnings pressure that come with a listing. For investors, that used to mean fewer options. No shares on an exchange meant no exposure. Now private equity funds, direct lending vehicles, and private credit funds have opened a lane that used to be reserved for institutions and family offices with eight-figure minimums.
+
+That lane is showing up in ordinary conversations around Brookings. A farmer who sells 320 acres of appreciated land, or a professional service owner who just closed a practice sale, is increasingly getting pitched a private credit fund with a quarterly capital call instead of a mutual fund with same-day liquidity. The pitch usually leads with the return. It rarely leads with the K-1.
+
+## Higher rates made private, negotiated yield hard to ignore
+
+When rates sat near zero, the yield gap between public bonds and private credit wasn't worth the illiquidity. That gap widened once rates moved up. Private credit funds negotiate covenants, collateral, and rate resets loan by loan, an advantage a public bondholder simply doesn't have. The Federal Reserve's [Financial Stability Report](https://www.federalreserve.gov/publications/financial-stability-report.htm) has tracked this shift for several reporting cycles now, flagging private credit's growth as a factor worth watching for the financial system broadly, not just for portfolio returns.
+
+For an individual investor, that growth translates into more offers landing in the inbox. Insurance-linked private credit, direct lending funds, real estate debt funds, and ag-focused lending vehicles have all expanded their investor base beyond pension funds and endowments. The return story is often genuinely attractive. The tax and cash-flow story is the part that gets skipped.
+
+## The K-1 complexity nobody mentions at the pitch meeting
+
+A public stock is simple at tax time. You get a 1099-B, you know your cost basis, you report a capital gain or loss, and you're usually done by February. A private fund issues a K-1, and K-1s from multi-state, multi-strategy funds routinely arrive in March, June, or even September of the following year.
+
+Three issues show up almost every time:
+
+| Issue | What it means for you |
+|---|---|
+| Timing | K-1s often arrive after the original filing deadline, requiring an extension even though tax is still owed in April |
+| Phantom income | The fund can allocate taxable income to you before it distributes any cash |
+| State footprint | A fund investing across ten states can require you to file ten state returns, even on a modest allocation |
+
+None of these are reasons to avoid private markets. They're reasons to plan for them before the wire goes out, not after the K-1 shows up in a mailbox six months later than expected.
+
+## Where this shows up for Brookings ag and business owners
+
+Farm and agribusiness clients already deal with multi-entity structures: an operating LLC, a land-holding entity, maybe an equipment leasing entity, each generating its own K-1. Layer a private credit or private equity allocation on top of that, and a producer who used to have three K-1s now has four or five, each with its own timing and its own state-filing quirks. Julie Underwood, CPA, works with clients on exactly this kind of [multi-entity farm tax strategy](/industries/farmers/multi-entity-farm-tax-strategy), and the first question she asks before an allocation closes is whether the client's estimated tax payments already account for income the fund hasn't distributed yet.
+
+Professional service business owners run into a related version of the same problem. A retirement plan rollover or a brokerage account that adds a private equity sleeve can trigger unrelated business taxable income inside an IRA, a bill that surprises people who assumed a retirement account was tax-sheltered by definition. It isn't, automatically, once leverage or an active trade enters the picture.
+
+## Build the tax plan before you sign, not after
+
+The fix isn't complicated, but it has to happen on a timeline that matches how these funds actually operate. Before capital gets committed, we look at three things: the fund's expected state filing footprint, whether the strategy is likely to generate phantom income in early years, and how that income should factor into quarterly estimated payments for the current tax year. That analysis takes an afternoon when it happens ahead of the commitment. It takes a scramble in April when it doesn't.
+
+This is the same reasoning behind why [waiting until December to plan](/resources/the-biggest-tax-mistake-wealthy-individuals-make-waiting-unt) costs high-net-worth individuals real money: private market allocations are a decision with tax consequences that stretch years past the initial signature, and the earlier those consequences get modeled, the fewer surprises land on the return. It's also part of why a portfolio built on [set it and forget it](/resources/strategically-balancing-your-investment-portfolio-why-set-it) thinking tends to underperform once illiquid holdings enter the mix. Illiquid assets don't rebalance themselves, and neither does the tax plan around them.
+
+Clients working with our [advisory services](/what-we-do/advisory-services) team get this modeling as part of a fixed monthly relationship, not a separate project billed after the fact. Documents move through a secure online platform as K-1s and fund statements trickle in over the year, so nothing sits in an inbox until the deadline is already close.
+
+## Common Questions
+
+**What's the main tax difference between investing in public stocks versus private equity or private credit funds?**
+Public stock gains are straightforward: a 1099-B, a cost basis, a capital gain or loss, usually finalized by February. Private funds issue K-1s that often arrive in March or later, can report taxable income before you receive any cash, and may require filings in every state the fund does business.
+
+**What is UBTI and why does it matter inside a retirement account?**
+Unrelated business taxable income is income a tax-exempt account, like an IRA, earns when a fund it holds uses leverage or runs an active trade or business. Once UBTI exceeds $1,000 in a year, the IRA itself owes tax on Form 990-T, a bill many investors don't expect a retirement account to generate.
+
+**How long do K-1s take to arrive, and can I still file on time?**
+Many private fund K-1s arrive between March and September of the year after the tax year closes. Filing a timely extension is standard practice for these investments, and any tax owed is still due by the original April deadline even though the paperwork isn't ready yet.
+
+**Does a private credit or private equity investment change my estimated tax payments?**
+Often, yes. If the fund allocates income without distributing matching cash, you may owe estimated tax on money you haven't actually received. We calculate that exposure as soon as fund estimates are available so a September K-1 doesn't turn into an April penalty.
+
+If a wealth manager has pitched a private credit fund, a direct lending vehicle, or a private equity allocation and you want the tax side mapped out before you sign anything, [reach out to TruCount CPA](/contact) and we'll walk through what it means for your specific structure.
+
+---
+
+
+### Why 'Set It and Forget It' Is Costing You Returns on Your Investment Portfolio
+URL: /resources/strategically-balancing-your-investment-portfolio-why-set-it
+
+Most of the farmers and business owners we sit down with in Brookings built their wealth the hard way, and they built it lopsided on purpose. A farm operation might have seventy or eighty percent of net worth locked into land and equipment. A professional service business owner has the bulk of theirs tied up in the practice itself. That concentration isn't a mistake, it's how equity gets built in agriculture and professional services. The mistake shows up later, when the same owner treats an outside brokerage account the way they treat a bin of stored grain: fill it once, check on it occasionally, and assume it's fine. It usually isn't.
+
+## Risk drifts even when you don't touch a thing
+
+A portfolio that started at 60 percent stocks and 40 percent bonds doesn't stay there on its own. After a strong run in equities, that same account can quietly become 75/25 within three or four years, carrying more risk than the owner ever agreed to. Nobody made a decision to take on more risk. The market made it for them. The Federal Reserve's research on household finance and investment behavior points to this exact pattern: households that don't actively manage allocation tend to accumulate concentration risk without realizing it, often discovering the imbalance only after a downturn ([Federal Reserve Notes on Household Finance and Investment Behavior](https://www.federalreserve.gov/econres/notes/feds-notes/default.htm)). Rebalancing is what corrects that drift. Skipping it isn't neutral. It's a decision, just one nobody signed off on.
+
+## What balance looks like when land is already half your net worth
+
+Standard asset allocation advice assumes your investment account is your main pool of risk. For a lot of our clients, it isn't. If half your net worth is in South Dakota farmland and a combine that depreciates every season, your investment portfolio needs to diversify against that concentration, not repeat it. Loading up on farmland REITs or commodity-heavy funds inside your IRA doubles down on the same weather and commodity-price risk you already carry on the balance sheet. A genuinely balanced portfolio for a row-crop operator or an agribusiness owner often leans toward assets that move independently of grain prices and land values: broad equity index exposure, fixed income, and enough liquidity to cover a bad year without selling ground. The same logic applies to a professional service owner whose practice is the concentrated asset. Diversification only counts if it's actually uncorrelated.
+
+## Rebalancing is a tax decision as much as an investment one
+
+Selling appreciated stock to bring your allocation back in line triggers a capital gain, and the timing of that gain matters more for farm and business income than most portfolios ever get credit for. Farm income swings hard year to year, and that's exactly why Schedule J income averaging exists: a strong crop year, paired with realized investment gains from a portfolio rebalance, can push a farmer into a higher bracket than the last three years combined. Averaging that income back over the prior three years can soften the hit meaningfully. Deferred grain contracts work the same lever from a different angle, letting a farmer choose which tax year a grain sale lands in. Once you're already managing income timing with a grain contract, timing a portfolio rebalance around the same tax year isn't an extra step, it's the same planning conversation. We've paired a rebalancing year with an excess fertility deduction for landowners in eastern South Dakota, deducting the built-up soil fertility on purchased ground as it's used, which offsets some of the taxable gain from selling appreciated stock in that same year. None of this happens by accident. It happens because someone looked at the whole picture before December, not after. Julie Underwood, CPA, works through these multi-entity timing questions with our farm and agribusiness clients, and the entity side of that strategy is covered on our [multi-entity farm tax strategy](/industries/farmers/multi-entity-farm-tax-strategy) page.
+
+## Concentrated equity in the business you run is its own imbalance
+
+If you own a professional service business in Brookings, your largest asset probably doesn't trade on any exchange, and that's the risk nobody talks about at the coffee shop. Every dollar of equity value sits in one illiquid basket: your firm. A balanced approach means building outside assets deliberately, not as an afterthought once the practice is sold. It also means thinking about how a future sale or transition gets taxed, since that's the single biggest rebalancing event most business owners will ever go through. Our [service business exit and succession planning](/industries/professional-service-businesses/exit-planning) work exists for exactly this moment, structuring the transition so the tax bill doesn't erase years of diversification planning in one filing.
+
+## A rebalancing habit beats a rebalancing event
+
+Risk tolerance isn't fixed. A 38-year-old farmer two years into taking over the operation can absorb more volatility than that same farmer at 61, weighing a transition to the next generation. An annual rebalancing check, tied to your actual tax picture rather than a calendar reminder from a brokerage app, catches both the drift in your allocation and the shift in what you can actually afford to risk. The AICPA's Personal Financial Planning resources make the same case for a coordinated, ongoing review rather than a one-time allocation decision ([AICPA Personal Financial Planning Resources](https://www.aicpa-cima.com/topic/personal-financial-planning)). Waiting until year-end to think about any of this, investment gains included, is the same mistake covered in [why high-net-worth individuals lose money waiting until December to plan](/resources/the-biggest-tax-mistake-wealthy-individuals-make-waiting-unt).
+
+## Where TruCount fits into the picture
+
+We don't pick your stocks or manage your brokerage account. What we do is model what a rebalance actually costs in taxes before you execute it, coordinate that timing with your farm or business income, and flag ag-specific tools, like [R&D tax credits for farmers](/what-we-do/advisory-services/r-and-d-tax-credits), that can offset a gain in the same year you're realizing one. That's the CFO-level insight bundled into a fixed monthly fee: someone watching the whole balance sheet, not just the return filed last April, through a secure online platform where you can see the numbers in real time instead of waiting for a year-end summary.
+
+## Common Questions
+
+**How often should I rebalance my investment portfolio?**
+Once a year is a reasonable baseline for most people, tied to a specific month rather than "whenever I think of it." Farmers and business owners often get more value pairing that review with tax planning season, since the rebalance and the tax bill from it should be decided together, not discovered separately.
+
+**Does rebalancing always trigger a tax bill?**
+Only in a taxable account, and only on the gains you actually realize when you sell. Rebalancing inside an IRA or 401(k) doesn't trigger a current tax event, which is one reason many advisors rebalance retirement accounts first and taxable accounts more carefully.
+
+**How does farm income averaging affect a portfolio rebalance?**
+Schedule J lets a farmer spread a high-income year, crop sale gains included, back over the prior three years' tax rates. If a rebalance lands in a year with strong farm income, coordinating the two can meaningfully lower the combined tax bill compared to treating them as separate decisions.
+
+**What does a balanced portfolio look like for someone whose net worth is mostly land or business equity?**
+It looks lighter on assets correlated to your existing concentration, land, commodities, or your own industry, and heavier on broad, liquid diversification you can access without selling the farm or the practice. The right mix depends on your actual balance sheet, not a generic age-based rule.
+
+If your investment accounts haven't been rebalanced since the last time you thought about it, that's worth a conversation before your next tax filing, not after. [Contact TruCount CPA PC](/contact) and we'll walk through what a coordinated rebalance actually costs and saves for your specific situation.
+
+---
+
+
+### Long-Term Care: How You Can Financially Prepare for the Expense
+URL: /resources/long-term-care-how-you-can-financially-prepare-for-the-expen-2
+
+A farm couple in their late 60s can have a paid-off operation, a healthy retirement account, and still be one hip fracture away from a financial crisis. Long-term care is the expense most families underestimate twice: they guess the price too low, and they guess how soon they'll need a plan too far off. By the time care starts, the options for paying for it have already narrowed. Treating long-term care as a funding decision you make in your 50s and 60s, not a scramble you handle in your 80s, is what separates families who stay in control of their assets from families who don't.
+
+Here in Brookings, this conversation comes up constantly with farm families thinking about the next generation and with professional service owners planning their own retirement. It touches tax planning, entity structure, and often the same succession conversations we're already having about the operation itself.
+
+## Why the price tag catches families off guard
+
+A private room in a South Dakota nursing home commonly runs $80,000 to $100,000 a year, and assisted living facilities in the $50,000 to $65,000 range are typical across the Midwest. In-home care, which most people say they'd prefer, still costs $25 to $30 an hour once you're paying for skilled help beyond a few hours a week. None of that is a one-time bill. Care for a spouse with a progressive condition can run five to eight years.
+
+The number that surprises people most is what Medicare will not cover. Medicare pays for short-term rehabilitation after a hospital stay, not for ongoing custodial care. Medicaid does cover long-term care, but only after a person has spent down most of their countable assets, which for a farm family can mean selling land or liquidating an operation they spent decades building. That's the scenario every strategy below is designed to avoid.
+
+## Three ways to fund the cost, and what each one actually protects
+
+Most families end up using some blend of three tools: long-term care insurance, VA benefits if a spouse or parent served, and self-funding from savings or farm assets. None of them is automatically the right answer. The right mix depends on age, health, military service, and how much of the family's net worth is tied up in land, equipment, or a business.
+
+| Funding source | Best fit | Watch out for |
+|---|---|---|
+| Long-term care insurance | Healthy applicants in their 50s to early 60s | Premiums can rise; underwriting gets harder after a diagnosis |
+| VA Aid and Attendance benefit | Veterans and surviving spouses meeting service and income tests | Application can take months; asset and income limits apply |
+| Self-funding | Families with liquid savings or a plan to protect farm/business assets | Requires real numbers, not a guess, years before care starts |
+
+Long-term care insurance locks in a benefit while you're still insurable. Premiums are lower and underwriting is far easier for a healthy 55-year-old than a 70-year-old with a recent diagnosis. The tradeoff is cost certainty going the other direction: premiums aren't guaranteed to stay flat, and policies bought decades ago sometimes come due for a real increase right when a client is on a fixed income.
+
+Self-funding works when the numbers are run honestly. That means knowing your actual liquid net worth, not your net worth on paper once land and equipment are included, and building a reserve that could cover four to six years of care without forcing a sale of the operation. This is where the analysis overlaps directly with entity structure and [multi entity farm tax strategy](/industries/farmers/multi-entity-farm-tax-strategy): how assets are titled and which entity holds them can determine whether a spouse's care costs put the whole operation at risk or just draw down a specific account.
+
+## The VA Aid and Attendance benefit most veteran families never apply for
+
+If a veteran or their surviving spouse needs help with daily activities, the [VA Aid and Attendance benefit](https://www.va.gov/pension/aid-attendance-housebound/) adds a monthly payment on top of a standard VA pension, and it can be used toward in-home care, assisted living, or a nursing facility. Brookings County has a meaningful veteran population from decades of farm families with service history, and this benefit gets missed constantly, partly because the application requires documenting both wartime service dates and unreimbursed medical expenses correctly. Getting the paperwork right the first time matters, because a rejected application can add months to the wait while care costs keep accumulating.
+
+## Building the funding plan into your existing tax and succession strategy
+
+The strongest long-term care plans don't exist in isolation. They get built alongside the tax and succession planning a family or business owner is already doing. Julie Underwood, CPA, works with agribusiness and professional service owners on exit and succession structures where long-term care funding is part of the same conversation: how ownership transfers, how a buyout is taxed, and how much liquidity a retiring spouse needs outside the business. Brandi Altstaetter works with multi-generational farm families on transition planning, where the question of who pays for Mom and Dad's care can otherwise turn into a fight between siblings who farm and siblings who don't.
+
+A few of the medical costs tied to long-term care are deductible if they exceed 7.5% of adjusted gross income, including a portion of premiums for tax-qualified long-term care insurance based on age, as outlined in [IRS Publication 502](https://www.irs.gov/publications/p502). That deduction alone won't fund a care plan, but it's worth building into year-round tax planning rather than discovering it in April.
+
+This kind of planning also connects to broader financial-risk decisions families are already making, like whether they're carrying the right kind of and amount of coverage elsewhere. If you haven't looked at your overall insurance picture recently, our post on [how much insurance coverage you actually need](/resources/insuring-where-it-counts-avoid-over-insuring-in-the-wrong-plac) is a useful companion piece. And if unexpected medical costs in general are a worry, [our piece on tax-advantaged planning against medical debt](/resources/why-tax-advantaged-planning-is-the-real-defense-against-medi) walks through HSA strategy that overlaps here too.
+
+## Common Questions
+
+**At what age should someone buy long-term care insurance?**
+Most people get the best combination of price and approval odds between ages 55 and 65, while health is still strong. Waiting until a health event forces the issue often means higher premiums, exclusions, or an outright denial, so this is a decision that rewards planning years ahead rather than reacting to a diagnosis.
+
+**Can a farm or business be protected from long-term care costs?**
+Often, yes, depending on how ownership is structured and how far in advance the planning starts. Entity structure, asset titling, and timing all matter, and Medicaid look-back rules mean transfers made too close to the need for care won't count. This is exactly the kind of planning we do alongside [multi entity farm tax strategy](/industries/farmers/multi-entity-farm-tax-strategy) work.
+
+**How much does the VA Aid and Attendance benefit actually pay?**
+The amount depends on the veteran's or surviving spouse's specific circumstances, including marital status and unreimbursed medical expenses, and it's paid in addition to the base VA pension. Full eligibility rules and current payment details are on the [VA's Aid and Attendance page](https://www.va.gov/pension/aid-attendance-housebound/).
+
+**Is self-funding realistic without long-term care insurance?**
+It can be, if the reserve is sized correctly and separated from farm or business capital that's needed to keep the operation running. A family that hasn't run those numbers is usually guessing at a figure that's too low, which is why this works best as part of a broader financial plan rather than a standalone decision.
+
+If long-term care costs are part of a bigger conversation about your farm's succession, your business exit, or your family's overall tax strategy, [contact us](/contact) and we'll walk through what a realistic funding plan looks like for your situation.
+
+---
+
+
+### Unless it's working for you, your dog isn't a tax deduction
+URL: /resources/unless-its-working-for-you-your-dog-isnt-a-tax-deduction-2
+
+A client called our Brookings office last spring, half-laughing, half-serious: "My Border Collie logs more hours on this farm than I do. Can I write her off?" It's a fair question, and one we hear from farmers, kennel owners, and small business owners more often than you'd think. The honest answer is almost always no, unless the dog is genuinely working in a business. There are a handful of narrow, IRS-recognized situations where dog-related costs are legitimate deductions, and knowing the difference can save you from an audit letter down the road.
+
+## Most dogs are a personal expense, not a deduction
+
+The IRS treats pet expenses the same way it treats groceries or a haircut: personal, nondeductible, no exceptions for how much you love the animal. Food, grooming, vet visits, boarding, even the vet bill after your Lab decides to eat a sock, none of it counts as a business or medical expense just because the dog lives at your house or rides along in your truck.
+
+[IRS Publication 535](https://www.irs.gov/publications/p535) sets the standard for any business expense: it has to be ordinary and necessary for carrying on your trade or business. A family pet doesn't meet that bar. Neither does the office dog who mostly naps under a desk and greets clients. Warmth and morale are real benefits, but the IRS doesn't accept "good for team spirit" as a deduction category. The dog has to be doing actual, documented work that the business depends on.
+
+## When a farm or business dog earns a real write-off
+
+This is where it gets interesting for our ag clients. A livestock guardian dog patrolling a pasture of 60 head of cattle outside Brookings isn't a pet in the eyes of the IRS, it's working equipment, provided the farm operates as a genuine for-profit business and files Schedule F. The same logic applies to a guard dog protecting inventory at a shop, a warehouse, or an ag supply yard, and to dogs used in a legitimate breeding operation run with the intent to profit, not a hobby litter sold to neighbors once a year.
+
+In each of these cases, the deductible costs are the ordinary and necessary ones tied to the dog's job: food, veterinary care, training, and boarding while the animal is working. If the dog splits time between guarding the henhouse and sleeping on your kids' beds, you can only deduct the business-use portion, and you need records that back up that split. This is exactly the kind of detail our CPAs, including Julie Underwood, CPA, walk through with multi-entity farm and agribusiness clients, since a working dog on one entity's books needs to be tied clearly to that entity's income and purpose, not blended across the whole operation. If your farm runs more than one entity, our [multi-entity farm tax strategy](/industries/farmers/multi-entity-farm-tax-strategy) work covers exactly this kind of allocation question.
+
+## Service animals get a different deduction entirely
+
+A service animal isn't a business expense at all, it's a medical expense, and it lives on a completely different part of your return. [IRS Publication 502](https://www.irs.gov/publications/p502) allows you to deduct the cost of buying, training, and maintaining a guide dog or other service animal that assists a person with a physical or mental disability. That includes food, grooming, and veterinary care, claimed as an itemized medical expense on Schedule A.
+
+There's a catch that trips people up: medical expenses only count once your total itemized medical costs exceed 7.5% of your adjusted gross income, and only the amount above that floor is deductible. A service animal has to be trained to perform specific tasks tied to a diagnosed disability, guiding a person who is blind, alerting someone to a medical episode, retrieving items for a person with limited mobility. An emotional support animal, however comforting, generally does not meet this standard on its own.
+
+## Therapy dogs blur the line, but the test stays the same
+
+Therapy dog deduction questions come up a lot, and the answer depends entirely on how the dog is used. If you run a for-profit therapy practice, a physical rehab business, or a similar service where the dog is integral to the service you deliver to paying clients, the dog's costs can qualify as an ordinary business expense under the same Publication 535 standard that covers guard dogs. The dog has to be doing real, income-generating work in the business, not just sitting in the waiting room.
+
+A personal companion dog that happens to calm you down after a hard day doesn't qualify, no matter how therapeutic the relationship feels. The IRS applies the same business-purpose test here that it applies to a guard dog on a farm: is the animal actually performing work the business depends on, and can you prove it?
+
+## What the IRS wants to see before you claim it
+
+Before you claim any dog-related deduction, get in the habit of separating personal costs from business costs the same way you would for a vehicle used for both hauling grain and running errands. Keep vet bills, food receipts, and training invoices specific to the working animal. A short written note on the dog's role, the hours it works, and which entity it supports goes a long way if the IRS ever asks.
+
+| Scenario | Deduction type | Where it's claimed | What's required |
+|---|---|---|---|
+| Guard dog protecting shop or inventory | Business expense | Schedule C or Schedule F | Documented business purpose, for-profit operation |
+| Livestock guardian dog on a working farm | Business expense | Schedule F | Farm run for profit, dog tied to herd protection |
+| Legitimate breeding operation | Business expense | Schedule C | Profit motive, records, business plan |
+| Service dog for a diagnosed disability | Medical expense | Schedule A, itemized | Pub 502 standard, exceeds 7.5% AGI floor |
+| Therapy dog used in a for-profit practice | Business expense | Schedule C | Dog integral to services sold to clients |
+| Family pet or emotional support companion | Not deductible | N/A | Personal expense, no business or medical nexus |
+
+If your farm or service business already runs on a fixed monthly bookkeeping and tax plan through our [outsourced accounting](/what-we-do/outsourced-accounting) service, this is precisely the kind of expense we flag during monthly review, not in April when it's too late to fix the paper trail. For farmers weighing which deductions are worth building documentation around, our [agriculture accounting](/who-we-serve/farmers) team can tell you fast whether a guard dog, breeding line, or working animal is worth the extra recordkeeping.
+
+## Common Questions
+
+**Can I deduct my dog's food and vet bills if she guards our farm shop?**
+Only if guarding the shop is a documented, ongoing part of a for-profit farm business filed on Schedule F, and only for the portion of her time and costs tied to that job. If she also lives in the house as a family pet, you need to separate personal use from business use before claiming anything.
+
+**Is a therapy dog tax deductible?**
+It depends entirely on the setting. A therapy dog used in a for-profit therapy or rehab practice can qualify as a business expense under IRS Publication 535, but a personal companion dog that provides comfort at home does not qualify, even with a doctor's note.
+
+**What's the difference between a service animal and an emotional support animal for tax purposes?**
+A service animal is trained to perform specific tasks for a diagnosed disability and qualifies as a medical expense under IRS Publication 502. An emotional support animal offers comfort but isn't trained to perform tasks, so it generally does not meet the medical expense test.
+
+**Do I need to prorate expenses if my dog is part pet, part working animal?**
+Yes. The IRS expects you to allocate costs based on actual business use, similar to how you'd split a vehicle used for both farm work and personal errands. Keep a simple log of hours worked and tie vet bills or training costs to the specific role whenever possible.
+
+If you're not sure whether your guard dog, farm dog, or breeding operation clears the bar for a real deduction, bring your numbers to our Brookings team before you file. [Contact us](/contact) and we'll walk through what's documented, what's deductible, and what to fix before next tax season.
+
+---
+
+
+### Why Tax-Advantaged Planning Is the Real Defense Against Medical Debt
+URL: /resources/why-tax-advantaged-planning-is-the-real-defense-against-medi
+
+A knee replacement, a cancer diagnosis, a kid's emergency surgery. Nobody plans for these, and yet almost every family we work with in Brookings faces some version of it eventually. The instinct is to build a savings cushion and hope it's enough. That's a reasonable start, but it's not a plan. The families and business owners who come through a medical crisis with their finances intact are almost always the ones who set up their tax strategy before the bill arrived, not after.
+
+The Federal Reserve's [Report on the Economic Well-Being of U.S. Households](https://www.federalreserve.gov/publications/report-economic-well-being-us-households.htm) has tracked for years how many households can't absorb a $400 surprise expense without borrowing or selling something. Medical bills routinely run into the thousands, and a savings account alone rarely closes that gap. What closes it is a combination: money set aside in the right account, and a tax return built to capture every dollar the IRS already allows you to deduct.
+
+## An emergency fund buys time, tax strategy buys relief
+
+Cash reserves matter. Three to six months of expenses sitting in a bank account keeps a medical event from becoming a cash-flow crisis overnight. But an emergency fund is passive money. It sits there earning almost nothing and gets taxed the same whether you use it for a car repair or a hospital stay.
+
+A Health Savings Account works differently. Contributions go in pre-tax, the balance grows tax-free, and withdrawals for qualified medical expenses come out tax-free too. That's a triple tax benefit no regular savings account offers. For 2024, the IRS allows HSA contributions up to $4,150 for self-only coverage and $8,300 for family coverage, with an extra $1,000 catch-up if you're 55 or older. A farm family carrying a high-deductible health plan, which many ag operations do to control premium costs, can build a meaningful tax-advantaged reserve specifically earmarked for medical costs, separate from the general savings they're using for equipment or land payments.
+
+Unused HSA funds roll over year after year. There's no use-it-or-lose-it deadline like with a Flexible Spending Account, which makes the HSA the better long-term tool if your health plan qualifies. An FSA still has a role for predictable annual expenses like orthodontia or contacts, but it caps out lower and typically expires the funds each year, so it's worth pairing rather than choosing one over the other.
+
+## What counts toward your medical expense deduction
+
+Even without an HSA, the tax code gives you a second lever: the itemized medical expense deduction. Under current law, you can deduct unreimbursed medical expenses that exceed 7.5% of your adjusted gross income, but only if you itemize instead of taking the standard deduction. [IRS Publication 502](https://www.irs.gov/publications/p502) lays out exactly what qualifies, and the list is broader than most people expect: mileage to appointments, certain home modifications for a disability, long-term care premiums, even some travel costs for treatment.
+
+Here's where the planning matters more than the deduction itself. If your medical expenses for a given year are going to land near that 7.5% threshold anyway, timing elective procedures, dental work, or vision correction into the same calendar year can push you over the line and unlock a deduction that would otherwise disappear. Spread those same expenses across two years and you might clear the threshold in neither one. This is a conversation worth having with your accountant in October, not April, because by the time you're filing, the timing decision is already gone.
+
+## Building the plan before the bill shows up
+
+The strongest position we see is a household or business owner running both strategies together. Money flows into an HSA throughout the year, funded automatically like a retirement contribution. A general emergency reserve sits alongside it for expenses the HSA doesn't cover, like a deductible on a disability policy or a gap in coverage during a job transition. Then, once a year, we look at whether bunching elective medical expenses into a single tax year makes sense given where the household's income landed.
+
+For a farm operation, this gets more layered. A bad weather year can already push income down, which changes how the 7.5% AGI threshold behaves and can make medical deductions land differently than in a strong crop year. Multi-entity structures add another wrinkle, since medical expenses paid personally don't automatically flow the same way depending on how the business and the individual are set up. This is the kind of detail that gets missed when tax prep happens once a year in a rush, and it's exactly what year-round [tax planning and preparation](/what-we-do/outsourced-accounting/business-tax) is built to catch.
+
+Professional service business owners face a related version of the same problem. A single-owner practice with no HSA in place and thin cash reserves is one surgery away from a serious cash-flow disruption, on top of losing billable hours during recovery. Setting up the account structure now, before anyone needs it, is the cheap insurance most owners skip because it doesn't feel urgent until it is.
+
+Long-term medical costs deserve their own conversation too. A short-term crisis and a long-term care need call for different tools, and we've laid out how long-term care insurance, VA Aid and Attendance benefits, and self-funding compare in our piece on [planning for long-term care costs](/resources/long-term-care-how-you-can-financially-prepare-for-the-expen). If a family member's health situation looks like it's heading toward ongoing care rather than a one-time event, that's worth reading before deciding how much to keep liquid versus how much to put toward insurance.
+
+The common thread across every scenario: waiting until the bill arrives to think about taxes means you've already lost the ability to plan around it. We've written before about why [waiting until December to plan costs high-net-worth individuals real money](/resources/the-biggest-tax-mistake-wealthy-individuals-make-waiting-unt), and the same logic applies here at every income level. A deduction you didn't structure for doesn't show up on its own.
+
+## Common Questions
+
+**How much should I keep in an emergency fund versus an HSA?**
+A reasonable split is three to six months of living expenses in a liquid emergency fund, with your HSA funded up to the annual limit if your health plan qualifies. The HSA money should be treated as untouchable except for medical costs, since it's the only account offering tax-free growth and tax-free withdrawals for that purpose.
+
+**Do I need to itemize to get any tax benefit from medical expenses?**
+Yes, for the medical expense deduction specifically, since it only applies if your itemized deductions exceed the standard deduction. HSA contributions are different and reduce your taxable income regardless of whether you itemize, which is one reason the HSA is usually the more reliable tax benefit for most households.
+
+**Can I use HSA funds for a family member's medical bills?**
+You can use HSA funds for your spouse and any tax dependents, even if they're not covered under your specific high-deductible health plan. Keep receipts, since the IRS can ask for documentation showing the withdrawal went toward a qualified expense listed in Publication 502.
+
+**What happens if my medical expenses don't hit the 7.5% AGI threshold?**
+If they don't, you get no deduction for that year under current law, which is exactly why timing elective procedures matters. Bunching predictable expenses like dental work or new glasses into a year when you're already near the threshold, rather than spreading them out, is a decision your accountant can help you time before December 31.
+
+If a medical event, an aging parent's care needs, or just the uncertainty of not having a plan has been sitting in the back of your mind, [reach out to our team](/contact) and we'll walk through what an HSA, your deduction picture, and your reserve fund should actually look like for your situation.
+
+---
+
+
+### Auto Leasing vs. Buying: Which Makes More Sense?
+URL: /resources/auto-leasing-vs-buying-which-makes-more-sense-2
+
+Every dealership in Brookings will steer you toward the payment that feels smaller today. Every online calculator will tell you buying builds equity, full stop. Neither one knows your tax bracket, your annual mileage, or whether that vehicle sits on your Schedule C, your S-corp's books, or your personal checking account. That's the piece missing from most lease vs buy a car comparisons, and it's usually where the real money is.
+
+## The question underneath the payment
+
+For an individual buying a personal vehicle with zero business use, this decision mostly comes down to cash flow and how long you keep cars. Trade every three years and hate surprise repair bills? Leasing has real appeal. Drive a vehicle into the ground at 150,000 miles? Buying wins almost every time.
+
+For a farm running a truck 40,000 miles a year hauling grain and livestock, or a professional service business titling a vehicle to the company, the calculation changes. Business vehicle purchase vs lease decisions carry tax consequences that can shift the total cost by thousands of dollars in the first year alone, before you even factor in what happens at trade-in.
+
+## How the payment stacks up over five years
+
+Here's a simplified look at a $45,000 crew cab truck, financed at 7% over 60 months versus leased on a comparable 36-month term.
+
+| | Leasing | Buying with a loan |
+|---|---|---|
+| Typical monthly payment | Lower, often $550-650 | Higher, often $850-900 |
+| Ownership at the end | None, unless you exercise a buyout | Full ownership |
+| Mileage limits | 10,000-15,000 miles/year, overage fees apply | None |
+| Maintenance | Often covered under factory warranty | Owner's responsibility once warranty ends |
+| Business tax treatment | Deduct the business-use percentage of lease payments as paid | Depreciate the cost, possibly with Section 179 |
+
+Over five years, that lease might run roughly $37,000 in total payments with nothing to show for it afterward. The loan runs closer to $53,000, but you're left holding a truck worth $15,000 to $20,000 at trade-in. Run the numbers on your specific vehicle and mileage before assuming either side wins by default.
+
+## Section 179 tips the scale for business vehicles
+
+If a vehicle is used more than 50% for business, buying opens a door leasing doesn't: accelerated depreciation. Under the rules outlined in [IRS Publication 946](https://www.irs.gov/publications/p946), heavy vehicles, generally those over 6,000 pounds gross vehicle weight, qualify for a substantially larger first-year Section 179 vehicle deduction than passenger cars, which are capped under separate luxury-auto depreciation limits.
+
+Say a farmer buys a $55,000 crew cab used 80% for hauling feed and equipment. Depending on the year's limits and the owner's tax bracket, that Section 179 election could reduce the current-year tax bill by $8,000 to $12,000. Lease that same truck and you only deduct the business-use portion of the payments as they're made, spread thin over the lease term instead of taken up front. The tradeoff: buying locks you into ownership and depreciation recapture rules if you sell early, so this is a decision worth modeling with your CPA before you sign anything, not after.
+
+Entity structure matters here too. A vehicle titled to a farm LLC versus held personally changes how the deduction flows through, which is part of why [entity type analysis](/what-we-do/advisory-services/entity-type-analysis) tends to come up in the same conversation as vehicle purchases.
+
+## Mileage habits decide more than the tax code does
+
+A farmer or ag operator logging 30,000 to 50,000 miles a year on rural roads and gravel, hauling trailers and equipment, will blow past lease mileage caps almost every year. Overage charges commonly run $0.15 to $0.25 per mile, which turns a good-looking lease payment into an expensive mistake by year two.
+
+Compare that to a professional service business owner driving under 10,000 miles a year for client meetings around Brookings. Lower mileage, lighter wear, and a preference for a newer vehicle every few years can make leasing the more sensible pick, especially when the vehicle isn't central to how the business earns revenue.
+
+## What this looks like for farmers, agribusiness, and service businesses
+
+Farm and agribusiness operations usually lean toward buying. Heavy trucks, high annual mileage, and Section 179 eligibility stack in favor of ownership, and the equipment often outlasts the loan term by years. This is a regular part of the [tax preparation and planning](/what-we-do/outsourced-accounting/business-tax) conversations we have with row crop and livestock operations across South Dakota.
+
+Professional service businesses, from consulting firms to real estate offices, tend to have more flexibility. Lower mileage and less wear-and-tear make leasing viable, particularly for owners who value predictable payments over long-term ownership. If the vehicle is a minor part of overall business assets, the simplicity of leasing can outweigh the tax advantage of buying. It's worth reviewing this alongside your broader [accounting services for service-based businesses](/who-we-serve/professional-service-businesses) rather than deciding on the vehicle in isolation.
+
+## Run the cash flow test before you sign
+
+Interest rates on auto loans move with the broader credit market, and the [Federal Reserve's Consumer Credit (G.19) report](https://www.federalreserve.gov/releases/g19/current/) tracks how those rates shift over time. A loan that penciled out favorably eighteen months ago may not today, which is a good reason to run the actual after-tax cost of both options before committing to financing over leasing, or the reverse.
+
+The monthly payment is the easiest number to compare and the least useful one on its own. What matters is the after-tax cost per mile driven, factoring in depreciation, interest, maintenance, and how the vehicle is titled. That's a five-minute conversation with a CPA who already knows your entity structure and tax situation, not a spreadsheet you build alone the night before you sign.
+
+## Common Questions
+
+**Is leasing or buying better for a small business vehicle?**
+It depends on mileage and business-use percentage. High-mileage, heavy-use vehicles like farm trucks usually favor buying because of Section 179 eligibility and no mileage caps. Lower-mileage vehicles for client meetings or light delivery often lease more affordably, especially if you replace vehicles every few years.
+
+**Can I deduct lease payments on my taxes?**
+Yes, but only the business-use percentage. If you use a leased vehicle 70% for business, you deduct 70% of the lease payment along with 70% of related operating costs like fuel and insurance, based on mileage logs that support that percentage.
+
+**What's the Section 179 vehicle deduction limit?**
+Limits vary by year and vehicle weight class, with heavier vehicles (over 6,000 pounds gross vehicle weight) eligible for a much larger first-year deduction than passenger cars. Details are outlined in [IRS Publication 946](https://www.irs.gov/publications/p946), and current-year limits should be confirmed before you purchase.
+
+**Does a farm truck qualify for Section 179?**
+Most farm trucks used over 50% for business qualify, provided the business-use percentage is documented. Weight class affects how much you can deduct in year one, which is why crew cab and heavy-duty trucks common on South Dakota operations often see the largest first-year benefit.
+
+If you're weighing a vehicle purchase or lease for your farm, agribusiness, or service business, [contact TruCount CPA PC](/contact) before you sign. We'll run the after-tax numbers on both options against your actual entity structure and mileage, so the decision holds up past the first year.
+
+---
+
+
+### Take Back Control of Subscription Creep
+URL: /resources/take-back-control-of-subscription-creep-2
+
+A grain marketing platform at $79 a month. A yield-mapping subscription your agronomist recommended two seasons ago and nobody's opened since. Three project management tools your office manager tried before settling on one, except the other two never got canceled. A payroll add-on nobody uses anymore, and a QuickBooks tier purchased during a growth spurt that's now more software than the business needs. None of these charges looks dramatic sitting alone on a statement. Stacked together, on a farm operation or a service business with a healthy checking account, they can quietly run $400 to $1,200 a month, whether or not a single person opens the app that month. That's subscription creep, and it deserves the same scrutiny as fuel, feed, or payroll, not a shrug at tax time.
+
+## Subscription creep is a cash flow problem, not a nuisance
+
+Most owners treat recurring software charges as background noise, something too small to argue about compared to a combine payment or a lease renewal. That's exactly why it grows. A $30 tool approved in 2022 becomes a $65 tool in 2025 after two price increases nobody noticed, because the charge auto-renews on a card that's rarely reconciled line by line. Multiply that across ten or fifteen tools and the number stops being trivial. The Federal Reserve's [Consumer & Community Context](https://www.federalreserve.gov/consumerscommunities.htm) research tracks exactly this pattern at the household level: small, recurring costs compound in ways people consistently underestimate until they're forced to look closely. The same math applies to a business checking account. A dollar spent on an unused tool every month for a year is a real dollar, and it's one that didn't go toward debt paydown, equipment reserves, or a bonus for the employee who's been carrying extra weight.
+
+## Why farm and service business books hide it so well
+
+Subscription creep is worse in agriculture and professional services than in most industries, and there's a structural reason for it. Farm operations often run multiple entities, a crop LLC, a cattle operation, maybe a trucking arm, each with its own bank account and its own set of software tools nobody's cross-checked in years. Precision ag platforms, drone imagery services, and soil-sampling subscriptions get added field by field, season by season, and rarely get pruned back once the trial is over. Professional service firms have the mirror problem: every new hire gets their own login to two or three SaaS tools, and when that employee leaves, the subscription often doesn't. If your farm uses precision-ag or yield-data subscriptions to test a new fertility program or seed variety, keep every invoice. That documentation can support [R&D tax credit](/what-we-do/advisory-services/r-and-d-tax-credits) claims for qualifying on-farm trials, which means a subscription you're already paying for might do double duty instead of just draining cash.
+
+## Run a subscription audit like a cost-of-production report
+
+Farmers already know how to break down cost per acre or cost per head. A subscription audit works the same way: pull every recurring charge, assign it to the entity and the person responsible, and decide whether it's earning its keep.
+
+| Step | What to do |
+|---|---|
+| Pull 90 days of statements | Bank accounts and every business card, not just the one you check most |
+| List every recurring charge | Vendor, amount, billing cycle, and which entity or department owns it |
+| Assign an owner | Someone accountable for saying whether it's still used |
+| Check usage, not intent | Log-in frequency or feature use, not whether it sounded useful at signup |
+| Decide: keep, renegotiate, or cancel | Annual plans often get 15-20% off if you just ask before renewal |
+| Calendar the next review | 90 days out, tied to your renewal dates, not a vague "someday" |
+
+A farm with three entities and a service business with twelve employees will each find a different number of leaks, but almost everyone finds something. The habit matters more than the audit itself. A [money mindset](/resources/your-money-mindset-is-costing-your-small-business-more-than) that treats recurring charges as fixed, unquestionable overhead is usually the real reason the audit didn't happen sooner.
+
+## Where a monthly review catches what an annual one misses
+
+An annual cleanup helps, but it means twelve months of leakage before anyone looks. Reconciliation done monthly, as part of ongoing bookkeeping, flags a new recurring charge the month it appears, not the month you finally decide to dig through a year of statements. That's part of why our [accounting services](/what-we-do/outsourced-accounting/accounting) include line-by-line reconciliation on every account tied to your business, not just the one your bookkeeper happens to check.
+
+Expense analysis is also a standing piece of our [advisory services](/what-we-do/advisory-services), bundled into the same fixed monthly fee as bookkeeping and tax planning, so there's no separate invoice every time we flag a subscription that's outlived its usefulness. You see the same numbers we do, in real time, through the same online platform, rather than waiting for a year-end summary to explain where the cash went. The AICPA's [personal financial planning resources](https://www.aicpa-cima.com/resources/landing/personal-financial-planning) make a similar case for individuals: recurring costs deserve the same ongoing review as any other line in a household budget, not a once-a-year glance.
+
+## Common questions
+
+**How do I know if my business has subscription creep?**
+If you can't list every recurring charge on your business accounts from memory, you likely have some. A quick test: pull last month's statements and count how many charges you couldn't explain in one sentence. Most owners find at least two or three tools they forgot they were paying for.
+
+**How often should I audit recurring expenses?**
+Quarterly works well for most farms and service businesses, timed around your reconciliation cycle. Seasonal operations should also check right before planting or harvest, when ag-specific software renewals tend to cluster and get approved without a second look.
+
+**Can bookkeeping software catch subscription creep automatically?**
+Software can flag recurring transactions, but it can't tell you whether the tool is still worth paying for. That judgment call needs a person looking at usage against cost, which is why reconciliation paired with an actual review, not just categorization, is what catches the waste.
+
+**Are business subscriptions tax deductible?**
+Most software and service subscriptions used for business purposes are deductible as ordinary business expenses. The complication is mixed-use tools split across personal and business accounts, or subscriptions tied to a specific entity in a multi-entity farm structure, where the deduction needs to land on the right return.
+
+If your bank statements have more recurring charges than you can name off the top of your head, that's worth twenty minutes on a call before your next renewal cycle hits. [Contact TruCount CPA PC](/contact) and we'll walk through what a real subscription audit looks like for your farm or business, bundled into the same fixed monthly relationship we already use to keep your books current.
+
+---
+
+
+### Labor Cost Management for Small Business in a Rebalancing Market
+URL: /resources/the-great-rebalancing-why-the-new-labor-market-demands-a-fin-2
+
+For two years, owners in Brookings and across the Midwest hired anyone who showed up, paid whatever it took to keep a crew intact through harvest, and treated a 15 percent raise as the cost of staying open. That era is easing. Quit rates are back near pre-2021 levels, applicant pools are deeper, and the frantic bidding wars for entry-level help have mostly stopped. But here's the part owners miss: the wages you raised in 2022 didn't come back down, and your payroll budget is still built on panic-era assumptions instead of a real plan. Labor cost management isn't an HR project anymore. It's a financial planning problem, and it belongs on the same table as your tax projections and your cash flow forecast.
+
+This matters whether you're running 900 acres near Volga, managing a three-location ag retail operation, or billing hours out of a professional services office on Main Avenue. Labor is usually the largest controllable expense on the income statement, and it's the one most owners still manage by feel.
+
+## Why a calmer labor market still costs you money
+
+A cooling labor market doesn't mean cheaper labor. It means the emergency raises you handed out to stop the bleeding are now permanent, embedded in your base pay scale, and compounding every time you run an annual increase on top of them. A shop that bumped a $16 starting wage to $19 in 2022 to compete for hires isn't rolling that back now that applications are up. The new floor is $19, plus whatever cost-of-living bump gets layered on next year.
+
+Meanwhile, benefits costs, workers' comp premiums, and payroll tax obligations scale with that higher wage base. So the real story of 2024 and 2025 isn't wage growth easing. It's wage growth easing while the elevated base from the last few years locks in as your new normal. If your budgeting still treats labor as "whatever it costs to fill the position," you're planning around a number that's already out of date the moment you write it down.
+
+## What retention actually costs when you run the math
+
+Most owners can tell you their turnover rate but not what it costs them. Run the numbers on a single departure: recruiting time, onboarding, lost productivity while a new hire ramps up, and overtime paid to cover the gap. For a skilled ag mechanic or an experienced bookkeeper, replacement cost commonly runs 20 to 30 percent of that role's annual pay once you count the ramp-up period, not just the ad spend and interview hours.
+
+That reframes retention as a financial decision, not a culture initiative. A $2,000 retention bonus paid to a key seasonal crew lead who's stayed three years in a row is cheap compared to a spring scramble to find, train, and trust a stranger during planting. Professional service firms see the same math with client-facing staff: the cost of losing someone who knows your clients' history isn't just payroll, it's billable hours that don't get billed while someone new gets up to speed.
+
+## Building labor cost into your books instead of your gut
+
+Most small businesses track labor as one line: payroll expense. That tells you what you spent, not whether it's sustainable. A better approach breaks labor into a few numbers you actually watch monthly:
+
+| Metric | What it tells you |
+|---|---|
+| Labor cost as % of revenue | Whether pay is scaling with the business or outrunning it |
+| Labor cost per unit (per acre, per head, per billable hour) | Whether efficiency is improving or slipping |
+| Overtime as % of total payroll | Whether you're understaffed or mismanaging scheduling |
+| Cost per hire vs. retention bonus cost | Whether it's cheaper to keep people or replace them |
+
+For a grain operation, that might mean tracking labor cost per acre across planting, spraying, and harvest separately, since a $19-an-hour operator running a $400,000 combine during an eight-day harvest window is a very different cost decision than the same wage paid for winter maintenance work. For a professional service firm, it means comparing staff cost to realized billing rate by role, not just total payroll against total revenue.
+
+This kind of reporting is exactly what we build into a client's monthly numbers through our [advisory services](/what-we-do/advisory-services), which includes payroll analysis and revenue analysis as standard, not an add-on. When labor cost has its own line and its own trend, a wage decision stops being a gut call made in the break room and becomes a number you can actually plan a season around.
+
+## Ag employers face a different version of the same problem
+
+Seasonal and ag labor budgeting has its own wrinkles: overtime rules that don't apply the same way to agricultural workers, H-2A wage rate requirements that shift annually, and payroll that spikes hard for six weeks and disappears for six months. A crew of eight during harvest and two during January isn't a staffing plan, it's a cash flow event, and it needs to be modeled as one well before the first check gets cut.
+
+We handle payroll processing for farm and agribusiness clients with exactly this rhythm in mind, including multi-state crews and seasonal wage changes, through our [payroll services](/what-we-do/outsourced-accounting/payroll). If your operation runs multiple entities, a family farm alongside a custom application business, for example, labor cost planning also intersects with how those entities are structured for tax purposes. That's worth a look through our [multi-entity farm tax strategy](/industries/farmers/multi-entity-farm-tax-strategy) guidance if you haven't reviewed your structure in the last few years.
+
+Professional service owners have a parallel version of this: the temptation to hire ahead of revenue because good people are finally available again. That instinct isn't wrong, but it needs a budget behind it, not just an open req. If staffing decisions keep getting made on adrenaline instead of a plan, that's usually a sign the underlying money habits need attention before the hiring plan will hold, something we get into in [Your Money Mindset Is Costing Your Small Business More Than Your Budget Ever Will](/resources/your-money-mindset-is-costing-your-small-business-more-than).
+
+## Turning this into a workforce budgeting strategy
+
+A workforce budget worth having answers three questions before you post a job or hand out a raise: What does this role cost fully loaded, not just in base pay? What's the retention cost if this person leaves in year one versus year three? And what does labor need to look like as a percentage of revenue for the business to hit its margin target this year? The SBA's [guide to hiring and managing employees](https://www.sba.gov/business-guide/manage-your-business/hire-manage-employees) is a solid starting point for the compliance side of this, covering classification, recordkeeping, and the basics of what the law requires as you add staff.
+
+The financial side is where most owners get stuck, because it requires real-time numbers, not a spreadsheet updated once a year at tax time. That's the gap a bundled, fixed-fee accounting relationship is built to close. Instead of finding out in March that labor ran 34 percent of revenue instead of the 28 percent you budgeted, you see it drift in June, while there's still time to adjust hiring, pricing, or scheduling before it eats the year's profit.
+
+## Common Questions
+
+**Is wage growth actually slowing down for small businesses in 2024 and 2025?**
+Hiring pressure has eased compared to 2021 and 2022, with more applicants per opening and fewer bidding wars for entry-level roles. But the wage increases made during the tight labor market mostly aren't reversing, so total labor cost stays elevated even as the pace of new increases slows.
+
+**How do I know if my labor costs are too high?**
+Compare labor cost as a percentage of revenue against your own trend over the last three years, not an industry average pulled from a blog. If that percentage is climbing while revenue growth is flat, the problem usually isn't wages, it's scheduling, overtime, or a staffing level built for a busier season than the one you're in.
+
+**Does it make financial sense to pay a retention bonus instead of hiring someone new?**
+Often yes, especially for roles where training time is long or client relationships matter. A retention bonus equal to 5 to 10 percent of annual pay is frequently cheaper than the 20 to 30 percent replacement cost tied to recruiting, onboarding, and lost productivity during a transition.
+
+**Should ag employers budget labor differently than professional service businesses?**
+Yes. Ag labor is seasonal and tied to weather-driven windows like planting and harvest, so cash flow planning needs to account for short, intense payroll spikes. Professional service firms usually carry more level staffing but need to track labor cost against billable hours and realized rate instead of raw revenue.
+
+If your payroll budget still reflects panic-era hiring instead of where the labor market actually sits today, [contact us](/contact) and we'll walk through what a real workforce budget looks like for your operation, ag or professional service, before your next hiring or wage decision gets made on a guess.
+
+---
+
+
+### Your Money Mindset Is Costing Your Small Business More Than Your Budget Ever Will
+URL: /resources/your-money-mindset-is-costing-your-small-business-more-than
+
+A farmer we work with in Brookings County used to avoid opening his year-end financials until his tax appointment forced the issue. He wasn't disorganized. He knew his equipment costs, his grain prices, his input spend, off the top of his head. What he avoided was the feeling of seeing it all added up. That's not a bookkeeping problem. That's a money mindset problem, and it costs more in missed deductions, underpriced work, and reactive decisions than most owners realize.
+
+We see this pattern across farms, agribusinesses, and service companies alike: the books get fixed before the psychology does, and six months later the same cash crunch shows up again. A clean chart of accounts doesn't change how an owner feels about looking at a bank balance mid-February. If the underlying discomfort with money never gets addressed, better software just produces prettier numbers that still go unread.
+
+## The behaviors that quietly drain a small business
+
+Money mindset isn't a personality trait. It shows up as specific, repeatable behaviors, and most owners can recognize themselves in at least two or three of these:
+
+- Pricing jobs or crops based on what feels fair rather than what the math says is sustainable
+- Avoiding financial statements until a tax deadline or loan application forces a look
+- Making equipment, hiring, or expansion decisions reactively, in response to a good season or a scare, instead of against a plan
+- Treating cash in the account as available profit, regardless of what's owed in taxes or payroll
+- Delaying a hard conversation about entity structure, succession, or an exit because it feels premature
+
+Each of these has a dollar cost attached. Underpricing service work by even 8 to 10 percent compounds across every invoice for a year. Avoiding financial statements means quarterly tax estimates get built on guesswork instead of actual year-to-date profit, which is how owners end up with a April surprise instead of a plan. The [SBA's guidance on managing your finances](https://www.sba.gov/business-guide/manage-your-business/manage-your-finances) puts it plainly: financial management isn't a once-a-year event, it's an ongoing discipline, and that discipline is where mindset and bookkeeping meet.
+
+## Why fixing the books alone doesn't fix the plateau
+
+We've set up clean accounting systems for farm operations that were still stuck in the same spot a year later, because the owner still made every big decision from anxiety rather than data. The books were accurate. Nobody looked at them until something went wrong. That's the plateau: revenue holds steady, margins stay thin, and growth decisions get made in a rush instead of with room to think.
+
+A multi-entity farm operation we've worked with had three separate LLCs and a pattern of moving cash between them whenever one entity felt tight, without tracking the transfers as loans or distributions. The result wasn't fraud, it was avoidance. Looking closely at three sets of books at once felt overwhelming, so nobody did. Once we built a [multi-entity farm tax strategy](/industries/farmers/multi-entity-farm-tax-strategy) with clear intercompany accounting, the anxiety dropped because the picture became visible instead of vague. Visibility is usually what breaks the cycle, not willpower.
+
+## Three mindset shifts that change the numbers
+
+**Treat the monthly financial review as non-negotiable, not optional.** Owners who look at revenue, expenses, and cash flow every month, even for fifteen minutes, catch a margin slip in June instead of discovering it in December. This is the core of what we deliver in [advisory services](/what-we-do/advisory-services): budgeting, revenue analysis, and cash flow analysis delivered on a schedule, so looking at the numbers becomes routine instead of dreaded.
+
+**Separate the emotion of a bad season from the facts of a bad decision.** A rough crop year or a slow quarter for a service business doesn't automatically mean the pricing or the entity structure is wrong. Sometimes it does. The only way to know the difference is to have real numbers in front of you, which is why an [entity type analysis](/what-we-do/advisory-services/entity-type-analysis) or a fresh look at labor costs, like the guidance in our piece on [labor cost management for small business](/resources/the-great-rebalancing-why-the-new-labor-market-demands-a-fin), should happen on a plan, not in a panic.
+
+**Stop treating tax planning as a once-a-year event.** Owners with a scarcity mindset around money tend to make tax decisions in December or, worse, in April, because looking at tax exposure earlier feels like inviting bad news. Waiting rarely produces a better outcome. Our piece on [tax planning for high-net-worth individuals](/resources/the-biggest-tax-mistake-wealthy-individuals-make-waiting-unt) makes the same case that applies here: the cost of waiting is almost always higher than the cost of looking early.
+
+## What a healthy money mindset actually looks like day to day
+
+It's not confidence for its own sake. It's a set of habits:
+
+| Habit | What it replaces |
+|---|---|
+| Monthly review of revenue, COGS, and cash flow | Reviewing numbers only at tax time |
+| Pricing based on documented cost and margin targets | Pricing based on what competitors charge or what feels comfortable |
+| Quarterly estimated tax planning tied to actual year-to-date profit | Guessing at estimates or skipping them until a penalty shows up |
+| Treating owner draws as separate from operating cash | Pulling cash whenever the account looks full |
+| Reviewing entity structure every few years as the business grows | Keeping the original structure indefinitely by default |
+
+The [AICPA's small business resources](https://www.aicpa-cima.com/resources/landing/small-business-resources) reinforce a similar point: financial literacy and consistent habits, not one big fix, are what separate businesses that grow steadily from ones that stall and restart every few years.
+
+## Where a CPA relationship actually changes the behavior, not just the books
+
+Bundling bookkeeping, payroll, and advisory into one fixed monthly fee does more than simplify billing. It removes the friction that keeps owners from asking questions. When a client isn't worried about a surprise invoice for every phone call, they call sooner, before a small pricing mistake becomes a full quarter of underbilled work. That's the reasoning behind our [outsourced accounting](/what-we-do/outsourced-accounting) model: real-time access to numbers through a secure online platform, paired with someone who actually knows the operation, so looking at the books stops feeling like an audit and starts feeling like a conversation.
+
+Julie Underwood, CPA, works with agribusiness owners running multiple entities who've spent years avoiding a clear look at how those entities interact for tax purposes. The fix usually isn't more software. It's a structured conversation about what the numbers mean and a plan for reviewing them regularly, which is exactly what turns a good bookkeeping system into a habit an owner actually uses.
+
+## Common Questions
+
+**What is a money mindset, in practical business terms?**
+It's the set of beliefs and habits that shape how an owner reacts to financial information, whether they check numbers regularly or avoid them, price confidently or apologetically, and plan ahead or react after the fact. Two businesses with identical books can have very different outcomes based on which habits the owner practices.
+
+**Can better bookkeeping fix a bad money mindset on its own?**
+Not by itself. Clean books make accurate information available, but if an owner still avoids looking at that information or makes decisions from anxiety instead of data, the underlying pattern continues. Pairing accurate books with a regular review habit, ideally monthly, is what changes outcomes.
+
+**How often should a small business owner actually look at their numbers?**
+Monthly, at minimum, for revenue, expenses, and cash flow, with a deeper quarterly review tied to estimated tax planning. Waiting until tax season means every decision that quarter was made on old information.
+
+**Does this apply to farms as much as service businesses?**
+Yes, arguably more, because farm income is seasonal and irregular, which makes it easier to avoid looking at numbers during the off months. Farmers who review cash position and entity structure year-round, not just at harvest or tax time, catch deduction opportunities and pricing issues earlier.
+
+If the same cash flow worry or pricing hesitation has shown up again this year, the fix probably isn't another spreadsheet. It's a regular, judgment-free look at your actual numbers with someone who already understands farm and service business finances. [Reach out through our contact page](/contact) and let's find the habit that's been missing.
+
+---
