@@ -86,9 +86,23 @@ Coordinating income and deductions across multiple entities takes planning befor
 <!-- block: content-split | variant: image-left | image: multigenerational-farm-family-discussion.jpg | alt: "Two generations of a farm family reviewing documents together outdoors" | query: "farm family generations discussion outdoors" -->
 ## Planning for the next generation of your farm
 
-Farms built over two or three generations don't transition smoothly by accident. If you're bringing a son, daughter, or next-generation partner into the operation, or you're the one stepping into land your parents worked, the entity structure and tax decisions made now determine how much of the farm actually survives the transfer.
+Passing a farm from one generation to the next is rarely just paperwork. It's the son or daughter who's spent a decade in the field wondering if the operation will be theirs, and the parents who built something over 30 years and want to see it land in good hands. Julie Underwood, CPA, and the TruCount team work through the financial mechanics behind those family conversations, so a plan holds up whether the harvest is good or the markets turn hard.
 
-TruCount helps family operations set up entities, buy-sell agreements, and gifting or transfer strategies that keep the operation intact and the tax bill manageable. This isn't a document signed once and filed away. The plan gets revisited as land values, family involvement, and tax law change, so it still fits your operation in ten years. If succession is somewhere on your horizon, [farm succession planning](/industries/agriculture/farm-succession-planning) is built specifically for operations like yours.
+South Dakota farm families face complexity a standard estate plan doesn't touch. Land values have climbed sharply, and how ground is titled, through an LLC, a trust, or joint tenancy, changes what heirs owe and how easily an operation keeps running through a transition. A good estate attorney drafts the legal documents, but the ongoing financial modeling, cash flow projections under a new ownership structure, tax liability estimates for a phased buyout, entity comparisons over a 10-year window, belongs to a CPA who knows agriculture.
+
+Most farm operations aren't one business. They're a land-holding LLC, an equipment company, a cattle operation, maybe a custom application business on top. TruCount's [entity type analysis](/services/entity-type-analysis) looks at the full picture and maps out how a corporation, LLC, or partnership structure affects the transition you're planning, so an ownership transfer becomes a formality instead of a scramble.
+
+Farm transitions also create tax exposure at nearly every step. A handful of strategies get overlooked because they're specific to production agriculture:
+
+- Gifting strategies that move land or equity within annual and lifetime exclusion limits
+- Buyout structures that spread the outgoing generation's payout over years to ease cash flow on both sides
+- The excess fertility deduction, which accounts for soil nutrient value most families never claim
+- The R&D credit for farmers, applicable to seed variety testing, irrigation improvements, and process changes many operations don't realize qualify
+- Entity-level tax elections that change how a sale or transfer is taxed depending on structure
+
+These get built into a multi-year tax plan, not a single filing season. TruCount also models what retirement actually looks like for the outgoing generation: what a buyout payment schedule does to cash flow, what the incoming generation can realistically service in debt, and where rental income or a phased arrangement fills the gap. Sitting down with those numbers in front of everyone changes the conversation. Both generations see the same projections and negotiate from shared facts.
+
+This isn't a plan signed once and filed away. It gets revisited as land values, family involvement, and tax law change. If succession is somewhere on your horizon, [farm succession planning](/industries/agriculture/farm-succession-planning) is built specifically for operations like yours.
 
 <!-- block: content-split | variant: image-right | image: farmer-checking-financials-mobile-device.jpg | alt: "Farmer checking financial data on a tablet inside a barn" | query: "farmer tablet mobile device barn" -->
 ## See your numbers anytime with secure online access
