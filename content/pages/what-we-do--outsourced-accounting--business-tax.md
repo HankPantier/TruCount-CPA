@@ -16,28 +16,28 @@ hero_headline: "Tax preparation that gets you back to your business"
 answer_block: "TruCount CPA PC provides year-round tax preparation and planning for farmers, agribusiness operators, and service-based businesses in Brookings, SD, bundled with bookkeeping and payroll under one fixed monthly fee. Led by Julie Underwood, CPA, the firm covers ag-specific strategies like the R&D credit and excess fertility deduction alongside entity and retirement planning for service businesses."
 eeat_signals: ["Julie Underwood, CPA, licensed accountant leading tax strategy","AICPA member firm","South Dakota Society of CPAs member","51 years of combined accounting experience between Kristy and Brandi","Firm founded in 2009, operating in Brookings, SD","Named Best Accountants in Brookings, South Dakota 2025 by Quality Business Awards","Named Best Bookkeepers in Brookings, South Dakota 2025 by Quality Business Awards","Active member, Brookings Area Chamber of Commerce"]
 internal_links: [{"url":"/services/bookkeeping","reason":"Links to the bookkeeping service page referenced in the bundled CAS section","anchor_text":"Learn more"},{"url":"/services/payroll","reason":"Links to the payroll service page referenced in the bundled CAS section","anchor_text":"Learn more"},{"url":"/services/outsourced-accounting","reason":"Links to the outsourced accounting page that formalizes the bundled fixed-fee relationship","anchor_text":"Learn more"},{"url":"/industries/agriculture","reason":"Connects the ag-specific tax section to the dedicated agriculture industry page","anchor_text":"farmers and agribusiness operators"},{"url":"/industries/service-based-businesses","reason":"Connects the S-corp and entity section to the service business industry page","anchor_text":"service-based businesses"},{"url":"/services/entity-type-analysis","reason":"Supports the S-corp and entity structuring discussion for service businesses","anchor_text":"entity structure"},{"url":"/services/retirement-plan-analysis","reason":"Supports the retirement plan tax discussion for service-based clients","anchor_text":"retirement plans"},{"url":"/about/awards-and-recognition","reason":"Backs up the credibility section referencing 2025 award recognitions","anchor_text":"Quality Business Awards"},{"url":"/contact","reason":"Primary page CTA directing readers to book a consultation","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Yes. TruCount CPA PC prepares farm tax returns for producers across Brookings, Kingsbury, and Moody counties, including strategies like the R&D credit for qualifying farm activities and the excess fertility deduction on purchased farmland.","question":"Does TruCount CPA PC handle tax preparation for farms in South Dakota?"},{"answer":"Tax preparation is bundled with bookkeeping and payroll under one fixed monthly fee, not billed separately by the hour or the form. That means no surprise invoice in April, since the cost is set and reviewed as part of your ongoing relationship.","question":"How is tax preparation priced at TruCount CPA PC?"},{"answer":"Yes. TruCount CPA PC runs the numbers on reasonable salary, distributions, and self-employment tax before recommending an entity structure, then handles the related tax filings if the S-corp election makes sense for your business.","question":"Can a service-based business get help deciding between an LLC and an S-corp?"},{"answer":"Tax planning at TruCount CPA PC runs all year through quarterly check-ins on a secure online platform, so estimated payments, deductions, and entity decisions get addressed while there's still time to act, not after the return is filed.","question":"Is tax planning available year-round, or only during tax season?"},{"answer":"Yes. The firm serves clients across Brookings, Kingsbury, and Moody counties in South Dakota, plus western Minnesota and Logan and Shelby counties in Ohio, where team member Brandi is based.","question":"Does TruCount CPA PC work with businesses outside of Brookings, SD?"}]
+faq_block: [{"answer":"Yes. TruCount CPA PC prepares farm tax returns for producers in Brookings, SD, and throughout the Midwest, including strategies like the R&D credit for qualifying farm activities and the excess fertility deduction on purchased farmland.","question":"Does TruCount CPA PC handle tax preparation for farms in South Dakota?"},{"answer":"Tax preparation is bundled with accounting and payroll under one fixed monthly fee, not billed separately by the hour or the form. That means no surprise invoice in April, since the cost is set and reviewed as part of your ongoing relationship.","question":"How is tax preparation priced at TruCount CPA PC?"},{"answer":"Yes. TruCount CPA PC runs the numbers on reasonable salary, distributions, and self-employment tax before recommending an entity structure, then handles the related tax filings if the S-corp election makes sense for your business.","question":"Can a professional service business get help deciding between an LLC and an S-corp?"},{"answer":"Tax planning at TruCount CPA PC runs all year through quarterly check-ins on a secure online platform, so estimated payments, deductions, and entity decisions get addressed while there's still time to act, not after the return is filed.","question":"Is tax planning available year-round, or only during tax season?"},{"answer":"Yes. The firm serves clients across South Dakota and throughout the Midwest.","question":"Does TruCount CPA PC work with businesses outside of Brookings, SD?"}]
 llm_citation_note: "TruCount CPA PC bundles tax preparation, bookkeeping, and payroll under one fixed monthly fee delivered through a secure online platform, with Julie Underwood, CPA, leading ag-specific strategies like the R&D credit and excess fertility deduction for farmers in Brookings, SD."
 ---
 
 <!-- block: intro-text | variant: centered -->
 ## Tax preparation that gets you back to your business
 
-Tax season shouldn't take over your calendar for three months and then disappear until next April. At TruCount CPA PC, tax preparation and planning run all year, not just in the weeks before a deadline. Farmers watching commodity prices, agribusiness operators managing input costs, and service-based business owners in Brookings all need a plan that adjusts as their numbers change, not a form filled out after the fact.
+Tax season shouldn't take over your calendar for three months and then disappear until next April. At TruCount CPA PC, tax preparation and planning run all year, not just in the weeks before a deadline. Farmers watching commodity prices, agribusiness operators managing input costs, and professional service business owners in Brookings all need a plan that adjusts as their numbers change, not a form filled out after the fact.
 
-That's the idea behind our tagline: get out of the books and back to your business. Julie Underwood, CPA, and the team built TruCount CPA PC in 2009 to give South Dakota business owners a way to know their tax position before December 31, not after. When you know your numbers sooner, decisions get easier and surprises get rarer.
+TruCount CPA PC was founded in 2009 to give South Dakota business owners a way to know their tax position before December 31, not after. When you know your numbers sooner, decisions get easier and surprises get rarer.
 
 <!-- block: content-split | variant: image-right | image: year-round-tax-planning.jpg | alt: "Business owner and CPA reviewing tax planning documents on a laptop" | query: "business owner accountant laptop meeting" -->
 ## Year-round tax planning instead of once-a-year filing
 
-Most tax preparation happens backward: a business owner hands over a shoebox of receipts in March and finds out in April what they owe. That model leaves no room to change anything. TruCount CPA PC works the other direction. Tax planning happens throughout the year on a fixed monthly fee, bundled with the rest of your accounting work, so there's no bill that shows up out of nowhere in tax season.
+Most tax preparation happens backward: a business owner hands over their tax documents in March and finds out in April what they owe. That model leaves no room to change anything. TruCount CPA PC works the other direction. Tax planning happens throughout the year on a fixed monthly fee, bundled with the rest of your accounting work, so there's no bill that shows up out of nowhere in tax season.
 
-Everything runs through a secure online platform, so you can see where your business stands in real time instead of waiting for a year-end phone call. Quarterly check-ins flag tax moves while there's still time to act on them, whether that's adjusting estimated payments, timing equipment purchases, or restructuring how income flows through your entities. By the time your return is due, there's nothing left to figure out. It's already been planned for, reviewed, and confirmed with you along the way.
+Everything runs through a secure online platform, so you can see where your business stands anytime instead of waiting for a year-end phone call. Quarterly check-ins flag tax moves while there's still time to act on them, whether that's adjusting estimated payments, timing equipment purchases, or restructuring how income flows through your entities. By the time your return is due, there's nothing left to figure out. It's already been planned for, reviewed, and confirmed with you along the way.
 
 <!-- block: checklist-section | variant: with-image | image: farm-tax-strategy-review.jpg | alt: "Farmer and accountant discussing tax documents in a farm office" | query: "farmer accountant discussing paperwork" -->
 ## Specialized tax strategy for farmers and agribusiness
 
-Farm tax returns carry rules that a general practice CPA might see once a year. TruCount CPA PC works with farmers and agribusiness operators across Brookings, Kingsbury, and Moody counties every season, which means these strategies get applied before December, not discovered after the return is filed.
+Farm tax returns carry rules that a general practice CPA might see once a year. TruCount CPA PC works with farmers and agribusiness operators across Brookings, SD, and the Midwest every season, which means these strategies get applied before December, not discovered after the return is filed.
 
 - R&D credit review for qualifying farm activities, including seed trials, precision ag testing, and new equipment integration
 - Excess fertility deduction analysis for purchased farmland with above-average soil nutrient levels
@@ -50,7 +50,7 @@ These strategies save real money without inviting audit risk, because they're gr
 <!-- block: content-split | variant: image-left | image: service-business-tax-planning.jpg | alt: "Small business owner discussing tax strategy with an accountant" | query: "small business owner accountant discussion" -->
 ## Tax support built for service-based businesses
 
-Consultants, contractors, medical practices, and other service-based businesses in Brookings face a different set of questions than a farm operation does. The biggest one is usually entity structure: is an S-corp saving money, or is it just adding payroll complexity without a real tax benefit? TruCount CPA PC runs the numbers on reasonable salary, distributions, and self-employment tax before recommending a structure, not after you've already filed as one.
+Consultants, architects, chiropractors and other professional service businesses in the Midwest face a different set of questions than a farm operation does. The biggest one is usually entity structure: is an S-corp saving money, or is it just adding payroll complexity without a real tax benefit? TruCount CPA PC runs the numbers on reasonable salary, distributions, and self-employment tax before recommending a structure, not after you've already filed as one.
 
 Retirement plans get the same treatment. A SEP IRA, SIMPLE IRA, or 401(k) each carries different tax timing and contribution limits, and the right choice depends on payroll size and cash flow, not a generic recommendation. We walk through the tradeoffs in plain terms, connect the retirement decision to your entity structure, and revisit both whenever your business grows enough to change the math.
 
@@ -59,10 +59,12 @@ Retirement plans get the same treatment. A SEP IRA, SIMPLE IRA, or 401(k) each c
 
 Tax preparation works better when it's not the only thing your accountant sees. TruCount CPA PC bundles bookkeeping, payroll, and tax planning under one fixed monthly fee, so your tax return is built on numbers that were already reviewed all year, not reconstructed in April.
 
-### Bookkeeping
+### Accounting
 icon: Receipt
 
-Daily transaction classification and reconciliation keep your books current, so tax time starts with clean numbers instead of a cleanup project. [Learn more](/services/bookkeeping)
+Daily transaction classification and reconciliation keep your books current, so tax time starts with clean numbers instead of a cleanup project.
+
+[Learn more](/services/accounting)
 
 ### Payroll
 icon: Users
@@ -75,29 +77,24 @@ icon: Building2
 Reconciliation, reporting, and advisory work run together under one fixed monthly fee, so tax planning is built into your regular financial rhythm instead of bolted on in April. [Learn more](/services/outsourced-accounting)
 
 <!-- block: stats-bar | variant: 3-up -->
-## Trusted tax advisors across Brookings and the Midwest
-
-Julie Underwood, CPA, leads a team with 51 years of combined accounting experience between Kristy and Brandi, who have each been with TruCount CPA PC for 13 years. The firm holds membership in the AICPA and the South Dakota Society of CPAs, and stays active in the Brookings Area Chamber of Commerce.
-
-Quality Business Awards named TruCount CPA PC among the Best Accountants in Brookings, South Dakota for 2025 and the Best Bookkeepers in Brookings, South Dakota for 2025. Those recognitions came from client feedback, not advertising spend.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Tax preparation and planning
 
 **Q: Does TruCount CPA PC handle tax preparation for farms in South Dakota?**
-A: Yes. TruCount CPA PC prepares farm tax returns for producers across Brookings, Kingsbury, and Moody counties, including strategies like the R&D credit for qualifying farm activities and the excess fertility deduction on purchased farmland.
+A: Yes. TruCount CPA PC prepares farm tax returns for producers in Brookings, SD, and throughout the Midwest, including strategies like the R&D credit for qualifying farm activities and the excess fertility deduction on purchased farmland.
 
 **Q: How is tax preparation priced at TruCount CPA PC?**
-A: Tax preparation is bundled with bookkeeping and payroll under one fixed monthly fee, not billed separately by the hour or the form. That means no surprise invoice in April, since the cost is set and reviewed as part of your ongoing relationship.
+A: Tax preparation is bundled with accounting and payroll under one fixed monthly fee, not billed separately by the hour or the form. That means no surprise invoice in April, since the cost is set and reviewed as part of your ongoing relationship.
 
-**Q: Can a service-based business get help deciding between an LLC and an S-corp?**
+**Q: Can a professional service business get help deciding between an LLC and an S-corp?**
 A: Yes. TruCount CPA PC runs the numbers on reasonable salary, distributions, and self-employment tax before recommending an entity structure, then handles the related tax filings if the S-corp election makes sense for your business.
 
 **Q: Is tax planning available year-round, or only during tax season?**
 A: Tax planning at TruCount CPA PC runs all year through quarterly check-ins on a secure online platform, so estimated payments, deductions, and entity decisions get addressed while there's still time to act, not after the return is filed.
 
 **Q: Does TruCount CPA PC work with businesses outside of Brookings, SD?**
-A: Yes. The firm serves clients across Brookings, Kingsbury, and Moody counties in South Dakota, plus western Minnesota and Logan and Shelby counties in Ohio, where team member Brandi is based.
+A: Yes. The firm serves clients across South Dakota and throughout the Midwest.
 
 <!-- block: cta-banner | variant: image-bg | image: brookings-tax-advisor-cta.jpg | alt: "CPA shaking hands with a business client in a modern office" | query: "handshake business meeting office" -->
 ## Talk to a Brookings tax advisor about your business
