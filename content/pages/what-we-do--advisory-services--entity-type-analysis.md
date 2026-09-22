@@ -48,21 +48,11 @@ Multi-generational farms and multi-owner service firms need structures that acco
 
 ### Handle the filings, start to finish
 
-Once we recommend a structure, we prepare and file the related state and federal paperwork, including South Dakota entity filings, so nothing falls on your desk.
+Once we recommend a structure, we prepare and file the related state and federal paperwork, including South Dakota entity filings, so nothing falls on your desk
 
 <!-- block: content-split | variant: image-right | image: farm-entity-structure-review.jpg | alt: "Farm business owner and CPA reviewing entity structure paperwork at a table" | query: "farmer meeting with accountant office" -->
-## Entity strategy built for farms and agribusiness
-
-Farm operations rarely fit into one entity. A lot of the farm families we work with in the the Brookings, SD area run land in one entity, machinery and operations in another, and sometimes a separate custom-work or trucking business layered on top. Structured correctly, that separation protects the land from operating liability and sets up cleaner succession when the next generation steps in.
-
-Entity structure also affects which deductions and credits are even available to you. The R&D credit isn't just for tech companies. Farmers testing new seed varieties, feed rations, or irrigation methods can qualify, but only if the entity claiming it is set up right. The same goes for the excess fertility deduction on purchased farmland. We factor both into how we structure and time your entity elections, and we coordinate the analysis with our [multi-entity farm tax strategy](/industries/agriculture/multi-entity-farm-tax-strategy) work and [farm succession planning](/industries/agriculture/farm-succession-planning) so the structure you build today still works when ownership changes hands.
 
 <!-- block: content-split | variant: image-left | image: service-business-owner-consultation.jpg | alt: "Service business owner discussing entity options with an accountant" | query: "professional consulting small business owner office" -->
-## Entity guidance for professional professional professional professional professional service business owners
-
-Agriculture isn't the only place entity choice matters. Consultants, contractors, and professional service firms face a different but equally consequential set of questions: at what income level does S-corp status start saving on self-employment tax, how does payroll need to be structured once you make that election, and what happens to your entity when you sell or hand the business off.
-
-We've worked through these questions with [professional professional professional service business](/industries/service-based-businesses) owners who were paying self-employment tax on income that could have been split between reasonable salary and distributions. Getting the structure right also sets up a cleaner path when you're ready to think about an [exit or sale](/industries/service-based-businesses/exit-planning), since buyers and lenders care about how a business is organized, not just what it earns.
 
 <!-- block: checklist-section | variant: with-image | image: sole-proprietor-llc-conversion.jpg | alt: "Business owner signing entity conversion documents with accountant" | query: "small business owner signing documents" -->
 ## Converting from a sole proprietorship or restructuring an existing entity
@@ -74,8 +64,8 @@ Here's what's typically involved:
 - Comparing your current tax position against alternative structures using your actual financials
 - Filing the entity formation or election paperwork with the state and IRS
 - Setting up or adjusting payroll if you're moving to S-corp status
-- Updating your [accounting system](/services/accounting-system-setup) and books to reflect the new structure
-- Coordinating the change with your existing [bookkeeping and tax](/services/tax) work so nothing gets missed at year-end
+- Updating your accounting system and books to reflect the new structure
+- Coordinating the change with your existing accounting and tax work so nothing gets missed at year-end
 
 <!-- block: feature-grid | variant: 3-col -->
 ## Why Brookings area businesses trust TruCount for entity decisions
@@ -116,11 +106,6 @@ A: It involves filing formation paperwork with the South Dakota Secretary of Sta
 A: At TruCount, it's ongoing. Structure is revisited as income, family circumstances, or growth plans change, and it's bundled into a fixed monthly fee alongside bookkeeping and tax work rather than billed as a separate project.
 
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-handshake.jpg | alt: "CPA and business owner shaking hands after a consultation" | query: "business handshake meeting professional office" -->
-## Get clarity on your business structure
-
-If you've been operating on a structure someone else set up years ago, or you're not sure whether your farm or professional professional service business should be one entity or three, it's worth a conversation before another tax season passes. The TruCount team will look at your actual numbers and tell you plainly whether your current structure still makes sense.
-
-[Schedule a consultation](/contact) and get out of the books and back to your business.
 
 ---
 ## SEO & AIO Metadata
