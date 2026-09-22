@@ -81,13 +81,17 @@ Transaction classification, expense tracking, and month-end reconciliation handl
 Seasonal workforces, custom pay schedules, and multi-state payroll handled without the headaches. Your employees are paid correctly and on time, every time.
 
 ### Tax Planning and Preparation
-Year-round strategic tax planning that considers your full operation, not just a single entity. TruCount looks for every legitimate deduction, including credits many tax preparers overlook, and builds a strategy before year-end so you are never caught off guard.
+Year-round strategic tax planning that looks at every entity you run, not just one return at a time. A tractor leased from an equipment LLC to the farm, labor shared between a custom harvesting crew and a row-crop operation, fertilizer expense that could sit on either set of books: these decisions change your total tax bill every year. TruCount builds a coordinated strategy across all of them before year-end so you are never caught off guard.
+
+Ag-specific opportunities we look for include the R&D credit for custom formulation, new tillage methods, and on-farm variety trials; the excess fertility deduction when purchased farmland has nutrients built into the soil basis; and Section 179 and bonus depreciation timed to land in the year that does your operation the most good.
 
 ### Outsourced Accounting
 TruCount acts as your outsourced accounting department, handling reconciliation, financial reporting, and advisory services under one fixed monthly fee. You get CFO-level financial insight without the cost of a full-time hire.
 
 ### Entity Type Analysis
-Many agribusinesses operate through more than one entity to separate retail, service, and real estate holdings. TruCount helps you structure those entities correctly and build a coordinated tax strategy across the whole operation.
+An LLC taxed as a partnership works fine for one farm. Add a custom spraying business, a trucking operation, or a hunting lease and the calculus changes fast. Should the equipment sit in a separate LLC and lease back to the farm? Does the service business make more sense as an S-corp to manage self-employment tax on custom work income? Should family members hold ownership differently in the farm partnership than in the ag consulting practice?
+
+TruCount evaluates every entity you own together, not one at a time, so a change in one structure does not create a tax surprise in another. We walk through the ownership, liability, and tax tradeoffs for each entity before recommending any change.
 
 ### R&D Tax Credit for Agribusiness
 Activities like testing new application methods, developing proprietary blends, or refining agronomic service processes may qualify for the federal Research and Development tax credit. TruCount identifies and documents eligible activities so your business claims a credit that most tax preparers miss entirely.
@@ -97,25 +101,30 @@ Activities like testing new application methods, developing proprietary blends, 
 <!-- block: content-split | variant: image-left | image: agribusiness-tax-planning.jpg | alt: "CPA reviewing tax documents with agribusiness client" | query: "agribusiness tax planning meeting" -->
 ## Tax Strategy That Covers Your Whole Operation
 
-Agribusiness tax planning is not a once-a-year conversation. Input costs, commodity prices, capital purchases, and entity distributions all interact in ways that can significantly change your tax picture from one quarter to the next.
+Most tax preparers treat a farm and a related service company as two standalone clients: the farm gets a Schedule F, the service company gets a corporate return, and nobody looks at how the two interact. That is where real savings disappear.
 
-TruCount plans proactively throughout the year, so you can make purchasing and distribution decisions with a clear picture of the tax impact before you commit. When filing time arrives, there are no surprises and nothing left on the table.
+TruCount looks at farm and service entities as one connected picture. Input costs, commodity prices, capital purchases, and entity distributions all interact in ways that change your tax picture from one quarter to the next. We plan proactively throughout the year so purchasing and distribution decisions come with a clear tax impact before you commit.
 
-For businesses engaged in agronomic research, custom application development, or proprietary product formulation, the federal R&D tax credit is a real opportunity worth exploring. TruCount knows how to identify qualifying activities and build the documentation to support the credit.
+Ag-specific opportunities built for South Dakota multi-entity operations:
+
+- **R&D credit for farmers:** Custom seed treatment formulation, new tillage or irrigation methods, and on-farm variety trials can qualify for the federal research and development credit, a credit few local preparers raise with row-crop or livestock operators.
+- **Excess fertility deduction:** When you purchase farmland with fertilizer, lime, or nutrients already built into the soil, that value can often be deducted separately from the land basis instead of depreciated over decades.
+- **Entity-level expense allocation:** Splitting shared equipment, fuel, and labor costs correctly across farm and service entities keeps deductions where they generate the most benefit.
+- **Section 179 and bonus depreciation timing:** Coordinating equipment purchases across entities so the deduction lands in the year it does the most good.
 
 ---
 
 <!-- block: content-split | variant: image-right | image: agribusiness-online-platform.jpg | alt: "Business owner accessing financials on a secure online platform" | query: "secure online accounting platform business owner" -->
 ## A Secure Online Platform Built for Busy Operations
 
-You should not have to drive to an office or wait for a phone call to know where your business stands financially. TruCount's secure online platform gives you real-time access to your financials from anywhere, whether you are at the elevator, in the field, or at home at the end of a long day.
+Farm income is seasonal. Service business income from custom application, equipment rental, or consulting often is not. When you can see both sets of books in the same place, you can time equipment purchases, prepay expenses, or shift income recognition between entities to smooth out a tax bill that would otherwise spike in a good crop year.
 
-Document sharing, collaboration, and communication all happen in one secure place. Your team and ours stay aligned without the back-and-forth of paper and email.
+TruCount's secure online platform gives you real-time access to your farm and service company financials side by side, from anywhere, whether you are at the elevator, in the field, or at home at the end of a long day. The recommendation to prepay input costs in November or hold equipment income into January comes with real numbers behind it, not a guess made in March.
 
-- Real-time financial visibility, any time you need it
+- Real-time visibility into every entity, any time you need it
 - Secure document sharing and storage
 - Collaborative access for your team, your lender, or your business partners
-- No more chasing paperwork at tax time
+- Timing decisions that do not wait on a phone call or an emailed spreadsheet
 
 ---
 
@@ -142,7 +151,9 @@ All services bundled so you always know what you are paying.
 ---
 
 <!-- block: cta-banner | variant: color-bg -->
-## Ready to Get Out of the Books and Back to Your Business?
+## Structure It Right Today. Transition It Smoothly Tomorrow.
+
+How you structure your farm and related service businesses today shapes how easily the next generation steps into them. Clean entity lines, documented ownership percentages, and a service business held separately from the land are far easier to transition, gift, or sell than a tangle of shared assets nobody ever wrote down. The entity choices made now are the groundwork every future transition sits on.
 
 TruCount handles the numbers so you can focus on what you built. Reach out to start a conversation about your agribusiness operation.
 
