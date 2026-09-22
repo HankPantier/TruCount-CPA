@@ -39,7 +39,7 @@ Professional service businesses run on billable hours, project fees, and retaine
 - No single place to see cash flow, payroll, and tax data together
 
 <!-- block: service-cards | variant: 3-col -->
-## Bookkeeping, payroll, and tax handled under one roof
+## Accounting, payroll, and tax handled under one roof
 
 A one-off tax return doesn't tell you much about how a professional service business is actually performing. TruCount's Client Accounting Services approach bundles the pieces that matter into a single relationship, delivered through one secure portal, for one predictable monthly fee.
 
