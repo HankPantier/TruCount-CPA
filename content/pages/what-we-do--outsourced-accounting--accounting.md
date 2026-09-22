@@ -72,10 +72,9 @@ TruCount CPA PC has kept books and prepared taxes for Brookings-area businesses 
 
 - 2009: Year TruCount was founded
 
-
 - Midwest: Geographic reach, from the Brookings, SD area and beyond
 
-TruCount stays active in the community through the Brookings Area Chamber of Commerce. See more of our awards and recognition here. That's not a resume line, it's the reason a farmer calling about a fertility deduction or a professional service business owner asking about payroll timing gets an answer that fits their situation, not a generic one.
+TruCount stays active in the community and invests time in building relationships with their clients to understand their unique situations. That's not a resume line, it's the reason a farmer calling about a fertility deduction or a professional service business owner asking about payroll timing gets an answer that fits their circumstances, not a generic one.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Accounting
@@ -95,7 +94,7 @@ A: Accounting connects directly to our tax planning and outsourced accounting se
 <!-- block: cta-banner | variant: image-bg | image: brookings-cpa-consultation.jpg | alt: "Two people shaking hands after a accounting consultation in an office" | query: "handshake business meeting office" -->
 ## Get started with a accounting team that knows your business
 
-Your books shouldn't be the thing keeping you up at night. Whether you're running a farm operation, an agribusiness, or a service company in Brookings, TruCount can take accounting off your plate for one predictable monthly fee, with real-time access and a team that already understands how your business runs.
+Your books shouldn't be the thing keeping you up at night. Whether you're running a farm operation, an agribusiness, or a professional service business in Brookings or across the Midwest, TruCount can take accounting off your plate for one predictable monthly fee, with real-time access and a team that already understands how your business runs.
 
 Schedule a consultation and let's get your books current, and get you back to your business.
 
