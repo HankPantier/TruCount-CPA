@@ -25,36 +25,11 @@ We work with farmers, agribusiness operators, and professional service business 
 This is guidance grounded in your tax return and your goals, not a stack of forms to sign.
 
 <!-- block: content-split | variant: image-right | image: farmer-retirement-planning-review.jpg | alt: "Farmer reviewing retirement account paperwork at kitchen table" | query: "farmer reviewing financial documents home" -->
-## Retirement planning built around the realities of farm income
-
-Farm income doesn't arrive on a predictable schedule. Grain sales, livestock markets, and crop insurance payouts can swing a year's cash position by six figures, which makes standard retirement advice built for salaried employees mostly useless for production agriculture.
-
-A retirement plan analysis for a farm operation has to account for variable income timing, land and equipment purchases competing for the same dollars, and succession plans that may hand the operation to the next generation before a traditional retirement age. A SEP IRA might let you contribute heavily in a strong year and scale back in a lean one. A solo 401(k) might open higher contribution limits if you're running the farm without employees. The right answer depends on your entity structure, your equipment plan, and whether you're already working with us on [farm succession planning](/industries/agriculture/farm-succession-planning).
-
-We look at your full financial picture before recommending a plan, not just your birth date and income bracket.
+## 
 
 <!-- block: content-split | variant: image-left | image: multi-entity-farm-family-meeting.jpg | alt: "Farm family and advisor discussing retirement plans for multiple business entities" | query: "family business meeting farm operation" -->
-## Retirement options for agribusiness and multi-entity operations
-
-Plenty of farm families also run a trucking company, an ag retail operation, or a custom application business alongside the row crop operation. Each entity has its own payroll and its own owners, and possibly its own retirement plan rules, which gets complicated fast when the same family draws income from all of them.
-
-Multi-entity retirement planning starts with understanding how the businesses are structured. A SEP IRA at one entity and a solo 401(k) at another might both be technically legal and still leave contribution room on the table, or trigger controlled-group rules you didn't know applied. We review your entity setup alongside our [multi-entity farm tax strategy](/industries/agriculture/multi-entity-farm-tax-strategy) work to recommend a retirement approach that works across every business the family owns, not just the one that files first.
-
-The goal is one coordinated plan, not a patchwork of accounts nobody's tracking.
 
 <!-- block: checklist-section | variant: with-image | image: service-business-owner-benefits-planning.jpg | alt: "Service business owner reviewing employee retirement benefits options with advisor" | query: "small business owner meeting advisor office" -->
-## Retirement plans that fit professional service business owners and their teams
-
-Running a professional service business means competing for good employees, and a retirement benefit is often what decides between two job offers. It also means weighing your own retirement savings against payroll, software, and everything else pulling from the same account.
-
-A retirement plan analysis for a professional service business weighs owner contribution limits against what a match or profit-sharing formula costs across your whole staff. Considerations we walk through with clients:
-
-- How much you want to contribute for yourself versus what you can realistically offer employees
-- Whether a SIMPLE IRA's lower administrative burden outweighs a 401(k)'s higher contribution ceiling
-- How employee turnover affects vesting schedules and ongoing plan complexity
-- Whether a profit-sharing formula can reward long-tenured staff without straining cash flow
-
-We serve professional services and other [professional service businesses](/industries/service-based-businesses) throughout the Brookings area with the same fixed-fee approach we use for every client.
 
 <!-- block: process-steps | variant: vertical -->
 ## How a retirement plan analysis works with TruCount
@@ -76,7 +51,7 @@ You receive a straightforward recommendation you can act on, delivered through o
 
 Retirement plan analysis works best when it isn't a one-time project. Contribution limits, entity structure, and income all shift year to year, especially for farm and agribusiness clients, so a plan that made sense two years ago might not fit today.
 
-Because we already handle [tax planning](/services/tax) and [bookkeeping](/services/bookkeeping) for many of our clients, we can flag when a retirement plan needs a second look, before it becomes a missed contribution deadline or a mismatched entity structure. One advisor, one set of books, one fixed monthly fee. No juggling a separate financial advisor who doesn't see your tax return or your cash flow.
+Because we already handle tax planning and accounting for many of our clients, we can flag when a retirement plan needs a second look, before it becomes a missed contribution deadline or a mismatched entity structure. One advisor, one set of books, one fixed monthly fee. No juggling a separate financial advisor who doesn't see your tax return or your cash flow.
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Retirement plan analysis
@@ -97,11 +72,6 @@ A: Yes. Options like SIMPLE IRAs carry lower administrative burden than a 401(k)
 A: Yes. Alongside the Brookings, SD area and across the Midwest, we work with farm and business clients in western Minnesota and Logan and Shelby counties in Ohio, using a secure online platform for real-time collaboration.
 
 <!-- block: cta-banner | variant: image-bg | image: brookings-cpa-consultation-handshake.jpg | alt: "CPA and business owner shaking hands after a consultation meeting" | query: "business handshake meeting office consultation" -->
-## Get a retirement plan analysis for your farm or business
-
-If you're not sure whether your current retirement plan still fits your operation, or you're setting one up for the first time, let's look at the numbers together. We work with farmers, agribusiness operators, and professional service business owners across the Brookings, SD area and across the Midwest through a secure online platform that keeps everything accessible in one place.
-
-[Schedule a consultation](/contact) and get a straight answer on the retirement plan that actually fits your business.
 
 ---
 ## SEO & AIO Metadata
