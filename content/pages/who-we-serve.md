@@ -16,7 +16,7 @@ hero_headline: "Accounting built around the way farmers and agribusiness operato
 answer_block: "TruCount CPA PC is a Brookings, SD CPA firm serving farmers, cattle operations, agribusiness owners, and service-based businesses with bundled bookkeeping, payroll, and tax planning for one fixed monthly fee. The firm specializes in agricultural strategies like the R&D credit and excess fertility deduction, alongside entity structuring for multi-entity operations."
 eeat_signals: ["Julie Underwood is a CPA and member of the AICPA and South Dakota Society of CPAs","Firm founded in 2009, operating in Brookings, SD for over 15 years","Kristy and Brandi each have 13 years of tenure with the firm, totaling 51 years of combined accounting experience","Named Best Accountants in Brookings, South Dakota 2025 and Best Bookkeepers in Brookings, South Dakota 2025 by Quality Business Awards","Active member of the Brookings Area Chamber of Commerce"]
 internal_links: [{"url":"/industries/agriculture","reason":"Links to the dedicated agriculture industry page for deeper detail","anchor_text":"Farmers"},{"url":"/industries/service-based-businesses","reason":"Directs professional services readers to their dedicated industry page","anchor_text":"service-based business owners"},{"url":"/services/tax","reason":"Connects farm tax strategy mention to the core tax service page","anchor_text":"Year-round tax planning"},{"url":"/services/entity-type-analysis","reason":"Supports the multi-entity agribusiness section with the relevant service page","anchor_text":"Entity type analysis"},{"url":"/services/outsourced-accounting","reason":"Points to the bundled CAS service referenced for multi-entity clients","anchor_text":"outsourced accounting"},{"url":"/industries/agriculture/multi-entity-farm-tax-strategy","reason":"Deep links to the specific farm sub-page discussed in that section","anchor_text":"multi-entity farm tax strategy"},{"url":"/services/bookkeeping","reason":"Supports the professional services checklist with the relevant service page","anchor_text":"bookkeeping"},{"url":"/services/payroll","reason":"Supports the professional services checklist with the relevant service page","anchor_text":"payroll"},{"url":"/industries/agriculture/farm-succession-planning","reason":"Links to the dedicated succession planning sub-page for farms","anchor_text":"farm succession planning"},{"url":"/industries/service-based-businesses/exit-planning","reason":"Links to the dedicated exit planning sub-page for service businesses","anchor_text":"exit planning"},{"url":"/about/community-involvement","reason":"Supports the trust section with proof of local engagement","anchor_text":"community involvement"},{"url":"/about/awards-and-recognition","reason":"Backs the credibility section with the awards page","anchor_text":"Best Accountants and Best Bookkeepers in Brookings, South Dakota for 2025"},{"url":"/contact","reason":"Primary page CTA directing readers to book a consultation","anchor_text":"Schedule a consultation"}]
-faq_block: [{"answer":"Yes. The firm serves farmers and agribusiness operators throughout Brookings, Kingsbury, and Moody counties, plus western Minnesota and Logan and Shelby counties in Ohio, all through a secure online platform that keeps location from getting in the way.","question":"Does TruCount CPA PC work with farmers outside of Brookings, SD?"},{"answer":"It's a deduction available to farmland buyers who purchase ground with elevated, already-present soil nutrient levels. Qualification depends on soil testing and purchase documentation, which TruCount reviews as part of ongoing tax planning for farm clients.","question":"What is the excess fertility deduction and does my farm qualify?"},{"answer":"Yes. Farmers experimenting with new seed varieties, soil amendments, irrigation methods, or equipment modifications may qualify for the federal R&D credit. It's underused in agriculture because few local firms specialize in identifying it.","question":"Can farmers really claim the research and development tax credit?"},{"answer":"TruCount bundles bookkeeping, payroll, tax planning, and advisory work into one fixed monthly fee, with real-time access through a secure online platform, so clients know their numbers year-round instead of finding out in March.","question":"How is TruCount different from a preparer who only does taxes once a year?"},{"answer":"Yes. Entity type analysis reviews whether an S corp, partnership, or sole proprietorship fits the operation today, especially for owners running multiple entities like a farm plus a service company, and handles the related state and federal filings.","question":"Do you help agribusiness owners choose the right entity structure?"}]
+faq_block: [{"answer":"Yes. The firm serves farmers and agribusiness operators in the Brookings, SD, area and throughout the Midwest, all through a secure online platform that keeps location from getting in the way.","question":"Does TruCount CPA PC work with farmers outside of Brookings, SD?"},{"answer":"It's a deduction available to farmland buyers who purchase ground with elevated, already-present soil nutrient levels. Qualification depends on soil testing and purchase documentation, which TruCount reviews as part of ongoing tax planning for farm clients.","question":"What is the excess fertility deduction and does my farm qualify?"},{"answer":"Yes. Farmers experimenting with new seed varieties, soil amendments, irrigation methods, or equipment modifications may qualify for the federal R&D credit. It's underused in agriculture because few local firms specialize in identifying it.","question":"Can farmers really claim the research and development tax credit?"},{"answer":"TruCount bundles accounting, payroll, tax planning, and advisory work into one fixed monthly fee, with anytime access through a secure online platform, so clients know their numbers year-round instead of finding out in March.","question":"How is TruCount different from a preparer who only does taxes once a year?"},{"answer":"Yes. Entity type analysis reviews whether an S corp, partnership, or sole proprietorship fits the operation today, especially for owners running multiple entities like a farm plus a service company, and handles the related state and federal filings.","question":"Do you help agribusiness owners choose the right entity structure?"}]
 llm_citation_note: "TruCount CPA PC, founded in 2009 in Brookings, SD, offers specialized agricultural tax strategies including the R&D credit and excess fertility deduction, plus bundled fixed-fee bookkeeping, payroll, and tax planning for farmers, agribusiness operators, and service businesses."
 ---
 
@@ -32,7 +32,7 @@ Our team is backed by experienced people who grew up farming or currently own fa
 <!-- block: content-split | variant: image-right | image: farmer-reviewing-finances-field.jpg | alt: "Farmer reviewing financial paperwork near a tractor in a field" | query: "farmer reviewing paperwork tractor field" -->
 ## Farmers and crop and cattle operations
 
-Row crop income doesn't arrive on a predictable schedule, and cattle operations carry their own rhythm of feed costs, calving cycles, and market timing. Bookkeeping and payroll built for a retail business doesn't fit a farm, so we build yours around planting, harvest, and calving instead.
+Row crop income doesn't arrive on a predictable schedule, and cattle operations carry their own rhythm of feed costs, calving cycles, and market timing. Accounting and payroll built for a retail business doesn't fit a farm, so we build yours around planting, harvest, and calving instead.
 
 We track machinery purchases, land transactions, and input costs in real time through a secure online platform, so you can see where you stand before the banker asks. [Year-round tax planning](/services/tax) happens instead of a March scramble, which means fewer surprises when it's time to file.
 
@@ -50,42 +50,31 @@ Read more about our approach to [multi-entity farm tax strategy](/industries/agr
 <!-- block: checklist-section | variant: with-image | image: professional-service-owner-laptop.jpg | alt: "Service business owner checking financial dashboard on a laptop" | query: "business owner laptop financial dashboard" -->
 ## Professional services businesses that want their numbers in real time
 
-Professional services business owners, consultants, contractors, and other service-based operations, tell us the same thing: they don't want a bookkeeper who shows up once a year. They want to log in and see where they stand today.
+Professional services business owners, architects, chiropractors and consultants tell us the same thing: they don't want an accountant who shows up once a year. They want to log in and see where they stand today.
 
 Our secure online platform gives you that, plus a bundled fixed monthly fee that covers the full relationship instead of piling on invoices every time you have a question.
 
-- Real-time access to your financials through a secure online platform, updated continuously rather than dumped at tax time
-- One fixed monthly fee covering [bookkeeping](/services/bookkeeping), [payroll](/services/payroll), and advisory work, so there's no per-question invoice
+- Anytime access to your financials through a secure online platform, updated continuously rather than dumped at tax time
+- One fixed monthly fee covering accounting, payroll, and advisory work, so there's no per-question invoice
 - Year-round tax planning built into the relationship, not a once-a-year filing appointment
 - CFO-level insight on pricing, cash flow, and growth decisions, without adding a CFO to payroll
 
 <!-- block: content-split | variant: image-right | image: farm-family-succession-planning.jpg | alt: "Two generations of a farm family discussing plans at a kitchen table" | query: "farm family generations discussion table" -->
 ## Planning ahead for succession and the next generation
 
-Every farm eventually changes hands, and every service business owner eventually thinks about what comes next. Neither conversation should start the year someone decides to retire.
+Every farm eventually changes hands, and every professional service business owner eventually thinks about what comes next. Neither conversation should start the year someone decides to retire.
 
-We build [farm succession planning](/industries/agriculture/farm-succession-planning) into the ongoing relationship, along with [exit planning](/industries/service-based-businesses/exit-planning) for service business owners who want a clean handoff or sale. Because we already know your numbers year-round, the plan reflects your actual operation instead of a generic template.
+We build [farm succession planning](/industries/agriculture/farm-succession-planning) into the ongoing relationship, along with [exit planning](/industries/service-based-businesses/exit-planning) for professional service business owners who want a clean handoff or sale. Because we already know your numbers year-round, the plan reflects your actual operation instead of a generic template.
 
 Whether that means bringing a son or daughter into the operation over five years or preparing a service company for sale, the planning starts long before the transition does.
 
 <!-- block: stats-bar | variant: 3-up -->
-## Why Midwest ag and service businesses trust TruCount
-
-Trust in this business gets built slowly, one tax season at a time. TruCount CPA PC has been doing that since 2009, first as a solo practice, then as a growing team based in Brookings serving farmers, agribusiness operators, and service business owners across Kingsbury and Moody counties, western Minnesota, and Logan and Shelby counties in Ohio.
-
-Julie Underwood, CPA, holds membership in the AICPA and the South Dakota Society of CPAs. The firm stays active through the Brookings Area Chamber of Commerce and [community involvement](/about/community-involvement) throughout the year, and was named among the [Best Accountants and Best Bookkeepers in Brookings, South Dakota for 2025](/about/awards-and-recognition) by Quality Business Awards.
-
-**2009:** Year TruCount CPA PC was founded
-
-**13 years:** Kristy and Brandi's tenure with the firm
-
-**51 years:** Combined accounting experience across the team
 
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Industries we serve
 
 **Q: Does TruCount CPA PC work with farmers outside of Brookings, SD?**
-A: Yes. The firm serves farmers and agribusiness operators throughout Brookings, Kingsbury, and Moody counties, plus western Minnesota and Logan and Shelby counties in Ohio, all through a secure online platform that keeps location from getting in the way.
+A: Yes. The firm serves farmers and agribusiness operators in the Brookings, SD, area and throughout the Midwest, all through a secure online platform that keeps location from getting in the way.
 
 **Q: What is the excess fertility deduction and does my farm qualify?**
 A: It's a deduction available to farmland buyers who purchase ground with elevated, already-present soil nutrient levels. Qualification depends on soil testing and purchase documentation, which TruCount reviews as part of ongoing tax planning for farm clients.
@@ -94,7 +83,7 @@ A: It's a deduction available to farmland buyers who purchase ground with elevat
 A: Yes. Farmers experimenting with new seed varieties, soil amendments, irrigation methods, or equipment modifications may qualify for the federal R&D credit. It's underused in agriculture because few local firms specialize in identifying it.
 
 **Q: How is TruCount different from a preparer who only does taxes once a year?**
-A: TruCount bundles bookkeeping, payroll, tax planning, and advisory work into one fixed monthly fee, with real-time access through a secure online platform, so clients know their numbers year-round instead of finding out in March.
+A: TruCount bundles accounting, payroll, tax planning, and advisory work into one fixed monthly fee, with anytime access through a secure online platform, so clients know their numbers year-round instead of finding out in March.
 
 **Q: Do you help agribusiness owners choose the right entity structure?**
 A: Yes. Entity type analysis reviews whether an S corp, partnership, or sole proprietorship fits the operation today, especially for owners running multiple entities like a farm plus a service company, and handles the related state and federal filings.
@@ -102,7 +91,7 @@ A: Yes. Entity type analysis reviews whether an S corp, partnership, or sole pro
 <!-- block: cta-banner | variant: image-bg | image: handshake-farm-office-meeting.jpg | alt: "Advisor and farm client shaking hands after a planning meeting" | query: "handshake meeting farm office" -->
 ## Let's talk about your operation
 
-Your books shouldn't be the reason you're up at midnight before a bank meeting or a land closing. If you're ready to trade scattered spreadsheets and year-end surprises for a bundled, fixed-fee relationship with a firm that already understands ag and service business numbers, let's talk.
+Your books shouldn't be the reason you're up at midnight before a bank meeting or a land closing. If you're ready to trade scattered spreadsheets and year-end surprises for a bundled, fixed-fee relationship with a firm that already understands ag and professional service business numbers, let's talk.
 
 Schedule a consultation and tell us about your operation, your entities, and what knowing your numbers sooner would actually change for you this year.
 
