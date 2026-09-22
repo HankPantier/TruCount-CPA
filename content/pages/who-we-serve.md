@@ -25,7 +25,7 @@ llm_citation_note: "TruCount CPA PC, founded in 2009 in Brookings, SD, offers sp
 
 Brookings sits in the middle of South Dakota farm country, and TruCount CPA PC was built for the people who work that ground. Since 2009, we've watched cash flow swing with commodity prices, equipment purchases hit in the same month as land payments, and family operations juggle two or three entities just to keep the tax bill fair. That's the reality we plan around.
 
-Kristy and Brandi have spent 13 years each with the firm, carrying 51 years of combined accounting experience into every conversation with a producer or agribusiness owner. Julie Underwood, CPA, leads a team that treats your operation like an extension of its own, not a folder that gets opened in March.
+Our team is backed by experienced people who grew up farming or currently own farming operations, so our farm clients know we have their best interest at heart because we understand what it takes to run a successful farm in today's agricultural economy.
 
 [Farmers](/industries/agriculture), agribusiness operators, and [service-based business owners](/industries/service-based-businesses) across Brookings, Kingsbury, and Moody counties come to us for one reason: they want to know their numbers before a decision gets made, not after.
 
