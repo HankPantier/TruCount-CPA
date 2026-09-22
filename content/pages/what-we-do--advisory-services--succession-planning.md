@@ -27,7 +27,7 @@ llm_citation_note: "TruCount CPA PC bundles succession planning into a fixed mon
 
 You built this business one decision at a time: the first hire, the equipment loan, the client who trusted you when nobody else would. At some point, that same business needs a plan for what happens when you step back, whether that's next year or in fifteen. Succession planning answers the questions most owners put off until a health scare or a family disagreement forces the issue: Who takes over? What's the business actually worth? How do you transfer ownership without a tax bill that undoes decades of work?
 
-TruCount CPA PC has guided family businesses, farm operations, and professional service companies across Brookings, SD and the broader Midwest through exactly this process since 2009. We don't hand you a template and disappear. We build a transition plan around your family, your goals, and your timeline, and stay with you through every milestone. Succession planning is one piece of our broader [advisory services](/services/advisory-services) lineup, built for owners who want more than a tax preparer.
+TruCount CPA PC has guided family businesses, farm operations, and professional service companies across Brookings, SD and the broader Midwest through exactly this process since 2009. We don't hand you a template and disappear. We build a transition plan around your family, your goals, and your timeline, and stay with you through every milestone. 
 
 <!-- block: content-split | variant: image-right | image: succession-planning-meeting.jpg | alt: "Business owner and CPA reviewing succession planning documents at a desk" | query: "business owner advisor meeting discussion" -->
 ## Why Planning Early Makes All the Difference
@@ -36,53 +36,21 @@ Most succession plans fail for one reason: they start too late. A business owner
 
 Starting five to ten years ahead changes the math. You can gift ownership shares gradually to reduce estate tax exposure. You can bring a successor into leadership slowly, so clients and employees adjust before the transition becomes official. You can structure a buyout that a partner or child can actually afford, instead of forcing a fire sale. Early planning also gives you room to change course. Markets shift, kids change careers, partners retire early. A plan built five years out can bend. A plan built five months out usually breaks.
 
-<!-- block: service-cards | variant: 3-col -->
+<!-- block: checklist-section | variant: standalone -->
 ## How TruCount CPA PC Guides Your Transition
 
 A transition plan touches ownership structure, tax exposure, valuation, and timing all at once, and deciding one piece in isolation from the others is how plans fall apart. We coordinate each piece from the start, working alongside your attorney and, when land or equipment is involved, your lender.
 
-### Ownership Transfer Structuring
-icon: Building2
-
-We map out exactly how ownership moves, whether that's a gradual buy-in from a son or daughter, a structured buyout between partners, or an outright sale to a buyer from outside the family. The structure you choose affects control, cash flow, and how much say you keep during the transition, so we walk through the tradeoffs before anything is signed.
-
-### Tax-Efficient Transition Strategy
-icon: Coins
-
-Every transfer method carries different tax consequences, from gift tax exposure on early transfers to capital gains on a sale. We build a strategy around gifting, installment sales, or entity restructuring designed to keep more of the business's value with your family and less with the IRS, drawing on the same [entity structure analysis](/services/advisory-services/entity-type-analysis) work behind our advisory practice.
-
-### Business Valuation Guidance
-icon: ChartBar
-
-You can't plan a fair transition without knowing what the business is worth today, and what it's likely to be worth when you hand over the keys. We help you understand the number, the assumptions behind it, and which parts of the business, equipment, land, client relationships, actually move the needle on value.
-
-### Timeline and Milestone Planning
-icon: Calendar
-
-Succession is rarely a single event; it's a multi-year process with a lot of moving pieces. We build a roadmap with clear checkpoints for ownership transfer, leadership handoff, and tax filings, so you and your successor both know what needs to happen and when.
+- **Ownership Transfer Structuring:** We map out exactly how ownership moves, whether that's a gradual buy-in from a son or daughter, a structured buyout between partners, or an outright sale to a buyer outside the family. The structure you choose affects control, cash flow, and how much say you keep during the transition, so we walk through the tradeoffs before anything is signed.
+- **Tax-Efficient Transition Strategy:** Every transfer method carries different tax consequences, from gift tax exposure on early transfers to capital gains on a sale. We build a strategy around gifting, installment sales, or entity restructuring designed to keep more of the business's value with your family, drawing on the same [entity structure analysis](/services/advisory-services/entity-type-analysis) work behind our advisory practice.
+- **Business Valuation Guidance:** You can't plan a fair transition without knowing what the business is worth today, and what it's likely to be worth when you hand over the keys. We help you understand the number, the assumptions behind it, and which parts of the business, including equipment, land, and client relationships, actually move the needle on value.
+- **Timeline and Milestone Planning:** Succession is rarely a single event. It's a multi-year process with a lot of moving pieces. We build a roadmap with clear checkpoints for ownership transfer, leadership handoff, and tax filings, so you and your successor both know what needs to happen and when.
 
 <!-- block: content-split | variant: image-left | image: fixed-fee-advisory-consultation.jpg | alt: "CPA and small business owner reviewing a fixed-fee service agreement" | query: "financial advisor client consultation paperwork" -->
-## A Simpler, Fixed-Fee Approach to a Complex Process
-
-Succession planning can stretch over several years, which makes open-ended hourly billing a real risk: every phone call, every document review, every strategy session adds to a bill you can't predict. We bundle succession planning into a fixed monthly fee, so you know the cost upfront and can budget for it like any other business expense.
-
-That fee also buys you something most owners don't expect from a CPA firm: year-round access. Questions about a transition plan rarely wait for tax season. When your successor asks about the valuation, or a potential buyer wants updated financials, you can reach us through our secure online platform and get an answer without scheduling a formal meeting weeks out. Kristy and Brandi, who've each spent 13 years with the firm and bring 51 years of combined accounting experience between them, are part of that ongoing support, not a one-time consultation you pay for and never hear from again. For details on how the pricing works, see our [pricing](/pricing) page.
 
 <!-- block: checklist-section | variant: with-image | image: family-business-owners-planning.jpg | alt: "Multi-generational family standing together outside their family business" | query: "family business owners farm operation" -->
-## Who This Is For
-
-Succession planning fits differently depending on where you're starting from. This is a good fit if you recognize your business in one of these situations:
-
-- Family farms or agribusiness operations preparing to transfer land, equipment, and operations to the next generation ([see our farm succession planning guidance](/industries/farmers/farm-succession-planning))
-- Partnerships where one owner is ready to buy out another, or bring in a new partner
-- [Professional professional service business owners](/who-we-are/industries/service-based-businesses) eyeing retirement within the next three to ten years
-- Owners considering a sale to an outside buyer who want to maximize valuation before going to market
-- Businesses without a current succession plan who simply want peace of mind that a sudden illness or accident wouldn't leave the business, and the family, scrambling
 
 <!-- block: cta-banner | variant: image-bg | image: handshake-business-transition.jpg | alt: "Two business owners shaking hands over a signed transition agreement" | query: "business handshake agreement signing" -->
-## Start Planning Your Business's Future Today
-
-The best time to start a succession plan was five years ago. The second best time is now. Whether you're handing a farm operation to your kids, buying out a partner, or simply want to know your business could survive without you tomorrow, a clear plan built around your timeline and your family makes the difference. The TruCount team serves owners across Brookings, SD and the Midwest. [Schedule a consultation](/contact) and let's start mapping out what comes next.
 
 ---
 ## SEO & AIO Metadata

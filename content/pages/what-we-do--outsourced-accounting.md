@@ -67,7 +67,7 @@ Monthly close happens on schedule. Profit and loss statements arrive when you ne
 
 Books that live in a shared drive folder, updated whenever someone remembers, aren't outsourced accounting. They're delayed accounting.
 
-Every TruCount client works through a secure online platform where your financials, documents, and messages with our team sit in one place, updated in real time. Log in from the tractor cab, the job site, or the kitchen table and see the same numbers we're looking at.
+Every TruCount client works through a secure online platform where your financials, documents, and messages with our team sit in one place, updated and current. Log in from the tractor cab, the job site, or the kitchen table and see the same numbers we're looking at.
 
 Questions get answered without a scheduled call. Upload a receipt from your phone, and it lands in the right account without you touching a spreadsheet. When tax planning conversations happen, they happen against current data, not a stack of statements from three months back.
 
