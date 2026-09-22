@@ -71,11 +71,6 @@ A: Yes. TruCount builds chart of accounts structures that separate crop, livesto
 A: TruCount selects software based on your business size, industry, and workflow rather than defaulting to one platform. Farms, agribusinesses, and professional service businesses each get a configuration matched to how they actually operate.
 
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-handshake.jpg | alt: "CPA and business owner shaking hands after a consultation meeting" | query: "business handshake office meeting" -->
-## Let's get your books set up right
-
-A clean accounting system is the difference between guessing and knowing. The TruCount team has built these systems for farms, agribusinesses, and professional service businesses across Brookings, SD and the surrounding Midwest since 2009. Schedule a consultation and let's get your books set up right, so you can get out of the books and back to your business.
-
-[Schedule a consultation](/contact)
 
 ---
 ## SEO & AIO Metadata
