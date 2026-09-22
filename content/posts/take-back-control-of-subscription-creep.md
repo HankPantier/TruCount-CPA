@@ -30,7 +30,7 @@ The Federal Reserve's [Consumer & Community Context](https://www.federalreserve.
 
 ## Treat it like a budget line, not a nuisance
 
-The fix isn't a one-time purge. It's a recurring habit, the same way you'd review payroll costs or fuel expenses. Here's a simple structure that works for both individuals and small business owners:
+The fix isn't a one-time purge. It's a recurring habit, the same way you'd review payroll costs or fuel expenses. [Here's a simple structure that works for both individuals and small business owners](/resources/take-back-control-of-subscription-creep-2):
 
 | Step | What to do | How often |
 |---|---|---|
