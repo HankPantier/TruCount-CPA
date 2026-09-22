@@ -37,32 +37,8 @@ A good setup isn't just picking software off a shelf. It's making sure every pie
 - Reporting structure designed to answer the questions you actually ask, not generic templates nobody reads
 
 <!-- block: content-split | variant: image-right | image: farm-fields-accounting-records.jpg | alt: "Farmer reviewing financial records with crop fields visible outside" | query: "farmer reviewing paperwork office" -->
-## Built for farm and agribusiness accounting realities
-
-Farm accounting doesn't fit neatly into off-the-shelf software defaults. You need enterprise-level tracking that separates crop income from livestock income, equipment depreciation schedules that hold up at tax time, and cash flow reporting that accounts for the fact that most of your revenue lands in a six-week window each fall. Generic bookkeeping setups miss all of it. TruCount's ag clients across the Brookings, SD area and the broader Midwest get a system built to track these realities from day one, along with year-round guidance on opportunities like the R&D credit for qualifying farm activities and the excess fertility deduction, both of which require the underlying accounting to be structured correctly to claim. If your current setup can't answer "which enterprise made money this year" in under a minute, it's not built for your operation. Our clients get a system built to track these realities from day one, along with year-round guidance on opportunities like the R&D credit for qualifying farm activities and the excess fertility deduction, both of which require the underlying accounting to be structured correctly to claim. If your current setup can't answer "which enterprise made money this year" in under a minute, it's not built for your operation.
 
 <!-- block: content-split | variant: image-left | image: service-business-owner-laptop-review.jpg | alt: "professional professional service business owner reviewing financial reports on a laptop screen" | query: "small business owner reviewing laptop reports" -->
-## A system that fits professional service businesses
-
-Agriculture isn't the only client we build for. Professional services businesses come to us with a different set of tangles: job costing that doesn't tie back to actual profitability, recurring billing that's tracked in someone's memory instead of the system, or multiple entities whose numbers need to stay separate but visible in one place. We set up your chart of accounts to track profitability by project, client, or service line, connect recurring billing so invoices go out on schedule, and structure multi-entity reporting so ownership sees the full picture without wading through five different logins. Whether you run a single-location practice or a small group of related companies, the system should make decisions easier, not harder.
-
-<!-- block: feature-grid | variant: 3-col -->
-## Why work with TruCount instead of going it alone
-
-### One fixed monthly fee
-icon: DollarSign
-
-Setup, ongoing accounting, and support are bundled into one predictable monthly rate. No surprise invoices for a phone call or a follow-up question.
-
-### Online collaboration
-icon: Cog
-
-Our secure online platform gives you and our team access to the same live data, so questions get answered in days, not at the end of the quarter.
-
-### Advice built for your season
-icon: Lightbulb
-
-You get personalized, year-round tax and business guidance from a team that already knows your numbers, not a once-a-year phone call in April.
 
 <!-- block: process-steps | variant: vertical -->
 ## How setup works from start to finish
@@ -95,11 +71,6 @@ A: Yes. TruCount builds chart of accounts structures that separate crop, livesto
 A: TruCount selects software based on your business size, industry, and workflow rather than defaulting to one platform. Farms, agribusinesses, and professional service businesses each get a configuration matched to how they actually operate.
 
 <!-- block: cta-banner | variant: image-bg | image: cpa-consultation-handshake.jpg | alt: "CPA and business owner shaking hands after a consultation meeting" | query: "business handshake office meeting" -->
-## Let's get your books set up right
-
-A clean accounting system is the difference between guessing and knowing. The TruCount team has built these systems for farms, agribusinesses, and professional service businesses across Brookings, SD and the surrounding Midwest since 2009. Schedule a consultation and let's get your books set up right, so you can get out of the books and back to your business.
-
-[Schedule a consultation](/contact)
 
 ---
 ## SEO & AIO Metadata
