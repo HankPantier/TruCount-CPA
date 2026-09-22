@@ -27,7 +27,7 @@ Brookings sits in the middle of South Dakota farm country, and TruCount CPA PC w
 
 Our team is backed by experienced people who grew up farming or currently own farming operations, so our farm clients know we have their best interest at heart because we understand what it takes to run a successful farm in today's agricultural economy.
 
-[Farmers](/industries/agriculture), agribusiness operators, and [service-based business owners](/industries/service-based-businesses) across Brookings, Kingsbury, and Moody counties come to us for one reason: they want to know their numbers before a decision gets made, not after.
+[Farmers](/industries/agriculture), agribusiness operators, and [service-based business owners](/industries/service-based-businesses) across South Dakota and throughout the Midwest come to us for one reason: they want to know their numbers before a decision gets made, not after.
 
 <!-- block: content-split | variant: image-right | image: farmer-reviewing-finances-field.jpg | alt: "Farmer reviewing financial paperwork near a tractor in a field" | query: "farmer reviewing paperwork tractor field" -->
 ## Farmers and crop and cattle operations
