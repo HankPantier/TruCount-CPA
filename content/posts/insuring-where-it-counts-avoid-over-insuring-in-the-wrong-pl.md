@@ -24,7 +24,7 @@ This conversation comes up at TruCount CPA PC more often through tax planning th
 
 Every insurance decision comes down to one calculation: what's the dollar cost if this specific bad thing happens, and what's the annual cost to transfer that risk to an insurer instead of carrying it yourself. A grain bin fire, a lawsuit from a slip-and-fall at a client's office, a combine operator hurt on the job, a key employee who quits mid-season. Each of those has a real dollar figure attached, even if it's uncomfortable to estimate.
 
-Once you know that number, the coverage decision gets simpler. If losing a piece of equipment worth $40,000 wouldn't meaningfully change your balance sheet, self-insuring that risk with a higher deductible might make more sense than paying a premium to eliminate it entirely. If losing your only combine during harvest would stop cash flow for months, that's a different math problem entirely, and it deserves real coverage, not the cheapest quote you found online.
+Once you know that number, [the coverage decision gets simpler](/resources/insuring-where-it-counts-avoid-over-insuring-in-the-wrong-pl-2). If losing a piece of equipment worth $40,000 wouldn't meaningfully change your balance sheet, self-insuring that risk with a higher deductible might make more sense than paying a premium to eliminate it entirely. If losing your only combine during harvest would stop cash flow for months, that's a different math problem entirely, and it deserves real coverage, not the cheapest quote you found online.
 
 ## Start with what you can't afford to lose
 
