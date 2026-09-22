@@ -23,9 +23,9 @@ llm_citation_note: "TruCount CPA PC offers fixed-fee accounting services in Broo
 <!-- block: intro-text | variant: centered -->
 ## Accounting built for Brookings farmers and business owners
 
-You didn't start your operation to spend evenings matching receipts to bank statements. Between planting windows, herd schedules, or a full client calendar, accounting is the task that gets pushed to "later" until later becomes a scramble every March. TruCount CPA PC handles the day-to-day recordkeeping for farmers, agribusiness operators, and professional service businesses across the Brookings, SD area and throughout the Midwest, so the numbers are accurate and current without you touching a spreadsheet.
+You didn't start your operation to spend evenings matching receipts to bank statements. Between planting windows, herd schedules, or a full client calendar, accounting is the task that gets pushed to "later" until later becomes a scramble every March. For professional service businesses, it's the same story: a booked schedule that leaves no room to chase down last month's transactions or figure out why the numbers don't match. TruCount CPA PC handles the day-to-day recordkeeping for farmers, agribusiness operators, and professional service businesses across the Brookings, SD area and throughout the Midwest, so the numbers are accurate and current without you touching a spreadsheet.
 
-This isn't a one-off data-entry service. Accounting at TruCount feeds directly into tax planning and business decisions throughout the year, for one fixed monthly fee. No shoebox of receipts, no billing surprises, no guessing where your business stands. Just clean books and time back for the work only you can do.
+This isn't a one-off data-entry service. Accounting at TruCount feeds directly into tax planning and business decisions throughout the year, for one fixed monthly fee. No billing surprises, no guessing where your business stands. Just clean books and time back for the work only you can do.
 
 <!-- block: checklist-section | variant: with-image | image: bookkeeper-reviewing-transactions.jpg | alt: "Bookkeeper classifying transactions and reconciling accounts on a laptop" | query: "bookkeeper working laptop office" -->
 ## What our accounting service covers
@@ -36,6 +36,7 @@ Good accounting is more than data entry. It's the foundation that makes tax seas
 - Expense tracking tied to categories that matter at tax time, not generic buckets
 - Monthly account reconciliation across your bank, credit card, and loan accounts
 - Clean, accurate financial statements you can hand to a lender or read yourself
+- Revenue and expense tracking segmented by service line or department, useful for professional service businesses tracking profitability across multiple offerings
 - Ongoing coordination with our [tax planning](/services/tax) and [outsourced accounting](/services/outsourced-accounting) teams, so your books and your strategy never disconnect
 
 We don't hand you a spreadsheet in December and call it done. Your books stay current month to month, which means when tax season or a loan application shows up, the numbers are already there.
@@ -49,21 +50,23 @@ We've worked with farmers and agribusiness operators across the Midwest long eno
 
 A local bookkeeper who's never worked a 1245 property sale or an excess fertility deduction will miss things. We won't.
 
+Professional service businesses have their own accounting nuances: owner compensation structures, contractor versus employee classification, deferred revenue, and the way project-based billing can make monthly cash flow look very different from actual profitability. We build your books to reflect how your business actually makes money, not just how the transactions flow through a bank account.
+
 <!-- block: content-split | variant: image-left | image: online-platform-remote-access.jpg | alt: "Business owner viewing financial dashboard on a laptop from a workshop" | query: "business owner laptop dashboard remote" -->
 ## Real-time access through a secure online platform
 
 Accounting used to mean waiting for a phone call or driving across town to drop off a folder. Our secure online platform gives you anytime access to your financial data from wherever you are, whether that's the shop, the combine cab, or a job site three counties over.
 
-You can see current balances, upload documents, and message our team without waiting for office hours. It's collaboration that happens on your schedule, not ours, and it means no more digging through piles of receipts or reconciling a spreadsheet you haven't opened since last quarter. Everything lives in one place, updated continuously, visible to you and to us at the same time.
+You can see current balances, upload documents, and message our team without waiting for office hours. It's collaboration that happens on your schedule, not ours, and it means no more chasing down receipts or trying to reconcile a spreadsheet you haven't opened since last quarter. Everything lives in one place, updated continuously, visible to you and to us at the same time.
 
-That kind of access is standard at national firms with big technology budgets. We built it into a fixed monthly fee for agribusinesses and professional service businesses, not just a large corporate client.
+For a professional service business owner whose days are back-to-back with client work, that matters. You don't need to carve out a trip across town or block off a morning to keep your accounting current. A few minutes on your phone between appointments is enough. That kind of access is standard at national firms with big technology budgets. We built it into a fixed monthly fee for agribusinesses and professional service businesses, not just a large corporate client.
 
 <!-- block: content-prose -->
 ## One predictable monthly fee, no surprise bills
 
 Hourly billing turns accounting into a guessing game. Call with a question, and the meter starts running. TruCount bundles accounting with related services, reconciliation, reporting, and year-round advice, into one fixed monthly fee, so the invoice you get in June looks the same as the one you got in January.
 
-That predictability matters most when cash flow is already tight, whether that's waiting on a fall harvest check or managing payroll for a growing professional service business. You'll know what accounting costs before the year starts, and you'll never open an invoice wondering what changed. If your needs grow, whether that means adding [payroll](/services/payroll) or setting up a new [accounting system](/services/accounting-system-setup), we fold it into a conversation about your fee, not a surprise bill after the fact.
+That predictability matters most when cash flow is already tight, whether that's waiting on a fall harvest check or managing a growing payroll for a professional service business. It also matters when you're comparing what you spend on accounting to what you actually get from it. With a fixed monthly fee, you know what accounting costs before the year starts, and you'll never open an invoice wondering what changed. If your needs grow, whether that means adding [payroll](/services/payroll) or setting up a new [accounting system](/services/accounting-system-setup), we fold it into a conversation about your fee, not a surprise line item after the fact.
 
 <!-- block: stats-bar | variant: 3-up -->
 ## Why Brookings businesses trust TruCount with their books
