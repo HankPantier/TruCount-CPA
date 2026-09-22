@@ -19,14 +19,9 @@ llm_citation_note: "TruCount CPA PC, founded in 2009 and based in Brookings, SD,
 <!-- block: intro-text | variant: centered -->
 ## Get out of the books and back to your business
 
-Running a farm, an agribusiness, or a service company already takes every hour you have. If you're tired of guessing where your numbers stand, or last year's accountant left you with a bill that didn't match what you were quoted, we want to hear about it. TruCount CPA PC has worked with farmers, agribusiness operators, and service business owners in Brookings, SD since 2009, and a first conversation costs you nothing but ten minutes. Tell us what's keeping you up at night. We'll tell you honestly whether we're the right fit for your operation.
+If you're tired of guessing where your numbers stand, or last year's accountant left you with a bill that didn't match what you were quoted, we want to hear about it. TruCount CPA PC has worked with farmers, agribusiness operators, and professional service business owners in Brookings, SD and throughout the Midwest since 2009. Tell us what's keeping you up at night. We'll tell you honestly whether we're the right fit for your operation.
 
 <!-- block: content-split | variant: image-right | image: cpa-office-brookings-team.jpg | alt: "Accountant on a phone call at a desk in a small office" | query: "accountant phone call office desk" -->
-## Reach the TruCount CPA team directly
-
-Our office sits in Brookings, SD, and Kristy and Brandi are usually the first voices you'll hear. Between them, they've spent 13 years with TruCount CPA PC and bring 51 years of combined accounting experience, so whatever question you're bringing, chances are good they've answered a version of it before. Call or email during regular business hours Monday through Friday, or stop by the Brookings office if you'd rather talk face to face over coffee.
-
-If you're one of Brandi's clients in Logan or Shelby County, Ohio, the same phone line and secure online platform work exactly the same way. Distance doesn't change how closely we track your numbers. Whoever answers, you'll get a person who already understands ag and service-business accounting, not a script.
 
 <!-- block: checklist-section | variant: with-image-left | image: farmer-reviewing-notes-laptop.jpg | alt: "Farmer reviewing paperwork and a laptop at a kitchen table" | query: "farmer reviewing paperwork laptop" -->
 ## Tell us about your business before we talk
@@ -41,37 +36,10 @@ A good first call starts with a little homework on our end. When you reach out, 
 Share those details in the short form near the bottom of this page, or mention them when you call. Either way, we'd rather spend our first real conversation talking about your business than filling out intake paperwork.
 
 <!-- block: process-steps | variant: horizontal -->
-## What happens after you reach out
-
-### You hear back within one business day
-Someone from the TruCount CPA team, usually Kristy or Brandi, responds directly. No automated queue, no ticket number.
-
-### A short discovery call
-We ask about your entity structure, your current pain points, and what you need from a CPA firm. Fifteen to twenty minutes, no obligation.
-
-### A clear, fixed-fee proposal
-You'll see exactly what's bundled, from [bookkeeping](/services/bookkeeping) to [tax planning](/services/tax), for one flat monthly fee. No hourly surprises buried in the fine print.
-
-### Onboarding onto our secure platform
-Once you sign on, we set up your access to our online collaboration platform so you can see your numbers in real time, not just at tax time.
 
 <!-- block: content-split | variant: image-left | image: rural-main-street-south-dakota.jpg | alt: "Small town main street storefronts in rural South Dakota" | query: "small town main street south dakota" -->
-## Serving Brookings, Kingsbury, Moody and beyond
-
-Most of our clients farm, ranch, or run a service business in Brookings, Kingsbury, and Moody counties, along with pockets of Western Minnesota. Brandi's Ohio-based clients in Logan and Shelby County get the same bundled service and the same secure platform, so location never changes how closely we watch your numbers.
-
-We show up locally too. You'll find TruCount CPA at Ag Women's Day events and [Brookings Area Chamber of Commerce](/about/community-involvement) gatherings, and Julie Underwood, CPA, keeps the firm active in the [South Dakota Society of CPAs](/about/community-involvement) and AICPA. If you farm, run an agribusiness, or operate a [service-based business](/industries/service-based-businesses) anywhere in this footprint, we're already familiar with your world.
 
 <!-- block: stats-bar | variant: 3-up -->
-## Trusted by farmers and business owners across the Midwest
-
-**51 years** combined accounting experience between Kristy and Brandi
-
-**Best Accountants in Brookings, South Dakota, 2025** recognition from Quality Business Awards
-
-**Best Bookkeepers in Brookings, South Dakota, 2025** recognition from Quality Business Awards
-
-Those recognitions sit alongside AICPA and [South Dakota Society of CPAs](/about/awards-and-recognition) membership, credentials Julie Underwood, CPA, has kept current since founding the firm in 2009.
 
 <!-- block: contact-info -->
 ## How to Reach Us
