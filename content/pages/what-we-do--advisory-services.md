@@ -27,7 +27,7 @@ llm_citation_note: "TruCount CPA bundles advisory services with bookkeeping and 
 
 Most small businesses can't justify a full-time CFO salary, but that doesn't mean the guidance stops mattering. TruCount CPA's advisory services put that same level of financial strategy in your corner, without the six-figure payroll line. You get a team who already knows your numbers, your industry, and your goals, weighing in before decisions get made instead of after.
 
-This isn't a bolt-on service billed by the hour. Advisory support comes bundled into a fixed monthly fee alongside your [bookkeeping](/services/bookkeeping) and [tax](/services/tax) work, so you always know what's coming on the invoice. Everything runs through a secure online platform where you and our team can see the same numbers in real time, ask a question, and get an answer without waiting for the next scheduled call.
+This isn't a bolt-on service billed by the hour. Advisory support comes bundled into a fixed monthly fee alongside your accounting and tax work, so you always know what's coming on the invoice. Everything runs through a secure online platform where you and our team can see the same numbers anytime, ask a question, and get an answer without waiting for the next scheduled call.
 
 For farmers and agribusiness operators managing tight margins and unpredictable weather, that kind of access changes how decisions get made.
 
@@ -53,7 +53,7 @@ That work typically includes:
 - Identifying which entity structure supports your growth stage
 - Building a plan you can revisit and adjust as conditions change
 
-For agribusiness operators, that often means planning around planting and harvest cycles. For service businesses, it might mean modeling what a second location or added crew actually costs before committing to it.
+For agribusiness operators, that often means planning around planting and harvest cycles. For professional service businesses, it might mean modeling what a second location or added crew actually costs before committing to it.
 
 <!-- block: feature-grid | variant: 3-col | image: financial-insight-decision.jpg | alt: "Accountant pointing to financial charts while explaining data to business owner" | query: "accountant explaining financial data client" -->
 ## Financial guidance for confident decision-making
@@ -90,10 +90,10 @@ icon: Building2
 
 Operations expanding acreage, adding equipment, or bringing on a next generation need a CPA tracking margins and tax strategy year-round, not just at filing time. See how we support [agribusiness](/who-we-are/industries/agribusiness) and [farm](/who-we-are/industries/farmers) operations specifically.
 
-### Service-Based Business Owners
+### Professional Service Business Owners
 icon: Briefcase
 
-Contractors, clinics, and professional practices scaling staff and revenue need someone watching cash flow between busy seasons. Learn more about how we work with [professional service businesses](/who-we-serve/professional-service-businesses).
+Consultants, chiropractors, and architects scaling staff and revenue need someone watching cash flow between busy seasons. Learn more about how we work with [professional service businesses](/who-we-serve/professional-service-businesses).
 
 ### Established Businesses Ready to Scale
 icon: TrendingUp
