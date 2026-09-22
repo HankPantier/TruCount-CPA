@@ -40,24 +40,6 @@ A good setup isn't just picking software off a shelf. It's making sure every pie
 
 <!-- block: content-split | variant: image-left | image: service-business-owner-laptop-review.jpg | alt: "professional professional service business owner reviewing financial reports on a laptop screen" | query: "small business owner reviewing laptop reports" -->
 
-<!-- block: feature-grid | variant: 3-col -->
-## Why work with TruCount instead of going it alone
-
-### One fixed monthly fee
-icon: DollarSign
-
-Setup, ongoing accounting, and support are bundled into one predictable monthly rate. No surprise invoices for a phone call or a follow-up question.
-
-### Online collaboration
-icon: Cog
-
-Our secure online platform gives you and our team access to the same live data, so questions get answered in days, not at the end of the quarter.
-
-### Advice built for your season
-icon: Lightbulb
-
-You get personalized, year-round tax and business guidance from a team that already knows your numbers, not a once-a-year phone call in April.
-
 <!-- block: process-steps | variant: vertical -->
 ## How setup works from start to finish
 
