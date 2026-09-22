@@ -28,7 +28,7 @@ Buying means you're financing the entire purchase price, so your payment is high
 
 ## The cash flow math that matters more than the monthly payment
 
-Monthly payment tunnel vision is the single biggest mistake we see, especially with business owners who are used to thinking in terms of "can I afford the payment" rather than "what does this cost me over the life of the vehicle."
+Monthly payment tunnel vision is the single biggest mistake we see, especially with business owners who are used to thinking in terms of "can I afford the payment" rather than "what does this cost me over the life of the vehicle"—a [money mindset issue](/resources/your-money-mindset-is-costing-your-small-business-more-than) that repeats across decisions year after year.
 
 Run the numbers over the full term, not just one month:
 
