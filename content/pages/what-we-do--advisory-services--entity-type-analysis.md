@@ -67,26 +67,6 @@ Here's what's typically involved:
 - Updating your accounting system and books to reflect the new structure
 - Coordinating the change with your existing accounting and tax work so nothing gets missed at year-end
 
-<!-- block: feature-grid | variant: 3-col -->
-## Why Brookings area businesses trust TruCount for entity decisions
-
-Entity type analysis at TruCount isn't a one-time consult billed by the hour. It's part of a bundled, [outsourced accounting](/services/outsourced-accounting) relationship built around a few things Brookings area farmers and professional professional professional professional service business owners tell us they were missing elsewhere.
-
-### Fixed monthly fee
-icon: DollarSign
-
-Entity analysis, filings, and ongoing tax planning are bundled into one predictable monthly fee, so a structure review never shows up as a surprise invoice.
-
-### Secure online collaboration
-icon: ShieldCheck
-
-You can see your numbers and the reasoning behind a structure recommendation in real time through our secure online platform, instead of waiting for a phone call back.
-
-### Year-round advice
-icon: Lightbulb
-
-Entity decisions don't happen once a year. We revisit your structure as income and family circumstances change, not just at tax time.
-
 <!-- block: faq-accordion -->
 ## Frequently Asked Questions About Entity type analysis
 
