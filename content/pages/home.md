@@ -82,7 +82,7 @@ Being caught off guard by your own finances is the problem we hear most often, f
 The goal is simple: you should never have to wonder where your business stands.
 
 <!-- block: faq-accordion -->
-## Frequently Asked Questions About Home
+## Frequently Asked Questions
 
 **Q: Is TruCount CPA PC a local CPA firm in Brookings, SD?**
 A: Yes. TruCount CPA PC is based in Brookings, SD, founded in 2009, and serves farmers, agribusiness operators, and professional service businesses in the Brookings, SD, area and across the Midwest.
