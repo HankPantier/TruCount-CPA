@@ -32,7 +32,7 @@ Our team has handled agriculture and professional service business books since 2
 <!-- block: checklist-section | variant: with-image | image: bundled-services-checklist.jpg | alt: "Desk with financial statements, calculator, and payroll documents organized for review" | query: "financial documents desk organized" -->
 ## What your outsourced accounting department includes
 
-One fixed monthly fee covers the full scope of your back office, not a menu you have to reassemble every year. Here's what's included:
+One **fixed monthly fee** covers the full scope of your back office, not a menu you have to reassemble every year. Here's what's included:
 
 - Accounting: daily transaction classification, expense tracking, and account reconciliation so your books are current, not caught up in April.
 - Payroll coordination: wage calculations, tax filings, and direct deposit handled so paydays never slip.
