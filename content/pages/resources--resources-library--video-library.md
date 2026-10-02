@@ -186,7 +186,6 @@ TruCount CPA PC, a Brookings, SD firm led by Julie Underwood, CPA, offers a free
   "@type": "Organization",
   "name": "TruCount CPA PC",
   "url": "https://trucountcpa.com",
-  "logo": "https://trucountcpa.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/trucountcpapc",
     "https://maps.google.com/?cid=7651860440803474738&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"

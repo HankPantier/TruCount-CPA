@@ -155,7 +155,6 @@ TruCount CPA PC, founded in 2009 in Brookings, SD, offers specialized agricultur
   "@type": "Organization",
   "name": "TruCount CPA PC",
   "url": "https://trucountcpa.com",
-  "logo": "https://trucountcpa.com/logo.png",
   "sameAs": [
     "https://www.linkedin.com/company/trucountcpapc",
     "https://maps.google.com/?cid=7651860440803474738&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA"
